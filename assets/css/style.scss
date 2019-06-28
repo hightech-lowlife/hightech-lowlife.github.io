@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+body {background-color: #222222; color: #a2a2a2;}
+* {box-sizing: content-box;}
+.page-header {background-color: #1d1d1d; background-image: none;}
+.main-content pre {background-color: #1d1d1d; border-radius: 0; border: solid 1px #555555;}
+.main-content pre>code {color: #888888;}
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {color: #e0e0e0}
+a {color: #b56f25;}
