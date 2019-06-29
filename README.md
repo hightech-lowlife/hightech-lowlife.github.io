@@ -3,6 +3,18 @@
 You can use the [editor on GitHub](https://github.com/hightech-lowlife/hightech-lowlife.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```
+ __      __                   ___                           __  __                   __                                 __     
+/\ \  __/\ \  __             /\_ \                         /\ \/\ \                 /\ \                               /\ \    
+\ \ \/\ \ \ \/\_\  _ __    __\//\ \      __    ____    ____\ \ \/'/'     __   __  __\ \ \____    ___      __     _ __  \_\ \   
+ \ \ \ \ \ \ \/\ \/\`'__\/'__`\\ \ \   /'__`\ /',__\  /',__\\ \ , <    /'__`\/\ \/\ \\ \ '__`\  / __`\  /'__`\  /\`'__\/'_` \  
+  \ \ \_/ \_\ \ \ \ \ \//\  __/ \_\ \_/\  __//\__, `\/\__, `\\ \ \\`\ /\  __/\ \ \_\ \\ \ \L\ \/\ \L\ \/\ \L\.\_\ \ \//\ \L\ \ 
+   \ `\___x___/\ \_\ \_\\ \____\/\____\ \____\/\____/\/\____/ \ \_\ \_\ \____\\/`____ \\ \_,__/\ \____/\ \__/.\_\\ \_\\ \___,_\
+    '\/__//__/  \/_/\/_/ \/____/\/____/\/____/\/___/  \/___/   \/_/\/_/\/____/ `/___/> \\/___/  \/___/  \/__/\/_/ \/_/ \/__,_ /
+                                                                                  /\___/                                       
+                                                                                  \/__/                                        
+```
+
 
 ### Markdown
 
