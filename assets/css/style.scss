@@ -14,7 +14,7 @@ a {color: #b56f25;}
 .site-footer-credits {color: #a2a2a2;}
 .site-footer {border-top: solid 1px #484848;}
 
-@import compass
+@import "compass/css3"
 
 // n is number of stars required
 @function multiple-box-shadow ($n) 
