@@ -27,7 +27,7 @@ $link-hover-color: #b56f25;
 // Outer navigation wrapper
 .navigation {
   height: $nav-height;
-  background: $nav-background;
+  background: #222222;
 }
 
 // Logo and branding
@@ -96,6 +96,8 @@ nav {
   display: none;
   z-index: 1;
   box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
+  background-color: #222222;
+  opacity: 0.95;
 }
 
 /* Mobile navigation */
