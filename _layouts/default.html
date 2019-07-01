@@ -52,14 +52,15 @@
     $('#nav-toggle').on('click', function() {
       this.classList.toggle('active');
     });
-  }); // end DOM ready
-})(jQuery); // end jQuery
     
-    $('a').hover(function() {
-    $(this).find('a, ul, li, div').fadeIn();
+    $('li').hover(function() {
+    $(this).find('ul, li, div').fadeIn(300);
     }, function() {
-    $(this).find('a, ul, li, div').fadeOut();
+    $(this).find('ul, li, div').fadeOut(300);
     });
+    
+      }); // end DOM ready
+})(jQuery); // end jQuery
     
   </script>
   
