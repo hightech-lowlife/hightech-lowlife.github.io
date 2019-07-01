@@ -21,191 +21,173 @@ img {max-width: 100%; height: auto;}
 @import 'compass';
 @import url(https://fonts.googleapis.com/css?family=Nunito);
 
-/* Color Palletes */
-$white: #fff;
-$blue: cornflowerblue;
-$red: indianred;
-$green: mediumaquamarine;
-$purple: mediumpurple;
-$silver: silver;
-$gray: gray;
-$black: #34495e;
-$pure-black: #222;
+// Navigation Variables
+$content-width: 1000px;
+$breakpoint: 799px;
+$nav-height: 70px;
+$nav-background: #262626;
+$nav-font-color: #ffffff;
+$link-hover-color: #2581DC;
 
-/*Just change the color e.g. $red or $green or define you color as you like....*/
-$navbar-bg: $red;
-
-/* Base Styles */
-*,*:before, *:after {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
+// Outer navigation wrapper
+.navigation {
+  height: $nav-height;
+  background: $nav-background;
 }
 
-html {
-	font-size: 100%;
-	font-family: "Nunito", Arial, sans-serif;
-	font-weight: normal;
-	line-height: 1.5;
-	-webkit-font-smoothing: antialiased;
+// Logo and branding
+.brand {
+  position: absolute;
+  padding-left: 20px;
+  float: left;
+  line-height: $nav-height;
+  text-transform: uppercase;
+  font-size: 1.4em;
+  a,
+  a:visited {
+    color: $nav-font-color;
+    text-decoration: none;
+  }
 }
 
-a {
-	color: $red;
-	opacity: 1;
-	text-decoration: none;
-	&:hover {
-		opacity: 0.85;
-		text-decoration: underline;
-	}
+// Container with no padding for navbar
+.nav-container {
+  max-width: $content-width;
+  margin: 0 auto;
 }
 
-.content {
-	text-align: center;
-	margin-top: 2em;
+// Navigation 
+nav {
+  float: right;
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      float: left;
+      position: relative;
+      a,
+      a:visited {
+        display: block;
+        padding: 0 20px;
+        line-height: $nav-height;
+        background: $nav-background;
+        color: $nav-font-color;
+        text-decoration: none;
+        &:hover {
+          background: $link-hover-color;
+          color: $nav-font-color;
+        }
+        &:not(:only-child):after {
+          padding-left: 4px;
+          content: ' ▾';
+        }
+      } // Dropdown list
+      ul li {
+        min-width: 190px;
+        a {
+          padding: 15px;
+          line-height: 20px;
+        }
+      }
+    }
+  }
 }
 
-
-/* Navigation Styles */
-
-/* Header */
-
-.header {
-	position: relative;
-	width: 100%;
-	background: $navbar-bg;
-	height: 50px;
-	line-height: 50px;
-	box-shadow: 0 -3px 0 darken($navbar-bg, 10%) inset;
+// Dropdown list binds to JS toggle event
+.nav-dropdown {
+  position: absolute;
+  display: none;
+  z-index: 1;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
 }
 
-.wrap {
-	max-width: 960px; /* Changge this with your max-width size */
-	margin: 0 auto;
+/* Mobile navigation */
+
+// Binds to JS Toggle
+.nav-mobile {
+  display: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: $nav-background;
+  height: $nav-height;
+  width: $nav-height;
+}
+@media only screen and (max-width: 798px) {
+  // Hamburger nav visible on mobile only
+  .nav-mobile {
+    display: block;
+  }
+  nav {
+   width: 100%;
+    padding: $nav-height 0 15px;
+    ul {
+      display: none;
+      li {
+        float: none;
+        a {
+          padding: 15px;
+          line-height: 20px;
+        }
+        ul li a {
+          padding-left: 30px;
+        }
+      }
+    }
+  }
+  .nav-dropdown {
+    position: static;
+  }
+}
+@media screen and (min-width: $breakpoint) {
+  .nav-list {
+    display: block !important;
+  }
+}
+#nav-toggle {
+  position: absolute;
+  left: 18px;
+  top: 22px;
+  cursor: pointer;
+  padding: 10px 35px 16px 0px;
+  span,
+  span:before,
+  span:after {
+    cursor: pointer;
+    border-radius: 1px;
+    height: 5px;
+    width: 35px;
+    background: $nav-font-color;
+    position: absolute;
+    display: block;
+    content: '';
+    transition: all 300ms ease-in-out;
+  }
+  span:before {
+    top: -10px;
+  }
+  span:after {
+    bottom: -10px;
+  }
+  &.active span {
+    background-color: transparent;
+    &:before,
+    &:after {
+      top: 0;
+    }
+    &:before {
+      transform: rotate(45deg);
+    }
+    &:after {
+      transform: rotate(-45deg);
+    }
+  }
 }
 
-.logo {
-	font-family: inherit;
-	font-size: 1.5em;
-	margin-left: 1em;
-	a {
-		color: $white;
-		text-decoration: none;
-		opacity: 1;
-		@include transition(all 0.2s ease);
-		&:hover {
-			opacity: 0.85;
-		}
-	}
-}
-
-/* Mobile menu */
-#menu-icon {
-	display: block;
-	position: absolute;
-	top: 0;
-	right: 1em;
-	color: $white;
-	text-decoration: none;
-	font-weight: bold;
-	cursor: pointer;
-	opacity: 1;
-	padding: 0 0.4em;
-
-	&:hover {
-		opacity: 0.85;
-		text-decoration: none;
-		border: none;
-	}
-}
-
-.navbar {
-	background-color: $navbar-bg;
-	float: none;
-	max-height: 0;
-	overflow: hidden;
-	@include transition(max-height .4s);
-
-	.menu {
-		margin: 0;
-		padding: 0;
-		list-style-type: none;
-
-		li {
-			list-style-type: none;
-			display: block;
-		
-			a {
-				display: block;
-				text-decoration: none;
-				color: $white;
-				padding: 0 0.8em;
-				@include transition(all 0.2s ease);
-				border-bottom: 1px solid lighten($navbar-bg, 12%);
-
-				&:hover {
-					background-color: lighten($navbar-bg, 15%);
-					
-				}
-
-				&.active {
-					background-color: lighten($navbar-bg, 10%);
-					
-				}
-			}
-		}
-	}
-}
-
-//increase the max-height if you add more links.
-.expand {
-	max-height: 20em;
-}
-
-@media only screen and (min-width : 768px) {
-
-	.wrap {
-		padding-left: 1em;
-		padding-right: 1em;
-	}
-	
-	.logo {
-		margin-left: 0;
-	}
-
-	.logo, .navbar {
-		display: inline-block;
-	}
-
-	/* Mobile menu icon */
-	#menu-icon {
-		display: none;
-	}
-
-	.navbar {
-		float: right;
-		max-height: none;
-		
-		.menu {
-			box-shadow: 0 -3px 0 darken($navbar-bg, 10%) inset;
-			li {
-				list-style-type: none;
-				display: inline-block;
-				text-align: center;
-				
-				a {
-					display: block;
-					border-bottom: 0;
-
-					&:hover {
-						box-shadow: 0 -3px 0 $navbar-bg inset;
-					}
-
-					&.active {
-						box-shadow: 0 -3px 0 $navbar-bg inset;
-					}
-				}
-			}
-		}
-	}
+// Page content 
+article {
+  max-width: $content-width;
+  margin: 0 auto;
+  padding: 10px;
 }
