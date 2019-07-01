@@ -55,10 +55,10 @@
   }); // end DOM ready
 })(jQuery); // end jQuery
     
-    $('ul li').hover(function() {
-    $(this).find('div').fadeIn();
+    $('a').hover(function() {
+    $(this).find('a, ul, li, div').fadeIn();
     }, function() {
-    $(this).find('div').fadeOut();
+    $(this).find('a, ul, li, div').fadeOut();
     });
     
   </script>
