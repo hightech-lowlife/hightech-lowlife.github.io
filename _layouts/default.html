@@ -54,6 +54,13 @@
     });
   }); // end DOM ready
 })(jQuery); // end jQuery
+    
+    $('ul li').hover(function() {
+    $(this).find('div').fadeIn();
+    }, function() {
+    $(this).find('div').fadeOut();
+    });
+    
   </script>
   
 </html>
