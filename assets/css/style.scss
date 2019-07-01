@@ -16,3 +16,197 @@ img {max-width: 100%; height: auto;}
 .site-footer {border-top: solid 1px #484848;}
 
 /* --- Navbar --- */
+
+@import "compass/css3";
+
+@import 'compass';
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+
+/* Color Palletes */
+$white: #fff;
+$blue: cornflowerblue;
+$red: indianred;
+$green: mediumaquamarine;
+$purple: mediumpurple;
+$silver: silver;
+$gray: gray;
+$black: #34495e;
+$pure-black: #222;
+
+/*Just change the color e.g. $red or $green or define you color as you like....*/
+$navbar-bg: $red;
+
+/* Base Styles */
+*,*:before, *:after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-size: 100%;
+	font-family: "Nunito", Arial, sans-serif;
+	font-weight: normal;
+	line-height: 1.5;
+	-webkit-font-smoothing: antialiased;
+}
+
+a {
+	color: $red;
+	opacity: 1;
+	text-decoration: none;
+	&:hover {
+		opacity: 0.85;
+		text-decoration: underline;
+	}
+}
+
+.content {
+	text-align: center;
+	margin-top: 2em;
+}
+
+
+/* Navigation Styles */
+
+/* Header */
+
+.header {
+	position: relative;
+	width: 100%;
+	background: $navbar-bg;
+	height: 50px;
+	line-height: 50px;
+	box-shadow: 0 -3px 0 darken($navbar-bg, 10%) inset;
+}
+
+.wrap {
+	max-width: 960px; /* Changge this with your max-width size */
+	margin: 0 auto;
+}
+
+.logo {
+	font-family: inherit;
+	font-size: 1.5em;
+	margin-left: 1em;
+	a {
+		color: $white;
+		text-decoration: none;
+		opacity: 1;
+		@include transition(all 0.2s ease);
+		&:hover {
+			opacity: 0.85;
+		}
+	}
+}
+
+/* Mobile menu */
+#menu-icon {
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 1em;
+	color: $white;
+	text-decoration: none;
+	font-weight: bold;
+	cursor: pointer;
+	opacity: 1;
+	padding: 0 0.4em;
+
+	&:hover {
+		opacity: 0.85;
+		text-decoration: none;
+		border: none;
+	}
+}
+
+.navbar {
+	background-color: $navbar-bg;
+	float: none;
+	max-height: 0;
+	overflow: hidden;
+	@include transition(max-height .4s);
+
+	.menu {
+		margin: 0;
+		padding: 0;
+		list-style-type: none;
+
+		li {
+			list-style-type: none;
+			display: block;
+		
+			a {
+				display: block;
+				text-decoration: none;
+				color: $white;
+				padding: 0 0.8em;
+				@include transition(all 0.2s ease);
+				border-bottom: 1px solid lighten($navbar-bg, 12%);
+
+				&:hover {
+					background-color: lighten($navbar-bg, 15%);
+					
+				}
+
+				&.active {
+					background-color: lighten($navbar-bg, 10%);
+					
+				}
+			}
+		}
+	}
+}
+
+//increase the max-height if you add more links.
+.expand {
+	max-height: 20em;
+}
+
+@media only screen and (min-width : 768px) {
+
+	.wrap {
+		padding-left: 1em;
+		padding-right: 1em;
+	}
+	
+	.logo {
+		margin-left: 0;
+	}
+
+	.logo, .navbar {
+		display: inline-block;
+	}
+
+	/* Mobile menu icon */
+	#menu-icon {
+		display: none;
+	}
+
+	.navbar {
+		float: right;
+		max-height: none;
+		
+		.menu {
+			box-shadow: 0 -3px 0 darken($navbar-bg, 10%) inset;
+			li {
+				list-style-type: none;
+				display: inline-block;
+				text-align: center;
+				
+				a {
+					display: block;
+					border-bottom: 0;
+
+					&:hover {
+						box-shadow: 0 -3px 0 $navbar-bg inset;
+					}
+
+					&.active {
+						box-shadow: 0 -3px 0 $navbar-bg inset;
+					}
+				}
+			}
+		}
+	}
+}
