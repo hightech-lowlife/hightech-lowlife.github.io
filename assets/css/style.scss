@@ -38,13 +38,11 @@ $link-hover-color: #b56f25;
   text-transform: uppercase;
   font-size: 1.4em;
   a,
-  a:visited {
+  a:visited,
+  a:hover {
     color: $nav-font-color;
     text-decoration: none;
   }
-  a:hover {
-    text-decoration: none;
-}
 }
 
 // Container with no padding for navbar
