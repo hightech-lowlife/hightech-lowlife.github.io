@@ -42,16 +42,15 @@ $link-hover-color: #b56f25;
     color: $nav-font-color;
     text-decoration: none;
   }
+  a:hover {
+    text-decoration: none;
+}
 }
 
 // Container with no padding for navbar
 .nav-container {
   max-width: $content-width;
   margin: 0 auto;
-}
-
-.nav:hover {
-    text-decoration: none;
 }
 
 // Navigation 
