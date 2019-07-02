@@ -55,10 +55,10 @@
     
     $('li').hover(function() {
     $(this).find('ul, li, div').fadeIn({queue: false, duration: 'slow'});
-    $(this).find('ul, li, div').animate({ top: "-10px" }, 'slow');  
+    $(this).find('ul, li, div').animate({ top: "10px" }, 'fast');  
     }, function() {
     $(this).find('ul, li, div').fadeOut({queue: false, duration: 'slow'});
-    $(this).find('ul, li, div').animate({ top: "-10px" }, 'slow');  
+    $(this).find('ul, li, div').animate({ top: "10px" }, 'fast');  
     });
     
       }); // end DOM ready
