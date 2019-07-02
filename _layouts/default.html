@@ -54,9 +54,11 @@
     });
     
     $('li').hover(function() {
-    $(this).find('ul, li, div').fadeIn(300);
+    $(this).find('ul, li, div').fadeIn({queue: false, duration: 'slow'});
+    $(this).find('ul, li, div').animate({ top: "-10px" }, 'slow');  
     }, function() {
-    $(this).find('ul, li, div').fadeOut(300);
+    $(this).find('ul, li, div').fadeOut({queue: false, duration: 'slow'});
+    $(this).find('ul, li, div').animate({ top: "-10px" }, 'slow');  
     });
     
       }); // end DOM ready
