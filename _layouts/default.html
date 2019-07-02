@@ -54,11 +54,9 @@
     });
     
     $('li').hover(function() {
-    $(this).find('ul, li, div').fadeIn({queue: false, duration: 'slow'});
-    $(this).find('ul, li, div').transition('zoom');  
+    $(this).find('ul, li, div').transition('scale');  
     }, function() {
-    $(this).find('ul, li, div').fadeOut({queue: false, duration: 'slow'});
-    $(this).find('ul, li, div').transition('zoom');  
+    $(this).find('ul, li, div').transition('scale');  
     });
     
       }); // end DOM ready
