@@ -31,7 +31,7 @@
   </body>
 
   <script type="text/javascript">
-  (function($) { // Begin jQuery
+    (function($) { // Begin jQuery
   $(function() { // DOM ready
     // If a link has a dropdown, add sub menu toggle.
     $('nav ul li a:not(:only-child)').click(function(e) {
@@ -53,15 +53,15 @@
       this.classList.toggle('active');
     });
     
-    $('li').hover(function() {
-    $(this).find('nav ul li').transition('fade down');  
+    $('li').hover(function() { 
+    $(this).find('ul').slideDown(200); 
+    
     }, function() {
-    $(this).find('nav ul li').transition('fade up');  
+    $(this).find('ul').slideUp(200);  
     });
     
       }); // end DOM ready
 })(jQuery); // end jQuery
-    
   </script>
   
 </html>
