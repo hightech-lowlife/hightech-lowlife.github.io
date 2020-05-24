@@ -6,7 +6,7 @@ This isn't really a tutorial, so apologies if it's not step-by-step, just take w
 
 I originally was just going to use my ThinkPad W541 for music production, but I had a 2560x1080 ultrawide monitor I wanted to use. The monitor is a Korean off-brand (Crossover) and only has a single DVI port, but no worries I can use an adapter or a dock, but soon I realized. This monitor for whatever reason would not display when attached to my W541. I tried adapters, different cables, docks, what-have-you, no signal. It works just fine with my desktop computers so I'm not sure what the problem is with this combo*.  Sometimes it's easier just to change your mind or direction on a project which can yield a quicker or even better solution, and I did have a bunch of parts laying around to build a desktop, so here I go. 
 
-[img1 laptop]
+![](01_laptop.jpg)
 
 * *[ After some testing much later on I realized that this monitor could not be used if you were using it paired with a another monitor as well (multi-monitor). I had never encountered this before, but I confirmed by plugging in the Crossover monitor on a system I knew it worked with, and then as soon as I plugged in another monitor the Crossover would go black and not display signal anymore, as soon as I unplugged the 2nd monitor then the Crossover would come back to life and display correctly. Since all laptops inherently have a monitor already, any monitor you attach to them will be the 2nd monitor, so it looks like this Crossover monitor can only be used by itself, which is a bummer because I love using tons of monitors on a single computer.]* *
 
