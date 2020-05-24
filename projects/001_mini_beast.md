@@ -1,7 +1,3 @@
-layout: page
-title: "001 Mini DAW Workstation"
-permalink: /projects/001_mini_beast/
-
 # \\\ Mini DAW Workstation \\\
 
 Do you ever have those times where a simple computer issue cascades into a total change of just about everything on your desk? 
