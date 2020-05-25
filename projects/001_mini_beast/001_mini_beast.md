@@ -12,7 +12,7 @@ I originally was just going to use my ThinkPad W541 for music production, but I 
 
 The parts I cobbled together were from a previous 4790K ITX build, but I had sold that mobo+cpu combo. It had been further out of commission because I dropped a screw into the PSU and after shaking it, I figured it must have fallen out, but it really had wedged itself between something important (capacitor) and the case causing a short and rendering my power supply toasted. You know it's over when you smell burnt chips (RIP). So I needed a new power supply as well. 
 
-[img2 parts]
+![](02_parts.jpg)
 
 These are the parts I had for this build; 
 
@@ -28,7 +28,7 @@ HDD: WD 1tb 2.5"
 
 The case I had previously painted in my "signature" hex camo affair, the PSU was matching but since it died I'd have to somewhat recreate that paint job on the new (used) PSU. I also wanted to do something different for the CPU cooler so I figured giving it some paint would make it unique as well. It's great to buy used hardware that is scratched up and kinda ugly if you're just going to be painting it anyway. 
 
-[img 3 finished]
+  ![](03_case.jpg)
 
 I used to be into giant desktops with multiple loop water cooling setups but in the past couple years I have moved towards strictly air cooling and smaller ITX builds. 
 
@@ -37,7 +37,7 @@ I used to be into giant desktops with multiple loop water cooling setups but in 
 
 I'm a stickler for quiet computers, so I needed to test if the new power supply would be quiet enough for me. I plugged it into the motherboard and powered on to see if it was louder than the CPU fan (which is quiet). It was so, it had to go. I used a Noctua fan on the previous power supply, so I would be porting that over to the new one, which required some modification to the power supply. 
 
-[img 4 ear]
+![](04_test.jpg)
 
 I opened the power supply and clipped the power wires to the old fan. Because I wanted to mount the Noctua fan to the *outside* of the power supply casing, I figured it would be easier to install if I put a connector on it and solder a mating connector to the power supply, so I did that. The old fan is only 80x15mm but the Noctua fan is 80x25 which wouldn't fit inside the casing. I wouldn't be reinstalling everything until after paint, but both the fan and power supply were ready for reassembly. 
 
@@ -47,17 +47,17 @@ I didn't paint much on the heatsink, just one fin really, so it was easy to scuf
 
 The power supply was a bit more involved to prep for paint. I ended up cutting the grille for the fan out to allow a bit more airflow to the internal components, it's not necessary, but why not it can't hurt. The hardest part of the prep was the stickers on casing, and hindsight 20/20 I would have just left them (or at least the largest one with the specs). I spent quite a while removing the stickers with an x-acto knife and heatgun, it wasn't worth the time as this is the "back" of the PSU that wouldn't even be seen, oh well. Getting all the sticker residue off as I could I actually sanded some of it off when I went to scuff. 
 
-[img 5 heatsink paint]
+![](05_paint_heat.jpg)
 
 Now with everything ready, just blast with spray paint. For the heatsink I went with flat black as I most likely will be using a different heatsink for this computer in the future so there wasn't much a of a reason to "match" the paint and black goes with everything. Just some coats of Rustoleum high performance and then sealed with some matte clear for protection. I didn't use to use clear coat but it really does help a lot in terms of protecting the finish, so it's worth the extra step to preserve your paintjob. 
 
-The power supply I wanted to match (somewhat) the paint I already had for the case, this required a stencil I made (it's just some simple hexagon pattern) just overlay the stencil, paint some, move it some, use a different color, repeat. If you use darker colors first, then lighter and don't match the pattern "exactly" on top it creates a cool effect that looks like it has depth or a mild 3D effect, which I happen to think is cool. I am only letting each "layer" dry for 5 minutes or so before moving on to the next color. 
+The power supply I wanted to match (somewhat) the paint I already had for the case, this required a stencil I made (it's just some simple hexagon pattern) just overlay the stencil, paint some, move it some, use a different color, repeat. If you use darker colors first, then lighter and don't match the pattern "exactly" on top it creates a cool effect that looks like it has depth or a mild 3D effect, which I happen to think is cool. I am only letting each "layer" dry for 5 minutes or so before moving on to the next color.
 
-[img 6 psu paint]
+![](06_paint_psu.jpg)
 
 After fully drying both I shot them with matte clear again for more protection and let them finally dry. 
 
-[img 7 finished painting]
+![](07_paint_comp.jpg)
 
 ## \\\ Reassembly \\\
 
@@ -67,12 +67,12 @@ Mini ITX is a bit more difficult because you have a lot of components in a tiny 
 
 Heatsink > CPU > Motherboard > PSU > SSD\HDD > GPU 
 
-[img 8 assembly]
+![](08_assembly.jpg)
 
 Because I'm using this case in an unconventional way there is no longer a stock LED or power button, I wired up a Cherry MX blue switch to be my power button, and I don't care much for LEDs as far as a power indicator, I know it's on because the fan is spinning. 
 
 ## \\\ Aftermath \\\
 
-[image 10 final]
+![](09_finished.jpg)
 
 This build went well and I didn't have any issues even when connecting to the problem monitor, but strangely enough - my main monitor in my room had started to "glitch" on me, usually on hot days so I think it's power supply related. I ended up purchasing a replacement ultrawide (3440x1440) so I delegated my older high res ultrawide to be used with this mini setup which is way better than the 2560x1080 I would have been using, although had I known I would just be using a different monitor I could have just continued using my W541 and I wouldn't have needed to build this computer at all, but honestly I usually just make up excuses to build computers, so I'm not too bothered. 
