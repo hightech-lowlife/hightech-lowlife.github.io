@@ -28,6 +28,8 @@ These are the parts I had for this build;
 * SSD: Samsung EVO 850 256GB
 * HDD: WD 1tb 2.5"
 
+[PCPP Link](https://pcpartpicker.com/list/LCmsrV)
+
 The case I had previously painted in my "signature" hex camo affair, the PSU was matching but since it died I'd have to somewhat recreate that paint job on the new (used) PSU. I also wanted to do something different for the CPU cooler so I figured giving it some paint would make it unique as well. It's great to buy used hardware that is scratched up and kinda ugly if you're just going to be painting it anyway. 
 
   ![](03_case.jpg)
