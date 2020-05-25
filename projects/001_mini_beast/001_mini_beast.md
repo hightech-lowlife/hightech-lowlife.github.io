@@ -8,9 +8,9 @@ I originally was just going to use my ThinkPad W541 for music production, but I 
 
 ![](01_laptop.jpg)
 
-`
+```markdown
 [ After some testing much later on I realized that this monitor could not be used if you were using it paired with a another monitor as well (multi-monitor). I had never encountered this before, but I confirmed by plugging in the Crossover monitor on a system I knew it worked with, and then as soon as I plugged in another monitor the Crossover would go black and not display signal anymore, as soon as I unplugged the 2nd monitor then the Crossover would come back to life and display correctly. Since all laptops inherently have a monitor already, any monitor you attach to them will be the 2nd monitor, so it looks like this Crossover monitor can only be used by itself, which is a bummer because I love using tons of monitors on a single computer.]
-`
+```
 
 The parts I cobbled together were from a previous 4790K ITX build, but I had sold that mobo+cpu combo. It had been further out of commission because I dropped a screw into the PSU and after shaking it, I figured it must have fallen out, but it really had wedged itself between something important (capacitor) and the case causing a short and rendering my power supply toasted. You know it's over when you smell burnt chips (RIP). So I needed a new power supply as well. 
 
