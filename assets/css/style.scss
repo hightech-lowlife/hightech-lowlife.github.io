@@ -10,11 +10,12 @@ body {background-color: #222222; color: #a2a2a2;}
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {color: #e0e0e0}
 a {color: #b56f25;}
 a:hover {color: #d275a5; text-decoration: none;}
-img {max-width: 100%; height: auto;}
+img {max-width: 100%; height: auto; border: 6px solid #353535;}
 .main-content .highlight pre, .main-content pre {border-radius: 0;}
 .highlight .nv { color: #ff8300;}
 .site-footer-credits {color: #a2a2a2;}
 .site-footer {border-top: solid 1px #484848;}
+code {white-space : pre-wrap !important;}
 
 // Navigation Variables
 $content-width: 1000px;
