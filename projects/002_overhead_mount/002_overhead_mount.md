@@ -98,4 +98,4 @@ $38.50 for me.
 
 I already had the AC adapter, wood, tools, camera mount, zip-ties, foam and hot glue so I'm not factoring those in, but these things aren't very expensive either (except for the camera mount, depending on which one you get, but I already offered an alternative/cheaper solution for that too). 
 
-That's it! If you make one, please create / improve / adjust this build to suite yourself better. 
+That's it! If you make one, please create / improve / adjust this build to suit yourself better. 
