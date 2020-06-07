@@ -38,10 +38,10 @@ I went with 3/4" PVC to make up the structure, I would have gone with 1" for mor
 You'll need two 90 degree (right angle) connectors, smooth on both sides. You'll also need six 3-way connectors which is a 90 degree but with another 90 degree coming off the z-axis. 
 
 So...
-1. 8x of 24" pvc
-2. 3x of 40" pvc
-3. 2x of 90 degree connectors
-4. 6x of three-way 90 degree connectors
+- 8x of 24" pvc
+- 3x of 40" pvc
+- 2x of 90 degree connectors
+- 6x of three-way 90 degree connectors
 
 I also picked up some PVC glue to hold them together. 
 
@@ -90,9 +90,9 @@ If I need the camera up higher I can always put some blocks under the frame and 
 Honestly, the frame still does wobble a tiny bit if you bump it, but even if you're thumping on the desk I have it on, it barely sways, and if it does, it smoothly sways. The production I'm doing is intentionally grungy/DIY so for myself and my audience they will not *(better not!)* care much for things like that, but if you're making something extremely professional then this build may not be up to par for you. I'm happy with how rigid it is, but I understand that this may not be acceptable for other people, so keep that in mind. I think if you truly want "the" most rigid platform, you'd make this out of metal, and not have it resting on the surface you are capturing. That will be much more expensive, and harder to make and also take a lot more time making, and not to mention be harder to move or put away, and to me the benefits of having something very robust and rigid do not outweigh the convenience of building and using this frame. 
 
 Total cost was; 
-$26 for PVC, fittings and glue
-$5 for dimmer
-$7.50 for LEDs
+- $26 for PVC, fittings and glue
+- $5 for dimmer
+- $7.50 for LEDs
 
 $38.50 for me. 
 
