@@ -1,4 +1,4 @@
-### "A journey of a thousand miles begins with a single step"
+### And where does the newborn go from here?
 
 ************************************************************************************************************************
 ```markdown
