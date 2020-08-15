@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------
 
-This is the first post! - We are witnessing a dystopian apex enveloping us as we live and breathe ~ did you ever think you would make it to the year 2020? I remember being a kid watching The Terminator and Robocop thinking that even 1997 was a far off future timeline full of things beyond my wildest imagination. I was equally horrified and mesmerized by the allure of what technology would bring, what it would give to us, and what it would take away. Let us collectively gaze into the abyss and feel it gazing back at us. 
+You should totally paint your computer parts! Not only is it easy and cheap, but you can breathe new life into tired or aesthetically worn components. Add your own custom personalized touch and stand apart from all the 'LTT and Reddit told me to buy this -so now I have a black box with too much rgb and tempered glass side panels- just like everyone else' out there. The outcome may not be the most beautiful or even well-executed, but at least you can be 'different' and sometimes that is (quite literally) what makes all the difference. 
 
 ----------------------------------------------------------------------
 
