@@ -1,3 +1,5 @@
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dtK9P-LDrdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # \\\ Mini DAW Workstation \\\
 
 Do you ever have those times where a simple computer issue cascades into a total change of just about everything on your desk? 
