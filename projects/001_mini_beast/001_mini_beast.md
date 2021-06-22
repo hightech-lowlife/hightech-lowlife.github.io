@@ -1,4 +1,4 @@
-<div class="video-container"><iframe width="1024" height="600" src="https://www.youtube.com/embed/dtK9P-LDrdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="1024" height="620" src="https://www.youtube.com/embed/dtK9P-LDrdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 # \\\ Mini DAW Workstation \\\
 
