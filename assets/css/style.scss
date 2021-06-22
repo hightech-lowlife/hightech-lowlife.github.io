@@ -19,8 +19,8 @@ code {white-space : pre-wrap !important; overflow: hidden !important;}
 .main-content hr {height: 1px; background-color: #484848;}
 
 // YouTube Responsive Embed
-.video-container { position: relative; padding-bottom: 53.25%; padding-top: 31px; height: 0; overflow: hidden; outline: 6px solid #353535; outline-offset: -6px; }
-.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.video-container {position: relative; padding-bottom: 53.25%; padding-top: 31px; height: 0; overflow: hidden; outline: 6px solid #353535;}
+.video-container iframe, .video-container object, .video-container embed {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
 
 // Navigation Variables
 $content-width: 1000px;
