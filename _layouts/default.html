@@ -3,8 +3,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <link rel="icon" type="image/x-icon" href="favicon.ico?v=2">
-  <script type="text/javascript" src="/js/jquery-3.4.1.min.js"></script>
-  <head>
+   <head>
     
     <meta charset="UTF-8">
 
@@ -30,39 +29,5 @@
       </footer>
     </main>
   </body>
-
-  <script type="text/javascript">
-    (function($) { // Begin jQuery
-  $(function() { // DOM ready
-    // If a link has a dropdown, add sub menu toggle.
-    $('nav ul li a:not(:only-child)').click(function(e) {
-      $(this).siblings('.nav-dropdown').toggle();
-      // Close one dropdown when selecting another
-      $('.nav-dropdown').not($(this).siblings()).hide();
-      e.stopPropagation();
-    });
-    // Clicking away from dropdown will remove the dropdown class
-    $('html').click(function() {
-      $('.nav-dropdown').hide();
-    });
-    // Toggle open and close nav styles on click
-    $('#nav-toggle').click(function() {
-      $('nav ul').slideToggle();
-    });
-    // Hamburger to X toggle
-    $('#nav-toggle').on('click', function() {
-      this.classList.toggle('active');
-    });
-    
-    $('li').hover(function() { 
-    $(this).find('ul').slideDown(200); 
-    
-    }, function() {
-    $(this).find('ul').slideUp(200);  
-    });
-    
-      }); // end DOM ready
-})(jQuery); // end jQuery
-  </script>
   
 </html>
