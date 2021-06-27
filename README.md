@@ -1,4 +1,3 @@
-<div class="proj_sep" style="border 1px solid gray">
 ## 001 \\\ MINI-ITX Digital Audio Workstation (DAW)
 ----------------------------------------------------------------------
 
@@ -9,4 +8,3 @@ You should totally paint your computer parts! Not only is it easy and cheap, but
 [![img](https://hightech-lowlife.github.io/projects/001_mini_beast/03_case.jpg)](https://hightech-lowlife.github.io/projects/001_mini_beast/001_mini_beast)
 
 ----------------------------------------------------------------------
-<div>
