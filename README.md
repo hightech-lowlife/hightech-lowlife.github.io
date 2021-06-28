@@ -1,3 +1,13 @@
+## 002 \\\ Overhead Camera Mount with LED Lighting
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 002 - Overhead Camera Mount](https://hightech-lowlife.github.io/projects/002_overhead_camera_mount/002_overhead_camera_mount)
+
+If your camera is right over your working space it frees up a lot of space to move around and also gets the best shot possible. Making mroe videos I figured that a lot of what I would be capturing would probably be on a desk or workbench and after my first video trying to work with a camera in front of you is annoying and one over your shoulder would not get a very good shot, and also be annoying. Since you're already making something that is hovering above your workspace why not stick some cheap LED strips on it and make it more useful.
+
+[![img](https://hightech-lowlife.github.io/projects/002_overhead_camera_mount/01_mount.jpg)](https://hightech-lowlife.github.io/projects/002_overhead_camera_mount/002_overhead_camera_mount)
+
+
 ## 001 \\\ MINI-ITX Digital Audio Workstation (DAW)
 ----------------------------------------------------------------------
 
