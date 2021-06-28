@@ -71,9 +71,11 @@ I was a bit disappointed however at how "flimsy" and "wobbly" the structure felt
 
 ## \\\ Wood, Holes and Zip-Ties \\\
 
+![](002_wood.jpg)
+
 I cut a piece of wood longer than the top of the frame because I wanted it to overhang about an inch or so, this is where I would drill the holes to lace the zip-ties through. I roughly measured, cut with a wood saw, then measured again to where the holes for the zip-ties would go, leaving enough room to wrap around the frame. I then drilled out 6 holes in each end. Bam. 
 
-![](002_wood.jpg)
+![](002_ziptie.jpg)
 
 I did acquire this fancy right-angle camera mount from my work (with permission of course...) so all I had to do was find the center of the board I just cut, then make sure that with the camera mounted that the lens would overhang enough to where I could manipulate the zoom and focus, I drilled a large hole for the bolt and cinched it up. I then placed the wood plank roughly where I wanted the camera to reside over the workspace and laced the zip-ties through and tightened it down to the frame. Not too tightly though, I still want to be able to slide the board fore and aft or to adjust the angle a bit just in case the camera isn't centered vertically. Although having a ball mount helps in this regard too, but if you wanted to go the cheaper DIY route, just cut two blocks of wood to make a 90 degree "shelf" and drill a hole to mount the camera (just watch the video I linked in the beginning of this article, here I'll paste it again; [this](https://www.youtube.com/watch?v=HCoHc3_4aCE) )
 
