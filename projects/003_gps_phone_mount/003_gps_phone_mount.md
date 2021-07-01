@@ -234,3 +234,5 @@ After all that cutting, you simply unwrap all of your parts, find the right orie
 This mount design would have been a lot easier if I could make it wider and I would have just created two separate mounts with a common 1st/front layer connecting them seamlessly, I'm quite cramped with where I mounted the metal L bracket initially with the smaller phone in there, so I don't have much (any?) room both in height and if I go any wider I'm going to start occluding the instrument cluster on the dash, so this was more challenging than it needed to be, but it was fun to make. 
 
 This mod may last me until I sell this car, I keep thinking I "should" be driving something *cooler* for my daily driver, but 52mpg and a (very cheap) reliable comfy ride is pretty darn cool. 
+
+*2020 update* - I had to sell the car due to the catalytic converter being stolen, I didn't sell the car with this mount so I still have the Nexus and GPS that I need to install in something else now. 
