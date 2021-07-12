@@ -1,8 +1,8 @@
-# \\\ GPS + phone dash install (2019 update) \\\
+# \\\ GPS + phone dash install (Update) \\\
 
 Way back in 2016 I wanted to create a custom mount for a GPS and Android phone/media device for my 2006 Toyota Prius. **So I did it.** 
 
-(image)
+![](003_gps1.jpg)
 
 It worked very well, and over the years the only issues I've encountered have to do with the phone I chose as my media player, a Motorola Moto G (1st Gen). I bought this back in 2014 for $90 and it was a great phone that I used as my daily driver but over the years it became worse for wear, on one camping trip it took an unexpected spa bath in orange juice and after a thorough drying it worked perfectly again. I had upgraded to a Galaxy Note 4 after that which was a huge upgrade so I delegated the G to a carputer/media hub. I know most people just use their current phones to play music in their cars and I get that, but I just like having a dedicated source that is with the car, plus it allows me to install another screen and more tech in my car and why would I pass up that opportunity?
 
@@ -18,6 +18,8 @@ Thankfully this phone also has bluetooth, so I bought a very cheap ($9) A2DP/3.5
 
 I did also have to replace the battery in this phone after about 2 years of it being in the car, as it had become bubbled up and wouldn't hold a charge anymore - the replacement battery was very very cheap and it didn't last very long (much surprise). The combination of being in the sun and not being able to discharge much isn't easy on the batteries. My last drive to work in this car the phone wouldn't turn on at all, despite being plugged in and was claiming 0%, even after charging the whole way there. I did sit in silence the whole trip to work to really motivate me to upgrade, it was time. 
 
+![](003_gps2.jpg)
+
 **To recap, the phone is dead.** Audio jack failure, bluetooth failure, now battery failure. I'm sure with a new battery it could live again, but it's time to retire the faithful G, it has truly impressed me.  
 
 ## \\\ Now I need a new phone. \\\
@@ -31,6 +33,8 @@ So the new replacement phone must;
 4. Preferable to have external SD storage
 
 After looking at a lot of older (cheaper...) phones I decided upon the **Nexus 5X** which I got on eBay for $84. They had some cheaper ones I found for around $34 but that seller seemed extra shady and you know what they say about things that are too good to be true. I have a lot of Nexus 7 tablets (like a lot of them...) because they are cheap and awesome. The Nexus line is known for being root friendly with unlockable bootloaders, it does have a headphone jack, and bluetooth (hard to find a phone without BT though), the only thing I wish it had was an external SD card slot, but 32gb is plenty for some mp3s. So ok, 3 outta 4 ain't bad. 
+
+![](003_gps5.jpg)
 
 ## \\\ Rooting the Nexus 5X 8.1\\\
 
@@ -48,6 +52,8 @@ Now use the Nexus Root Toolkit to **unlock the bootloader**, pretty easy, just f
 
 **Actually rooting, finally...**
 I hit another snag while trying to root with the Nexus Root ToolKit, I'm thinking it's because the image is too new (8.1), but after rooting and the app saying that everything was completed successfully and that I had root, I couldn't run SuperSU and it said that I needed root to run, so something was wrong. I did notice that TWRP was working temporarily for the attempts the app was making when trying to root. I found [a specific tutorial](https://www.teamandroid.com/2018/10/07/root-google-nexus-5x-6p-android-81-october-2018-update/) on how to root a Nexus 5X running 8.1 and it suggested to use [Magisk Root](https://magiskmanager.com/#How_to_Install_Magisk_Latest_Version_193_on_Android_Non-Rooted_Phones). Just download the zip to your desktop, then copy the zip to your root folder on your phone.
+
+![](003_gps12.jpg)
 
 You need **TWRP** installed in our recovery partition to install the zip on the phone, so use Nexus Root Toolkit, and launch "Advanced Utilities" from here you can install TWRP to your recovery partition, I just told it to download and install the latest TWRP release. 
 
@@ -217,22 +223,40 @@ Now reboot your phone and check out your awesome boot screen!
 ## \\\ Acrylic redesign \\\
 The Nexus 5X is a bit bigger than the Moto G and dimensionally different so unfortunately it won't just drop in to the space I had made for the Moto, also the headphone jack is on the other end of the phone, this is another reason why I went with the Nexus 5X instead of the Nexus 6 because it has both the headphone jack and USB port on the same end so I could bring the phone closer to the GPS. 
 
+![](003_gps3.jpg)
+
 *BTW the GPS is a "Garmin Nuvi 57LMT 5-Inch GPS Navigator". ...just in case you were wondering.*
+
+![](003_gps6.jpg)
 
 Thankfully I could reuse the GPS half of my original design because I made that much more complicated than it needed to be *(always take the hard road kids!)* so all I needed to focus on was the phone portion. A lot of measuring with a micrometer and plotting shapes in illustrator led me to the design I have now. This was a bit challenging as it's a lot easier to create a mount for a single device than it is for two because you need the layers to play nice with each other, and when you have two devices that aren't dimensionally the same it can be difficult to hold all of the layers in your brain and anticipate how they relate to both sides, I color code the layers in illustrator to make it easier to keep track, and again it's just more confusing once you start introducing different thicknesses of layers and keeping track of how they stack. It's not entirely difficult in any way, it just leads to a lot of room for user error *(the best kind of error)*. 
 
+![](003_gps7.jpg)
+
 Even when you're measuring as precise as you can, you (or I...) will eventually run into things that didn't quite pan out as you thought they were in digital space *(this eerily translates to life in general too)*, because of this you'll usually have to make revisions and cut again after measuring how far you're off. I only had to fix a few things, which is a win in my book. 
+
+![](003_gps8.jpg)
 
 One mistake was raster engraving with the backing material still on the acrylic which came out... less than desired. I had never done it before so I gave it a shot, from now on I will be engraving with the acrylic exposed as it comes out much better. It's ok though because this part needed to be redone anyway, turns out my hexagon hole for the rear camera wasn't quite big enough. However - cutting with the backing material is a win though, most of the time my cuts will have marks where the laser backscattered off of the hex mesh "floor" of the laser bed but the backing material on the acrylic prevents this from happening. 
 
+![](003_gps5.jpg)
+
 Another fix was the front camera hole, I realized that it was about 2 or 3mm off center and that bothered me. I attempted to elongate the hex hole by recutting the same part but the origin is never zero again so I will recut the entire first layer again this time not cutting any hole for the camera because, I'm not going to use the camera at all, and the acrylic is clear so you should be able to use it anyway. 
+
+![](003_gps10.jpg)
 
 My last tweaks were to the front layer and back layer, I realized I could allocate more room for the right-angle type-c cable I purchased for a cleaner look, it will fit as-is but it's a bit cramped and I was going to redo the front layer to fix the camera hole already. I am also lowering the maker cutouts for where the power and volume are on both the GPS (power only) and phone, this will make it even easier to press them without a bigger "wall" in front of them. Same edits to the back layer, just giving more room to the headphone jack and USB port, and more room to access the physical buttons. 
 
+![](003_gps9.jpg)
+
 After all that cutting, you simply unwrap all of your parts, find the right orientation and then start stacking until you build your enclosure around the devices. I used 5mm hex bolts to hold everything together which is complete overkill for holding some plastic together, but I think hardware looks cool and I already had the screws and nuts. 
+
+![](003_gps11.jpg)
 
 This mount design would have been a lot easier if I could make it wider and I would have just created two separate mounts with a common 1st/front layer connecting them seamlessly, I'm quite cramped with where I mounted the metal L bracket initially with the smaller phone in there, so I don't have much (any?) room both in height and if I go any wider I'm going to start occluding the instrument cluster on the dash, so this was more challenging than it needed to be, but it was fun to make. 
 
 This mod may last me until I sell this car, I keep thinking I "should" be driving something *cooler* for my daily driver, but 52mpg and a (very cheap) reliable comfy ride is pretty darn cool. 
 
-*2020 update* - I had to sell the car due to the catalytic converter being stolen, I didn't sell the car with this mount so I still have the Nexus and GPS that I need to install in something else now. 
+![](003_gps15.jpg)
+
+*2020 update* - Unforunately I had to sell the car due to the catalytic converter being stolen, I didn't sell the car with this mount so I still have the Nexus and GPS that I need to install in something else now. 
