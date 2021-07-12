@@ -239,8 +239,6 @@ Even when you're measuring as precise as you can, you (or I...) will eventually 
 
 One mistake was raster engraving with the backing material still on the acrylic which came out... less than desired. I had never done it before so I gave it a shot, from now on I will be engraving with the acrylic exposed as it comes out much better. It's ok though because this part needed to be redone anyway, turns out my hexagon hole for the rear camera wasn't quite big enough. However - cutting with the backing material is a win though, most of the time my cuts will have marks where the laser backscattered off of the hex mesh "floor" of the laser bed but the backing material on the acrylic prevents this from happening. 
 
-![](003_gps5.jpg)
-
 Another fix was the front camera hole, I realized that it was about 2 or 3mm off center and that bothered me. I attempted to elongate the hex hole by recutting the same part but the origin is never zero again so I will recut the entire first layer again this time not cutting any hole for the camera because, I'm not going to use the camera at all, and the acrylic is clear so you should be able to use it anyway. 
 
 ![](003_gps10.jpg)
