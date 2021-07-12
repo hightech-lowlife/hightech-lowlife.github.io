@@ -1,4 +1,4 @@
-# \\\ GPS + phone dash install (Update) \\\
+# \\\ GPS + Phone Dash Mount (Update) \\\
 
 Way back in 2016 I wanted to create a custom mount for a GPS and Android phone/media device for my 2006 Toyota Prius. **So I did it.** 
 
