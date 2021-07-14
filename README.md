@@ -1,3 +1,14 @@
+## 003 \\\ GPS + Phone Car Dashboard Mount
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 003 - GPS + Phone Mount](https://hightech-lowlife.github.io/projects/003_gps_phone_mount/003_gps_phone_mount)
+
+My phone will automatically turn on and start playing music when I turn my car on! I know most people just use their current phones to play music in their cars and I get that, but I just like having a dedicated source that is with the car, plus it allows me to install another screen and more tech in my car and why would I pass up that opportunity?
+
+[![img](https://hightech-lowlife.github.io/projects/003_gps_phone_mount/003_gps1.jpg)](https://hightech-lowlife.github.io/projects/003_gps_phone_mount/003_gps_phone_mount)
+
+\\\\\\\\\\
+
 ## 002 \\\ Overhead Camera Mount with LED Lighting
 ----------------------------------------------------------------------
 
