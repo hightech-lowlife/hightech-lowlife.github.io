@@ -117,7 +117,7 @@ I made an infographic to illustrate different wiring schemas and how I progresse
 
 ![](wireless_infographic.jpg)
 
-[PDF version (so you can zoom)](wireless_infographic.pdf)
+[PDF version (so you can zoom)](wireless_schematic.pdf)
 
 **Connect the wireless adapter PCB to the keyboard.** Grab that 4-pin connector with leads that you put aside earlier from the keyboard daughterboard, we're going to solder those leads to the **data input** of the wireless adapter - black/green/white/red. Now you'll be able to connect the keyboard to the wireless adapter using the 4-pin connector! Be careful with these leads as the PCB pads on the wireless adapter are not the strongest and with a lot of pulling or twisting while you're assembling you may lift a trace or pad - which you do not want. I'd get out my hot glue gun and give a reinforcing dab on both areas that you soldered just for some much needed strain-relief. 
 
