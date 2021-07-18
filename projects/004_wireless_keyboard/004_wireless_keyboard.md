@@ -117,6 +117,8 @@ I made an infographic to illustrate different wiring schemas and how I progresse
 
 ![](wireless_infographic.jpg)
 
+[PDF version (so you can zoom)](wireless_infographic.pdf)
+
 **Connect the wireless adapter PCB to the keyboard.** Grab that 4-pin connector with leads that you put aside earlier from the keyboard daughterboard, we're going to solder those leads to the **data input** of the wireless adapter - black/green/white/red. Now you'll be able to connect the keyboard to the wireless adapter using the 4-pin connector! Be careful with these leads as the PCB pads on the wireless adapter are not the strongest and with a lot of pulling or twisting while you're assembling you may lift a trace or pad - which you do not want. I'd get out my hot glue gun and give a reinforcing dab on both areas that you soldered just for some much needed strain-relief. 
 
 **Wire up the on/off microswitch.** Because of the placement of our charging circuit PCB which currently has the on/off switch for the battery we need to relocate the switch so that you can turn your keyboard on/off without having to open the keyboard case (that'd be nice, right?). You can repurpose the switch from the charge circuit PCB, but I find it easier just to purchase a new (and somewhat larger) microswitch that is 6x6x8mm. Let's attach some length (12cm or so) of black and red wires to go from the new switch to the exist switch that is soldered to the underside of the charge circuit PCB. 
