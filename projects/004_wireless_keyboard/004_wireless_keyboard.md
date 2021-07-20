@@ -55,7 +55,89 @@ Also some of these charge circuits have a minimum power draw or they will turn o
 ```
 I actually wouldn't bother buying a power bank, it may cost a bit extra but it's better to find out the exact battery dimensions you can use then purchase a battery you know will fit. Also the charge boards are quite cheap and you can get one that you 'know' will allow you to power off with a load attached as a lot of the ones included in power banks do not allow this. You can wire up your keyboard with external switches and create your own custom on/off circuitry but the cleanest is to just use a relay. This will allow you to use one push button to turn the keyboard off / on and also toggle between wired / wireless without needing to install additional switches. If you install your own toggle switch for on / off then it doesn't matter if the charge circuit can power off with a load attached - you wire it up how you want, there are a lot of options and hopefully with all of the info I'm providing you will find something that suits your needs. 
 ```
+Run times will vary greatly depending on how big your keyboard is, and if you have backlighting or not. For this TKL board I am getting about 28 hours per charge on medium backlight brightness, you will get way more or way less run time depending on the backlighting. I did a lot of testing on different boards to see how much power they draw. The BT module alone will pull 50mA, and typically a mechanical keyboard will use 10-40mA. Backlighting can suck a ton of power, so your battery life will suffer. Full brightness on this will be drawing 270mA! 
 
+Battery: 3000mah (approx) @5V
+
+104 medium brightness (brightness 3)
+Full charge run time - 17 hours! 
+
+87 medium brightness (brightness 3)
+Full charge run time - 27.5 hours!
+
+Bluetooth adapter: 0.05 - 0.055a, manual says 40ma
+
+--- V2 ---
+
+CODE V2 TKL
+amps: 0.011a (no backlighting)
+
+amps: 0.039a (brightness 1)
+amps: 0.053a (brightness 2)
+amps: 0.080a (brightness 3)
+amps: 0.107a (brightness 4)
+amps: 0.145a (brightness 5)
+amps: 0.198a (brightness 6)
+amps: 0.272a (brightness 7)
+
+CODE V2 fullsize 
+amps: 0.011a (no backlighting)
+
+amps: 0.041a (brightness 1)
+amps: 0.058a (brightness 2)
+amps: 0.089a (brightness 3)
+amps: 0.121a (brightness 4)
+amps: 0.166a (brightness 5)
+amps: 0.226a (brightness 6)
+amps: 0.316a (brightness 7)
+
+--- V3 ---
+
+CODE V3 TKL (V3 firmware)
+amps: 0.023a (no backlighting)
+
+amps: 0.030a (brightness 1)
+amps: 0.068a (brightness 2)
+amps: 0.110a (brightness 3)
+amps: 0.165a (brightness 4)
+amps: 0.220a (brightness 5)
+amps: 0.260a (brightness 6)
+amps: 0.298a (brightness 7)
+
+CODE V3 TKL (V2 firmware)
+amps: 0.016a (no backlighting)
+
+amps: 0.022a (brightness 1)
+amps: 0.060a (brightness 2)
+amps: 0.100a (brightness 3)
+amps: 0.160a (brightness 4)
+amps: 0.210a (brightness 5)
+amps: 0.255a (brightness 6)
+amps: 0.290a (brightness 7)
+
+CODE V3 fullsize 
+amps: 0.031a (no backlighting)
+
+amps: 0.037a (brightness 1)
+amps: 0.083a (brightness 2)
+amps: 0.126a (brightness 3)
+amps: 0.200a (brightness 4)
+amps: 0.260a (brightness 5)
+amps: 0.305a (brightness 6)
+amps: 0.350a (brightness 7)
+
+---
+
+CODE VP3 (60%)
+amps: 0.089 (no backlighting)
+
+amps: 0.094 (brightness 1)
+amps: 0.099 (brightness 2)
+amps: 0.110 (brightness 3)
+amps: 0.121 (brightness 4)
+amps: 0.139 (brightness 5)
+amps: 0.158 (brightness 6)
+amps: 0.185 (brightness 7)
 
 ## 4. Some Tools (and misc other things...)
 
