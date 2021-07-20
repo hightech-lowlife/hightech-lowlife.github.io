@@ -57,6 +57,7 @@ I actually wouldn't bother buying a power bank, it may cost a bit extra but it's
 ```
 Run times will vary greatly depending on how big your keyboard is, and if you have backlighting or not. For this TKL board I am getting about 28 hours per charge on medium backlight brightness, you will get way more or way less run time depending on the backlighting. I did a lot of testing on different boards to see how much power they draw. The BT module alone will pull 50mA, and typically a mechanical keyboard will use 10-40mA. Backlighting can suck a ton of power, so your battery life will suffer. Full brightness on this will be drawing 270mA! 
 
+```
 Battery: 3000mah (approx) @5V
 
 104 medium brightness (brightness 3)
@@ -126,7 +127,7 @@ amps: 0.260a (brightness 5)
 amps: 0.305a (brightness 6)
 amps: 0.350a (brightness 7)
 
----
+--- 60% ---
 
 CODE VP3 (60%)
 amps: 0.089 (no backlighting)
@@ -138,6 +139,7 @@ amps: 0.121 (brightness 4)
 amps: 0.139 (brightness 5)
 amps: 0.158 (brightness 6)
 amps: 0.185 (brightness 7)
+```
 
 ## 4. Some Tools (and misc other things...)
 
@@ -243,7 +245,7 @@ Connect the keyboard PCB to the wireless adapter and lay it flat in its resting 
 
 Pair via bluetooth to your device (no password needed) and enjoy your once-wired, now-wireless keyboard. 
 
-## CLosing thoughts
+## Closing thoughts
 While I was making this I went through quite a few renditions of how to wire it. I kept running into tiny roadblocks and trying to find a way around them. 
 
 Since this is now a 'wireless-only' keyboard, I thought, what if you ran into a scenario where you didn't have a bluetooth device but still wanted to use your keyboard to connect to it? it wouldn't be possible.
