@@ -2,13 +2,13 @@
 
 # \\\ Custom Painted ThinkPad W541 \\\
 
-![](005_laptop022.jpg)
-
 ![](005_laptop1.jpg)
 
 I've always wanted to personalize a laptop by painting it. It's a stupid idea and I wouldn't recommend it, if you want to "do it right" you have to disassemble the laptop to the parts you want painted and don't want painted. You might be able to get away with some creative masking, but I feel the effort expended to mask one you might as well just disassemble it, the end product will come out better and it will ultimately be easier.
 I always try to buy used items to save some money,  and then sell them later after their use threshold has tapered to recoup some of that money. Once you customize something it will typically limit its resale value (negatively) although if you make something cool and it's unique enough there might be a market for that - but nine out of ten times you will be losing out on potentially making a resale harder with less value retention. So might be something to consider before taking apart your laptop and painting it. 
 This isn't really a guide, maybe something more to inspire you to create your own.   
+
+![](005_laptop022.jpg)
 
 # \\\ Things You'll Need: \\\
 
