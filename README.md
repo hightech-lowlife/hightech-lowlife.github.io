@@ -3,7 +3,7 @@
 
 [Check out the video and full write-up here \\\ 005 - Custom Painting a Laptop - ThinkPad W541 Hex-Camo](https://hightech-lowlife.github.io/projects/005_camo_w541_laptop_painting/005_camo_w541_laptop_painting)
 
-This is for those who want to take their existing USB keyboard and make it wireless, those who enjoy taking things apart, voiding warranties, soldering, cramming things into small spaces... you get the idea. Some really awesome keyboards just simply aren't offered with a wireless option, and finally (thanks to a few more recent advancements in tech) this is now feasible in a (somewhat) elegant DIY package.
+DIY Painting a laptop? You should totally paint your laptop! (maybe), actually maybe not. Watch me take a normal Lenovo ThinkPad W541 workstation computer and give it a custom hex-camo paint job, I also ended up adding some UV printing and upgrading the CPU to a Intel Core i7 4940MX! I made a few mistakes along the way but nothing that some perserverance couldn't overcome. It was a ton of work but the finished product was completely worth it in the end! This isn't really a guide, maybe something more to inspire you to create your own.   
 
 [![img](https://hightech-lowlife.github.io/projects/005_camo_w541_laptop_painting/005_laptop022.jpg)](https://hightech-lowlife.github.io/projects/005_camo_w541_laptop_painting/005_camo_w541_laptop_painting)
 
