@@ -5,7 +5,7 @@
 
 This is for those who want to take their existing USB keyboard and make it wireless, those who enjoy taking things apart, voiding warranties, soldering, cramming things into small spaces... you get the idea. Some really awesome keyboards just simply aren't offered with a wireless option, and finally (thanks to a few more recent advancements in tech) this is now feasible in a (somewhat) elegant DIY package.
 
-[![img](https://hightech-lowlife.github.io/projects/005_camo_w541_laptop_painting/005_laptop022.jpg)](https://hightech-lowlife.github.io/projects/005_camo_w541_laptop_painting/005_camo_w541_laptop_painting)
+[![img](https://hightech-lowlife.github.io/projects/005_camo_w541_laptop_painting/005_camo_w541_laptop_painting/005_laptop022.jpg)](https://hightech-lowlife.github.io/projects/005_camo_w541_laptop_painting/005_camo_w541_laptop_painting)
 
 \\\\\\\\\\
 
