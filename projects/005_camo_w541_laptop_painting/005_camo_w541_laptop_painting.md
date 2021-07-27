@@ -1,3 +1,5 @@
+<iframe width="1024" height="576" src="https://www.youtube.com/embed/v=xF2ldzoYqH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # \\\ Custom Painted ThinkPad W541 \\\
 
 ![](005_laptop022.jpg)
