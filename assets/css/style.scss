@@ -2,7 +2,7 @@
 ---
 
 // @import "{{ site.theme }}";
-@import "jekyll-theme-cayman";
+@import 'jekyll-theme-cayman';
 body {background-color: #222222; color: #a2a2a2;}
 * {box-sizing: content-box;}
 .page-header {background-color: #1d1d1d; background-image: none;}
