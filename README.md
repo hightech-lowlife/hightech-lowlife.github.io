@@ -3,7 +3,7 @@
 
 [Check out the video and full write-up here \\\ 005 - Custom Painting a Laptop - ThinkPad W541 Hex-Camo](https://hightech-lowlife.github.io/projects/005_camo_w541_laptop_painting/005_camo_w541_laptop_painting)
 
-DIY Painting a laptop? You should totally paint your laptop! (maybe), actually maybe not. Watch me take a normal Lenovo ThinkPad W541 workstation computer and give it a custom hex-camo paint job, I also ended up adding some UV printing and upgrading the CPU to a Intel Core i7 4940MX! I made a few mistakes along the way but nothing that some perserverance couldn't overcome. It was a ton of work but the finished product was completely worth it in the end! This isn't really a guide, maybe something more to inspire you to create your own.   
+DIY Painting a laptop? You should totally paint your laptop! (maybe), actually maybe not. Watch me take a normal Lenovo ThinkPad W541 workstation computer and give it a custom hex-camo paint job, I also ended up adding some UV printing and upgrading the CPU to a Intel Core i7 4940MX! I made a few mistakes along the way but nothing that some perseverance couldn't overcome. It was a ton of work but the finished product was completely worth it in the end! This isn't really a guide, maybe something more to inspire you to create your own.   
 
 [![img](https://hightech-lowlife.github.io/projects/005_camo_w541_laptop_painting/005_laptop022.jpg)](https://hightech-lowlife.github.io/projects/005_camo_w541_laptop_painting/005_camo_w541_laptop_painting)
 
