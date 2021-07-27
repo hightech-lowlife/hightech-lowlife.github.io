@@ -1,6 +1,6 @@
 # \\\ Painting a Laptop \\\
 
-![](005_laptop01.jpg)
+![](005_laptop1.jpg)
 
 I've always wanted to personalize a laptop by painting it. It's a stupid idea and I wouldn't recommend it, if you want to "do it right" you have to disassemble the laptop to the parts you want painted and don't want painted. You might be able to get away with some creative masking, but I feel the effort expended to mask one you might as well just disassemble it, the end product will come out better and it will ultimately be easier.
 I always try to buy used items to save some money,  and then sell them later after their use threshold has tapered to recoup some of that money. Once you customize something it will typically limit its resale value (negatively) although if you make something cool and it's unique enough there might be a market for that - but nine out of ten times you will be losing out on potentially making a resale harder with less value retention. So might be something to consider before taking apart your laptop and painting it. 
@@ -10,7 +10,7 @@ This isn't really a guide, maybe something more to inspire you to create your ow
 
 ## 1. The Laptop (duh)
 
-![](005_laptop03.jpg)
+![](005_laptop3.jpg)
 
 My favorite laptop right now is the Lenovo Thinkpad W541, yes - it's a bit older (4th gen Intel), to me - at the time of writing this, it hits the sweet spot of price to performance. It's not a small or light laptop, it's a tank and I like that, what can I say? I like big-ass laptops and I cannot lie. Pair this with a dock and you have a very decent desktop replacement (but why would you ever want to replace a desktop???) I wont gush too long about it, it's just an awesome computer and from the awesome Thinkpad line. These can be found "relatively" cheap on eBay, I picked this up for $440 which is very decent considering the specs.
 
@@ -23,6 +23,8 @@ Lenovo Thinkpad W541
 - Backlit keyboard
 - Webcam
 
+![](005_laptop4.jpg)
+
 I got it cheaper because It didn't come with an OS, but usually the Windows product keys are embedded on these systems, so just find the ISO online and it will be activated after install. 
 You can find these consistently on eBay for 500-600 with varying specs, I always look for the RAM size first because a lot of sellers will put them up with 8GB and that's a no-go. 16GB is a must these days, and anything more than that is just a bonus. Typically the high-end versions will have 32GB of ram which is great. 
 I also picked up a Core i7 Extreme i7-4940MX processor which bumps the clocks a bit, but honestly the 4810MQ is plently beastly and the extra heat isn't worth it, I just like maxing my systems when I can, plus I was completely disassembling it anyway, so while I'm in there, why not? I sold the 4810 for nearly half of what I got the 4940 ($180) for, so while I really wouldn't deem it worth it, it's not that too crazy of an expensive upgrade. 
@@ -32,7 +34,7 @@ Did I talk about the computer enough?? I could talk about hardware all day...
 
 ## 2. Stencils
 
-![](005_laptop05.jpg)
+![](005_laptop5.jpg)
 
 Right now (...ok for a while now) I've been obsessed with camouflage... all kinds, but really hex camo. No, not that "Kryptek" wavy kind, I don't care if it's more effective, it doesn't look aesthetically pleasing to me. I used to just always paint everything flat black, I did that for so long that I got bored with that and I've been painting this "hex camo" on so many things I own, it's a bit of a signature style to me even if it is something simple. 
 It all started with some fan grilles I made for my water cooled desktop, these were just some acrylic prototypes that I cut to test fit before getting them made from aluminum, I just had them laying around after and I wondered what it would be like to use it as a mask/stencil so I tried it with some woodland spray paint colors and it looked really cool. When I first started using these stencils I would just paint and overlap them randomly and it looked well enough but I realized that if I line up the stencil it looks even better. After painting so many things like this I also discovered that if I paint lighter colors underneath darker colors and vice versa it produces a drop shadow 3D effect that really makes the paint job all that better. You can really take it to the next level by varying your fades so that they're not even, being able to see the faded cut off will create even more depth. 
@@ -71,8 +73,6 @@ Allow adequate time for the parts to dry after cleaning them, you don't want to 
 Lay out your parts so that you can paint them without painting other things that you don't want painted. 
 I first gave my pieces a coat of primer (dark gray), although this part probably isn't necessary I wanted my base layer to be dark gray. After that I laid my stencil down and aligned it the best I could, then I started with the first color (dark green) and sprayed the entire part that was covered in the stencil and then removed the stencil. I moved onto the next part and continued the process. 
 After hitting all the parts with the green I let them all dry about 15 minutes. This was a very hot day (90F+) so the paint was already drying as it hit the part within 30 seconds or so, but I gave it some time between coats. 
-
-![](005_laptop9.jpg)
 
 **A word of caution** - be careful painting in the hot sun, this has never happened to me before, but it did on this project where a plastic part warped (slightly melted) and it caused me a lot of problems down the line trying to fix it. It's ok to paint in the sunlight but letting them dry, I would find a shady spot to where their temperature will not keep climbing. The heat does make the parts dry faster, but if it's warm enough already, then they will dry fast enough without the direct sunlight. 
 I kept layering the paint in waves, I lay the stencil right over my previous application of paint as accurately as I could, there will still be some variation, which is actually what you want to create that 3D effect, but still, getting the stencil to remain "the same" on each coat makes a big difference in how well the paint job comes out. Next I moved on to the lighter green, then the next wave was tan, then finally the dark brown. 
