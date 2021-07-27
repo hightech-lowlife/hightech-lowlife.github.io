@@ -1,5 +1,7 @@
 # \\\ Painting a Laptop \\\
 
+![](005_laptop022.jpg)
+
 ![](005_laptop1.jpg)
 
 I've always wanted to personalize a laptop by painting it. It's a stupid idea and I wouldn't recommend it, if you want to "do it right" you have to disassemble the laptop to the parts you want painted and don't want painted. You might be able to get away with some creative masking, but I feel the effort expended to mask one you might as well just disassemble it, the end product will come out better and it will ultimately be easier.
@@ -96,6 +98,8 @@ This top of the case gave me a lot of trouble in a lot of different ways, all my
 
 Another issue was that I wanted my logo mark painted over the camo on the back of this part and while I was making the stencil I debated on how large I should make it. I wanted it to be a bit bigger because this would allow more fidelity in the stencil because you can only go so small using a stencil and spray paint unless you're using like a sticky vinyl stencil (which I wasn't). So for just gravity holding down the stencil it will not provide you with a super clean edge. I could have taped some parts down, pressed down on other areas of the stencil while painting to remedy this but I figured if I just make it bigger my edges don't have to be so sharp and it will still read well. After painting I wasn't happy with neither the size, nor the edges, I knew it would be a bit fuzzy but it was softer than I imagined, and also was larger than I would have liked so I got the worst of both worlds, too big, too fuzzy. To fix this I would have to repaint the entire piece and essentially start from scratch doing all the layers of camo and stencil just to get back to my starting point - no fun. I really should have just been "ok" with it, because honestly it didn't look too bad, but it just wasn't what I had envisioned in my mind. I had an idea to clean up the edges with a very fine tipped marker and I gave it a try to salvage this piece. 
 
+![](005_laptop021.jpg)
+
 The marker did its job and I was able to make the edges look cleaner, however it still had that "hand made" quality which the stencils will also bring, which is not a bad thing, it's just not the direction I wanted this to go. I wanted the white to be sitting right on top of the camo, and bordering the edges in black took away from that, which I didn't like, and none of this solved the other issue was that I made this stencil just too big. I think I would have been happy with it had I just laid down some lighter coats, but I really wanted it to be opaque, but this would have made the edges a bit less fuzzy, so you'd have to trade off between opacity and edge definition. This is mistake number 4 for this top piece, that's warping, stencil is too large, stencil is too fuzzy edged, now the marker I just put on it is not to my liking. 
 I was a bit disappointed because I was happy with the hex camo I was able to spray on the back but to fix all this I'd have to redo that. I slept on it and the next day I decided to first try to fix the warping, I used a heat gun and was able to make it "better" but not perfect, I wasn't sure if I would ever make it as flat as it originally was so I was looking up replacement parts on eBay just in case I had to go "full nuclear" and just replace the part entirely to start over from ground zero. 
 
@@ -144,7 +148,3 @@ I will be doing this project again in the future because of how well it came out
 
 I feel like I could have made the camo even more dynamic looking had I not aligned the hex to the bounds of the case and canted it off of the right angles, I also would have added more variation in the paint fade edges, I would have incorporated more splattering too, to me this gives it a very ethereal and dynamic quality when you contrast it with the "proper" application in other areas. I will be implementing all of these things in the next laptop painting project, but in the meantime I will enjoy my very unique W541. 
 All in all it was an fun experience where I learned a lot and the finished product looks amazing! 
-
-![](005_laptop021.jpg)
-
-![](005_laptop022.jpg)
