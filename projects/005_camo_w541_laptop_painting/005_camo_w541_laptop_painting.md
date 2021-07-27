@@ -1,4 +1,4 @@
-# \\\ Painting a Laptop \\\
+# \\\ Custom Painted ThinkPad W541 \\\
 
 ![](005_laptop022.jpg)
 
