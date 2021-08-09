@@ -1,3 +1,14 @@
+## 006 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0]
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 006 - Custom 5000W Digi-Camo E-bike](https://hightech-lowlife.github.io/projects/006_digi_camo_ebike/006_digi_camo_ebike)
+
+Building a custom DIY 5000W [5KW!] 54MPH monster ebike! Complete with a subdued urban digital paint job, custom edge-lit acrylic dashboard and RGB LEDs everywhere! 150 amp controller, 5KW hub motor and 72V 30Ah battery pack. This was only my 3rd ebike I have ever built so a lot of mistakes were made along the way and I learned a ton. Check out the very detailed 5 part series! 
+
+[![img](https://hightech-lowlife.github.io/projects/006_digi_camo_ebike/006_1_glamour.jpg)](https://hightech-lowlife.github.io/projects/006_digi_camo_ebike/006_digi_camo_ebike)
+
+\\\\\\\\\\
+
 ## 005 \\\ Custom Painting a Laptop - ThinkPad W541 Hex-Camo
 ----------------------------------------------------------------------
 
