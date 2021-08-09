@@ -195,5 +195,5 @@ Now that the bike was standing on its own two wheels suspended by the fork and r
 Also I will mention that nearly all the bolts on this bike are 8mm, the kickstand of course uses a 10mm bolt which I didn't have, so I ordered some nice 10mm bolts only to realize that the 10mm bolt head is too large for how the kickstand is designed... almost like it was really designed for an 8mm bolt... so this is another fail on the kickstand design. The bolt fits flush as 8mm, so in my new hole it got an 8mm bolt and nut. The bike now stood and didn't fall over, it was beginning to look a lot more like a real bike. 
 
 
-## To be continued in further parts...
+## To be continued in future parts...
 
