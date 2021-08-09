@@ -18,7 +18,7 @@ If you're building an ebike with a large motor it just makes sense to buy a fram
 
 I will argue that it's stupid to go over 40mph on a 'bicycle' and it's stupid to build one that can do that. I don't know the specific technical or mathematical equations regarding physics involved but I have read that at this specific speed the wind resistance is so great that each increment of speed that you want to travel past this threshold requires exponentially more power to do so. I definitely think it's smarter, cheaper and easier to just make a lighter bike that goes really fast, instead of a very heavy, very expensive and very powerful bike that goes marginally faster (40mph vs 60mph). 40mph on a bicycle is scary, 60 feels like you're gonna die. Once you start pushing past 40 it's good (imperative?) to have tires that can handle it (motorcycle wheels and tires) and everything just starts to get heavier, larger and more expensive. It's stupid and a waste of money and just, there I said it. 
 
-With that being said however, just because something is stupid, doesn't mean you shouldn't do it. I could argue that almost everything we do as humans is stupid, so why should we stop now. My previous ebikes were a blast, enough to make me want to build a 3rd (and now even plans for a 4th... (~ here from the future again, you've build 11 ebikes now!) 
+With that being said however, just because something is stupid, doesn't mean you shouldn't do it. I could argue that almost everything we do as humans is stupid, so why should we stop now. My previous ebikes were a blast, enough to make me want to build a 3rd (and now even plans for a 4th... (~ here from the future again, you've built 11 ebikes now!) 
 
 wow, that was annoying to read! Right? /rant
 
