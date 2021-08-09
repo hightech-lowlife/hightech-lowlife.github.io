@@ -8,7 +8,7 @@ I was debating building another ebike after the happiness and success I had with
 
 This definitely isn't a guide, maybe something more to inspire you to create your own.   
 
-[image 1 glamour]
+![](006_1_glamour.jpg)
 
 # \\\ Parts \\\
 
@@ -24,7 +24,7 @@ wow, that was annoying to read! Right? /rant
 
 ## 1. The frame
 
-[image 2 parts]
+![](006_2_parts.jpg)
 
 The frame is an EEB Electric Enduro Bike frame, or a Chinese clone of one, or I don't really know the origins, but I assumed they were all made in China. Anyway, it's pretty good, it has 150mm dropouts and can fit a huge battery pack and has full suspension, it's quite light in comparison to my other Chinese frame of a similar design. Monoshock rear swingarm with suspension fork up front. If you're building an ebike I would strongly recommend at the very least a front suspension fork but ideally a full suspension frame, when you're going fast you hit those bumps faster. This frame is probably the most common larger ebike frame out there, which is good because there are a lot of resources on the internet regarding building and setting them up. 
 
@@ -59,7 +59,7 @@ This build was honestly kind of a pain in the a$$, but they seemingly always end
 
 rant/ I told myself this was just going to be a "thrown together dirty build" but here I was - from the jump - painting things and making them all pretty. If you "really" care about the quality of your paintjob you'll assemble it all first, make sure everything works correctly, then tear it down to nothing to paint, then reassemble (again). I opted to just paint first, try my best not to mar things up too badly upon assembly, fumbled a few things, but overall I think the paintjob came out a lot better than I was expecting, although maybe my hopes were on the lower side. /rant
 
-[image 3 prep]
+![](006_3_prep.jpg)
 
 Prepping for paint always goes the same, scuff and scour the surfaces with a big grit sandpaper (220ish) you don't have to take things down to bare metal, just enough to give the pain something to grab onto. Then clean thoroughly (or not) with soapy water and or alcohol. Allow plenty of time to dry, you don't want to paint on wet surfaces. 
 
@@ -70,23 +70,23 @@ I have done lots of my signature "hex camo" paintjobs before and this time I wan
 
 I painted automotive primer on all of the parts first, about two coats. The gray goes on very thick because it's sandable, but I rarely sand it after because most of the painting I do is matte and flat colors are very forgiving with imperfections, so it doesn't have to be glass smooth for the paint to look good. 
 
-[image 4 paint1]
+![](006_4_paint1.jpg)
 
 After that I moved on to the stencils, the pattern is very linear (literally boxes/digits) so for this to look better you need to line things up as best you can, which gets a bit difficult the more layers you put on. I found that I thought the stencils I made were patterned in a way to allow me to turn them upside down and have them "lock" in place, but I was wrong. They really only keyed into one another in one orientation so this made having more variation more difficult, but I managed with what I had to work with. I'm glad I made a few stencils because having this variety allowed me to line things up more easily with variation which is more akin to how the real digi-camo pattern is comprised. 
 
 Most of the surfaces of the bike parts are flat, so this made painting layers of the pattern easier. For the rounded and angled parts I opted to break one of the stencils into smaller pieces so I could fit them flat against these smaller spaces. Just lay the stencil down, spray the first color, move the stencil, spray more of the same color. Allow time to dry, then move on to the next color and repeat, and repeat, and repeat. I think I used 5 or 6 different colors, so this took a really long time. 
 
-[image 5 paint2]
+![](006_5_paint2.jpg)
 
 When I was done I wasn't quite happy with what I had created, the pattern came out really well (except for the top panel... which of course is the one you see the most...). Two errors occurred, one was that I was a little "off" on my stencil placement for the top panel, which resulted in things looking very muddy and undefined in comparison to all my other panels, and there really isn't a way to fix this other than starting over. My second error which was made in my paint selection, the "beige" gray I chose was a bit too light, and also the light blue was a bit too light as well. This is all preference, but the look I was going for was a more "subdued" look that has less contrast and right now my parts were looking like digital 'confetti'. I decided since all the other parts came out defined and the pattern was clear, to just redo the top panel and start over. It wasn't that large of a part and I it wouldn't be that bad to start over, so I did. I just recoated everything as best I could with gray primer to start a base, it didn't "completely" cover everything evenly, but covered enough to start again. Lay stencil, paint color, move stencil paint color, wait to dry, start with another color, repeat repeat repeat. I got it right the second time! 
 
-[image 6 paint3]
+![](006_6_paint3.jpg)
 
 Now with my parts matching, what to do about the colors? I figured maybe if I just gave them a misting of a darker color, maybe it would knock back some of the contrast? Flat black from further away and being very cautious not to overdo it, I was able to spray just enough to tint the panels darker, and it was actually pretty easy to control how much I was spraying so I was able to reach that low contrast darker look I was going for. Nailed it. 
 
 For the smaller parts that were red I just took apart all of the smaller parts I had and painted them flat black. Done. The red anodizing did look cool, just didn't fit the color scheme of the bike. 
 
-[image 7 paint4]
+![](006_7_paint4.jpg)
 
 Painting took a really long time, but it was worth it in the end because I pulled off the look that I was going for. 
 
@@ -97,17 +97,17 @@ Easily the most difficult part of this build, was literally building it (crazy I
 ### Headset + bearings (oh my god) + fork
  I bought another headset bearing set because I thought I didn't have one but not only did I have one from a previous build, but one was also included in the parts I bought, so now I had three sets. I first attempted to fit the headset (mind you I don't have a ton of experience building bikes...) and I was wondering why the bottom bearing wouldn't fit on the fork steering tube, there was this lip on the bottom and the bearing cup just wouldn't go down on it. It seemingly was aluminum so I didn't want to bash on it too badly, but after attempting quite a few um... "configurations" of bearings every which way I was stumped. Clearly it was supposed to rest down on the tube flush, but it wasn't going down, so I did some research and it turns on you have to smash down the cup over that little lip. You're supposed to use a special tool to not damage any parts, well, I didn't have that tool so I found a pipe that fit well enough and took a sledgehammer to it, and it fit with a bit of hammering. Success... or so I thought, even after fitting that cup finally on the stem, things still weren't working right, I put everything together which I thought was correct and I still had some play in my steering tube... what the hell!? 
 
-[image 8 fork]
+![](006_8_fork.jpg)
  
 After calling it another night and sleeping on it, I did even more research and - what do you know, I was missing the lower bearing that goes into the cup! No wonder things were wobbling around. I also learned how the spacers go and why they're all chamfered with different angles, almost like they're supposed to go together that way to make things fit very tightly together, wow. I will claim some stupidity on this for not knowing how these things go together, but hey that's how you learn. The reference I had didn't quite tell me what size the bearings were so I ordered one bearing, and I figured if it's the top one, then I'll just replace that and buy "the other one", of course right after I place my order I had the genius idea to measure the bearings I needed (priority of sequence kids, remember it, of course I ordered the bearing I already had, so I then ordered the one I needed. Ok I might have painted the bearing that was in there and yeah I'll admit it was a bit scratchy feeling after attempting to assemble the fork on the frame, but I'm not taking full credit because I'm sure that bearing wasn't smooth as glass as it was received. No big deal, I'll just replace the top one too. 
 
 I got my top bearing in the mail first so I was a bit eager to work on the bike after waiting a while, there was actually a split second where I second guessed myself and thought "hmmm, is it even worth it? just leave it in there, just keep the extra *just in case*. Well, I should have listened to my gut because after attempting to remove the top bearing I instantly felt regret for my decision haha. I thought it would be so easy to just pop that bearing out from the other side of the frame, whack and done. No, no no no. The bearing did come out, but... in pieces. Oopsie. Turns out there is a lip that holds the bearing like a shelf and I was partially slamming on that with the hammer, and then partially on the bearing, but man was that bearing race stuck in there. I'm sure it was pressed in there with a bearing press or just hammered very hard into there. After nearly giving up a few times trying to get this race out of the cup, I kept slamming and chipping until I finally bent it enough to yank it out of there, only very minimal damage to the cup... ok cool, finally. I went to go put the new bearing in and guess what, it didn't fit, at all. It was so off that I had to go recheck my order to make sure I bought the correct bearing, I borrowed my calipers from work and could measure - the inner cup was 38.6mm and the OD of the new bearing was 41.87. There's no way this is going in there, not even with a hammer. 
 
-[image 9 bearing]
+![](006_9_bearing.jpg)
 
 The bearing I pulled out said "42mm" on the side... ok? The new bearing I bought said "42mm" on it, these bearings were not the same size, you wouldn't even need a tool to see that - side by side stacked on top of each other, the new bearing was clearly bigger. I really didn't want to attempt to smash this even bigger bearing into the cup because the smaller one barely came out, barely. I also didn't want to buy another "42mm" bearing, how many interpretations of 42mm are there??? I didn't want to find out. After the new bottom bearing came, it slipped right in the bottom cup no problem, isn't this how all the bearings should fit? That also explains why my parts were missing this bearing, because it can just fall right out of the cup. After seeing how this bearing fit, I thought I'll just dremel out the cup to make the new top bearing fit. I thought this was going to be quite a pain, but it really only took me about 10 mins going slowly round and round with a sanding bit, taking off material, checking fitment, going around again, checking fitment again until I could finally slide the bearing in and out without issues. Finally, all that just to fit the headset... this was not the last of my troubles. I also realized why it's always better to pay more for a new kit, generally the amount of money you save from someone's abandon project isn't worth the time (and sometimes money) to get new parts that are missing, or parts that just don't fit. I'm ok with it because it's part of the fun, that sweet fun of frustration. 
 
-[image 10 front end]
+![](006_10_frontend.jpg)
 
 I was pretty happy to finally be able to assemble the headset on the steering tube and mount the fork on the frame, although now getting the parts all in order correctly on the steering tube I had a new problem. I didn't have enough spacers to have the headset clear the steering tube to provide compression, my options were to buy more spacers, or cut the tube. I opted to just cut the tube. I didn't want to have the headset sticking up so far. I saw that the tube was originally cut by what looked like a pipe cutter, this seemed like a good idea but man was that steel tough... that took forever to cut through, hindsight 20/20 I would have just hacksawed it off in 1/10th of the time and then filed it flush, all in all it did provide a clean cut that was nearly as flat as possible, so ok it was a nice finish, but that was a lot of (extraneous) work. After that just redo the thing I already did 3 times incorrectly and I fit all the parts and spacers and tightened it up and it was as smooth as glass and fit very tightly, no wobbling, it actually looked good too. 
 
@@ -119,7 +119,7 @@ The motor already came with a freewheel, but they're easy to install. Just be ca
 
 You know... I thought this part at least was going to go smoothly because part of the beauty of this smaller 5KW motor was that the axle wasn't too ginormous (my other bike is 8KW, with a huge axle). Since I had to fit my other bikes swingarm I thought this would be a pleasant surprise knowing that the shaft would just fit in the dropouts without any modification, but I was wrong. They "almost" fit, (just like that steering tube bearing "almost" fit...) but almost isn't a fit. 
 
-[image 11 motor]
+![](006_11_motor.jpg)
 
 I thought it was because the swingarm wasn't spread apart wide enough to accept the hub, but after trying to pry it with a hydraulic jack (I did this on my other bike and it worked...) this steel was very... springy. No dice. I figured the angles of the dropouts what were causing it not to fit, but either way this swingarm was not bending, and it needed to be enlarged. 
 
@@ -133,7 +133,7 @@ Putting on the front wheel was very easy, I actually remembered to put on the di
 
 This shock was definitely not set up to work for this frame, the bottom was not wide enough and the top was too wide, so either way it would not fit. I figured instead of trying to hammer out the bushing, I'll just cut it on the shock. I harkened back to the nightmares of attempting to slide the bearing out of the cup, and thought, no... just leave it, and cut it here, you will be happier. Thinkin' smart now. 
 
-[image 12 shock]
+![](006_12_shock.jpg)
 
 I measured the amount I needed to cut, threw the shock in the vise and hacked away with the saw, this steel was also very tough but my blade my was dull also, so that really didn't help. Fresh blade for the other side and it went a lot faster. Not perfectly flat, but a bit of filing and I was ok. It fit in the spot it needed to go so I was happy. For the bottom I just took up the slack with some thick washers. Long 8mm bolts for each side and all was golden. 
 
@@ -160,13 +160,13 @@ I took a ride on the bike and the chain skipped, turns out it was just hopping o
 
 You need to be able to stop the bike, especially one that can go very fast. I had a few sets of hydraulic brakes from an older build but as I went to mount the front caliper I realized that I had 4 or 5 mounting brackets that were all the same size. I'm using some big 203mm rotors and you need a specific bracket to hold the caliper at the right distance. After trying a thousand combinations of flipping brackets around I realized I would just need to purchase the right bracket. It finally arrived in the mail and it worked, I finally had a front brake. 
 
-[image 13 brake]
+![](006_13_brake.jpg)
 
 I'm not running a rear brake because I'm using regenerative braking which uses the motor as a brake, this is not advised because in case of electrical failure, you will not have a rear brake. It's always better to run a rear brake just in case, so again do what I say not what I do. I tried to run a rear brake on my last build and for some reason I could never get it to run right, it was either partially engaged, or not engaging enough, after trying a bunch of different parts I finally just gave up and didn't run a rear brake. It does make for a slightly cleaner looking build because you have one less line going to the back, but really you should run a rear brake. With that being said the regen brakes are adjustable and you can easily get them to lock the rear wheel, they are as powerful as the motor is, which is very very powerful. Most of the time riding I will only use the regen, this gives you a little power back to the battery, and saves your pads. You should note that you can't only use regen to brake, the regen cuts off at about 3mph, so you're still rolling, without any type of mechanical brakes you will not be able to fully stop, which if you're maneuvering around people, you will run them over, sure it's only 3mph, but they will not like you at all. 
 
 ### Progress so far (frame assembled)
 
-[image 14 frame assembled]
+![](006_14_frame_assembled.jpg)
 
 ### Battery and controller + lights
 
