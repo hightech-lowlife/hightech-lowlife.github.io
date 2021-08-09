@@ -35,7 +35,7 @@ The rear shock is a Fox shock (I think).
 
 ## 2. The motor
 
-It's a ([QS 50H V3 3KW](http://www.cnqsmotor.com/en/article_read/QS%20Motor%20205%2050H%20V3%20Motor%203000W%20Electric%20High%20Power%20Bike%20Spoke%20Hub%20Motor/259.html)) rear hub moto, 150mm axle width. Peak output is 6KW briefly, depends on your battery and controller. It was the baddest of the ebike hub motors until the 273 V3 came out. 
+It's a ([QS 205 50H V3 3KW](http://www.cnqsmotor.com/en/article_read/QS%20Motor%20205%2050H%20V3%20Motor%203000W%20Electric%20High%20Power%20Bike%20Spoke%20Hub%20Motor/259.html)) rear hub moto, 150mm axle width. Peak output is 6KW briefly, depends on your battery and controller. It was the baddest of the ebike hub motors until the 273 V3 came out. 
 
 
 ## 3. The controller
