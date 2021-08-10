@@ -10,6 +10,10 @@ This definitely isn't a guide, maybe something more to inspire you to create you
 
 ![](006_1_glamour.jpg)
 
+# \\\ Part 1 \\\
+
+<iframe width="1024" height="576" src="https://www.youtube.com/embed/tbnb8zvLVA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # \\\ Parts \\\
 
 First, a minor rant on ebikes and ebike building and ebike frames...
