@@ -44,7 +44,7 @@ It's a ([QS 205 50H V3 3KW](http://www.cnqsmotor.com/en/article_read/QS%20Motor%
 
 ## 3. The controller
 
-When I bought the parts is came with a Sabvoton SVMC72080 80A sinewave controller, I really like these controllers but I ended up selling this one because it's older and you can't use a fancy tft screen with it, and I like screens. So I hand-me-down'd the SCMN72150 150A controller from my other bike, because it has a cool display that shows you power use, battery indication, speedometer and a bunch of other cool things. Plus it's just an excuse to buy an even more powerful controller for my other bike (duh).
+When I bought the parts is came with a Sabvoton SVMC72080 80A sinewave controller, I really like these controllers but I ended up selling this one because it's older and you can't use a fancy tft screen with it, and I like screens. So I hand-me-down'd the SVMC72150 150A controller from my other bike, because it has a cool display that shows you power use, battery indication, speedometer and a bunch of other cool things. Plus it's just an excuse to buy an even more powerful controller for my other bike (duh).
 
 ## 4. The battery
 
