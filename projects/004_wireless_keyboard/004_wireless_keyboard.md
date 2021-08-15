@@ -36,12 +36,10 @@ Because **you're going wireless** you will no longer have the USB cable to power
 
 ---
 
-* **I no longer recommend getting a power bank**, it's better to get the charge circuit and battery separately so you know you'll get one that turns off when a load is applied, and also find a battery with the correct dimensions. 
-
-I can't find the 'exact' charge circuit I used to make these, but these parts are going to constantly be evolving as they are a ubiquitous and as chips change and layouts get more efficient they rarely stay exactly the same for too long. 
+**I no longer recommend getting a power bank**, it's better to get the charge circuit and battery separately so you know you'll get one that turns off when a load is applied, and also find a battery with the correct dimensions. I can't find the 'exact' charge circuit I used to make these, but these parts are going to constantly be evolving as they are a ubiquitous and as chips change and layouts get more efficient they rarely stay exactly the same for too long. 
 
 Some recommendations:
-I'm sure these links will break so it helps to know what to search for. eBay or AlieExpress will net you what you want, most likely Amazon will as well but I haven't sourced from there personally. 
+- I'm sure these links will break so it helps to know what to search for. eBay or AlieExpress will net you what you want, most likely Amazon will as well but I haven't sourced from there personally. 
 
 Charge Circuit: 
 - [This most likely will work](https://www.aliexpress.com/item/1005001374265342.html?spm=a2g0o.productlist.0.0.5a3576a4JXtj7l&algo_pvid=686d729f-e1b9-42d4-9f35-9a1fd3cd6ced&algo_exp_id=686d729f-e1b9-42d4-9f35-9a1fd3cd6ced-22&pdp_ext_f=%7B%22sku_id%22%3A%2212000015851249830%22%7D)
