@@ -94,7 +94,7 @@ Bluetooth adapter: 0.05 - 0.055a, manual says 40ma
 
 --- V2 ---
 
-CODE V2 TKL
+CODE V2 TKL (TenKey Less 87-Key)
 amps: 0.011a (no backlighting)
 
 amps: 0.039a (brightness 1)
@@ -105,7 +105,7 @@ amps: 0.145a (brightness 5)
 amps: 0.198a (brightness 6)
 amps: 0.272a (brightness 7)
 
-CODE V2 fullsize 
+CODE V2 Fullsize (104-Key)
 amps: 0.011a (no backlighting)
 
 amps: 0.041a (brightness 1)
@@ -153,7 +153,7 @@ amps: 0.350a (brightness 7)
 
 --- 60% ---
 
-CODE VP3 (60%)
+CODE VP3 (60%) (Vortex Pok3r 61-Key)
 amps: 0.089 (no backlighting)
 
 amps: 0.094 (brightness 1)
