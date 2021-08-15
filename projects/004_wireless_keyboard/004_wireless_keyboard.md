@@ -73,6 +73,14 @@ I actually wouldn't bother buying a power bank, it may cost a bit extra but it's
 ```
 Run times will vary greatly depending on how big your keyboard is, and if you have backlighting or not. For this TKL board I am getting about 28 hours per charge on medium backlight brightness, you will get way more or way less run time depending on the backlighting. I did a lot of testing on different boards to see how much power they draw. The BT module alone will pull 50mA, and typically a mechanical keyboard will use 10-40mA. Backlighting can suck a ton of power, so your battery life will suffer. Full brightness on this will be drawing 270mA! 
 
+How to calculate your run time? 
+Use a USB meter to see how much power your keyboard is drawing, then add 0.05a for the BT adapter (and maybe a little extra for charge circuit loss). 
+
+Then input your values into this calculator [Mah-Hours Calculator](https://convert-formula.com/mah-hours)
+
+Or you can do the math:
+(mAh)/(Amps*1000) = (hours). For example, if you have a 3000 mAh battery that runs at 0.2 Amps (0.2Amps = 200mA), then the time that the battery will last for is (3000)/(0.2*1000) = (3000)/(200)= 15 Hours.
+
 ```
 Battery: 3000mah (approx) @5V
 
