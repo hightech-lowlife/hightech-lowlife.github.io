@@ -36,6 +36,26 @@ The beauty of getting a power bank as opposed to a just a battery pack is that t
 
 Obviously the  the capacity oflarger the battery the longer the duration of use before you have to charge again, but a higher capacity battery is also well... **larger**, so that's going to take up more space, it's a balancing act between pack size and the ability to hide it within the keyboard case. 
 
+*I no longer recommend getting a power bank, it's better to get the charge circuit and battery separately so you know you'll get one that turns off when a load is applied, and also find a battery with the correct dimensions. 
+
+I can't find the 'exact' charge circuit I used to make these, but these parts are going to constantly be evolving as they are a ubiquitous and as chips change and layouts get more efficient they rarely stay exactly the same for too long. 
+
+Some recommendations:
+I'm sure these links will break so it helps to know what to search for. 
+
+eBay or AlieExpress will net you what you want, most likely Amazon will as well but I haven't sourced from there personally. 
+
+Charge Circuit: 
+[This most likely will work](https://www.aliexpress.com/item/1005001374265342.html?spm=a2g0o.productlist.0.0.5a3576a4JXtj7l&algo_pvid=686d729f-e1b9-42d4-9f35-9a1fd3cd6ced&algo_exp_id=686d729f-e1b9-42d4-9f35-9a1fd3cd6ced-22&pdp_ext_f=%7B%22sku_id%22%3A%2212000015851249830%22%7D)
+"usb power bank pcb" or "dual usb power bank pcb". The only real requirement is that they can be turned off when a load is applied. 
+
+Another seller I recommend is [HengCheng](https://www.aliexpress.com/store/group/For-3-7v-li-ion-bms/812679_514736790.html?spm=a2g0o.store_pc_groupList.0.0.35864d21zn1ae1)
+You can even use USB type-c with PD for faster charging, like this board: [Quick Charge 3.0 Power Bank Part PD3.0 Li Ion Battery Pcba Supply Circuit Board PCB 5v2a 9v2a 12v1.5a Booster Module USB](https://www.aliexpress.com/item/33039428180.html?spm=a2g0o.productlist.0.0.370d60e2GiuXv0&algo_pvid=22170dc3-a98b-4dd0-a6c0-b5a95f3fad7f&algo_exp_id=22170dc3-a98b-4dd0-a6c0-b5a95f3fad7f-43&pdp_ext_f=%7B%22sku_id%22%3A%2267349461701%22%7D)
+
+Battery:
+[This seller has some batteries](https://www.ebay.com/str/tesky12)
+It's kind of hard to search by dimension (at least on eBay), using "3.7v lipo battery 3000mah" will get you some good results. If you start looking in the 3000-4000mah range it should be in the ballpark for the dimensions you need, just dig through them to find the largest pack that will fit. 
+
 ```
 Tangent about charge circuit PCBs incoming... 
 Not all charge circuits are created equal! I found this out through trial and error
