@@ -34,7 +34,7 @@ Part 2 of building a custom DIY 5000W [5KW!] 54MPH monster ebike! In this part w
 ## 006 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 1
 ----------------------------------------------------------------------
 
-[Check out the video and full write-up here \\\ 006 - Custom 5000W Digi-Camo E-bike](https://hightech-lowlife.github.io/projects/006_digi_camo_ebike/006_digi_camo_ebike)
+[Check out the video and full write-up here \\\ 006 - Custom 5000W Digi-Camo E-bike - Part 1](https://hightech-lowlife.github.io/projects/006_digi_camo_ebike/006_digi_camo_ebike)
 
 Building a custom DIY 5000W [5KW!] 54MPH monster ebike! Complete with a subdued urban digital paint job, custom edge-lit acrylic dashboard and RGB LEDs everywhere! 150 amp controller, 5KW hub motor and 72V 30Ah battery pack. This was only my 3rd ebike I have ever built so a lot of mistakes were made along the way and I learned a ton.
 
