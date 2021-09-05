@@ -1,4 +1,4 @@
-# \\\ Part 1 \\\
+# \\\ Ebike [3.0] - The Build - Part 1 \\\
 
 <iframe width="1024" height="576" src="https://www.youtube.com/embed/tbnb8zvLVA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -59,7 +59,6 @@ The front fork is a super cheap Chinese "Zoom" brand fork, it's very heavy and d
 
 The rear shock is a Fox shock (I think). 
 
-
 ## 2. The motor
 
 It's a ([QS 205 50H V3 3KW](http://www.cnqsmotor.com/en/article_read/QS%20Motor%20205%2050H%20V3%20Motor%203000W%20Electric%20High%20Power%20Bike%20Spoke%20Hub%20Motor/259.html)) rear hub moto, 150mm axle width. Peak output is 6KW briefly, depends on your battery and controller. It was the baddest of the ebike hub motors until the 273 V3 came out. 
@@ -71,7 +70,7 @@ When I bought the parts is came with a Sabvoton SVMC72080 80A sinewave controlle
 
 ## 4. The battery
 
-Ok so the battery is the one I had been using on my other bike and it's a 72v 30Ah pack and it's huge. It weighs 20lbs! That's more than some peoples entire bike! When I was making my 2nd bike I really didn't know much about ebikes or batteries and I made the mistake of getting a pack with a much lower amp discharge rating on the BMS. It is either 50A or 80A on the BMS, and because I bought this in China - the communication wasn't so great so I'm not really sure what it is, but it does work. I figured this would be a better fit for this motor though since it's smaller and uses less power, so now the plan is to get a more powerful battery for my other ebike and use this one here.  
+Ok so the battery is the one I had been using on my other bike and it's a 72v 30Ah pack and it's huge (340x130x120mm). It weighs 20lbs! That's more than some peoples entire bike! When I was making my 2nd bike I really didn't know much about ebikes or batteries and I made the mistake of getting a pack with a much lower amp discharge rating on the BMS. It is either 50A or 80A on the BMS, and because I bought this in China - the communication wasn't so great so I'm not really sure what it is, but it does work. I figured this would be a better fit for this motor though since it's smaller and uses less power, so now the plan is to get a more powerful battery for my other ebike and use this one here.  
 
 ## 5. Miscellaneous odds n ends
 
@@ -82,7 +81,7 @@ Some generic "LED bike headlight". The parts I bought off Craigslist included a 
 
 This build was honestly kind of a pain in the a$$, but they seemingly always end up that way no matter how "simple" they appears at first.  
 
-## Step 1 - Paint prep
+## Paint prep
 
 rant/ I told myself this was just going to be a "thrown together dirty build" but here I was - from the jump - painting things and making them all pretty. If you "really" care about the quality of your paintjob you'll assemble it all first, make sure everything works correctly, then tear it down to nothing to paint, then reassemble (again). I opted to just paint first, try my best not to mar things up too badly upon assembly, fumbled a few things, but overall I think the paintjob came out a lot better than I was expecting, although maybe my hopes were on the lower side. /rant
 
@@ -91,7 +90,7 @@ rant/ I told myself this was just going to be a "thrown together dirty build" bu
 Prepping for paint always goes the same, scuff and scour the surfaces with a big grit sandpaper (220ish) you don't have to take things down to bare metal, just enough to give the pain something to grab onto. Then clean thoroughly (or not) with soapy water and or alcohol. Allow plenty of time to dry, you don't want to paint on wet surfaces. 
 
 
-## Step 2 - Spraying
+## Spraying
 
 I have done lots of my signature "hex camo" paintjobs before and this time I wanted to try something different, so I created a digital camo stencil based off of a tiger stripe pattern. I created the stencils out of acrylic by cutting them with a laser. 
 
@@ -117,11 +116,11 @@ For the smaller parts that were red I just took apart all of the smaller parts I
 
 Painting took a really long time, but it was worth it in the end because I pulled off the look that I was going for. 
 
-## Step 3 - Assembly 
+## Assembly 
 
 Easily the most difficult part of this build, was literally building it (crazy I know!)... where do I even begin? 
 
-### Headset + bearings (oh my god) + fork
+## Headset + bearings (oh my god) + fork
  I bought another headset bearing set because I thought I didn't have one but not only did I have one from a previous build, but one was also included in the parts I bought, so now I had three sets. I first attempted to fit the headset (mind you I don't have a ton of experience building bikes...) and I was wondering why the bottom bearing wouldn't fit on the fork steering tube, there was this lip on the bottom and the bearing cup just wouldn't go down on it. It seemingly was aluminum so I didn't want to bash on it too badly, but after attempting quite a few um... "configurations" of bearings every which way I was stumped. Clearly it was supposed to rest down on the tube flush, but it wasn't going down, so I did some research and it turns on you have to smash down the cup over that little lip. You're supposed to use a special tool to not damage any parts, well, I didn't have that tool so I found a pipe that fit well enough and took a sledgehammer to it, and it fit with a bit of hammering. Success... or so I thought, even after fitting that cup finally on the stem, things still weren't working right, I put everything together which I thought was correct and I still had some play in my steering tube... what the hell!? 
 
 ![](006_8_fork.jpg)
@@ -140,7 +139,7 @@ I was pretty happy to finally be able to assemble the headset on the steering tu
 
 Finally.. FINALLY I had finished the front fork / headset / handlebars. Finally, I'm only done with the front of the bike, and not even the entire front part!
 
-### Swingarm + motor
+## Swingarm + motor
 
 The motor already came with a freewheel, but they're easy to install. Just be careful not to crossthread this, you really really don't want to do that, and it's kind of easy to do. 
 
@@ -164,63 +163,9 @@ This shock was definitely not set up to work for this frame, the bottom was not 
 
 I measured the amount I needed to cut, threw the shock in the vise and hacked away with the saw, this steel was also very tough but my blade my was dull also, so that really didn't help. Fresh blade for the other side and it went a lot faster. Not perfectly flat, but a bit of filing and I was ok. It fit in the spot it needed to go so I was happy. For the bottom I just took up the slack with some thick washers. Long 8mm bolts for each side and all was golden. 
 
-
-### Chainring, pedals, chain
-
-This should be pretty straightforward right? How many low lives does it take to put a dang chain on a bike, more than one apparently. The chain part actually wasn't that bad, but the whole tensioner setup, not so great. 
-
-The pedals were easy to thread onto the cranks and the chainring and cranks went on the bottom bracket with easy, just push on, and install the bolts. Presto. 
-
-Ok so you should get this chain tool because it's a lifesaver and works very well: 
-
-One tip is to not push the pin all the way out of the link, because it's near impossible to try to insert one after it's fully pushed out, so just push it out enough to remove the link, then shorten the chain, then push from the other side and it will go in easy. Make sure it's not binding while you're turning the tool or you will break your tool and be stuck with a half disassembled chain. 
-
-The chain went on without much fuss and it looks good. Remove some links, make it somewhat the right size, reassemble (**on the bike**) and you're done. 
-
-Now, this tensioner really sucks, but I already had it and it was cheap. I don't really think any of these single speed tensioners work all that well, you're better off just buying a derailleur and use that, they have two sprockets and hold the chain captive in a more robust fashion. 
-
-The chain tensioner mounts into the swingarm using a 10mm bolt (the only other 10mm bolt on this entire bike) thankfully I had purchased some 10mm bolts for the kickstand which I really didn't need as you know, but these bolts were very long so I chopped one down with a hacksaw to make it fit better. There isn't much clearance at all between the bolt and the freewheel when fully tightened, definitely not enough space to put a nut on the other side. 
-
-I took a ride on the bike and the chain skipped, turns out it was just hopping off of the tensioner under load. I went to rearrange the internal spring on the tensioner for more tension, and it started stripping threads in the swingarm... NO! I thought I had toasted this mount, but it turns out that with all the washers and spacers I put on to align the tensioner to the chain, with the new orientation I needed to remove some so that the bolt could thread in more to the swingarm, whew. I tightened it up and went for another ride and it didn't skip at all. I'm still skeptical on this tensioner design, but I will run it until it breaks or keeps skipping and I will replace it with a derailleur later if need be. 
-
-### Brakes
-
-You need to be able to stop the bike, especially one that can go very fast. I had a few sets of hydraulic brakes from an older build but as I went to mount the front caliper I realized that I had 4 or 5 mounting brackets that were all the same size. I'm using some big 203mm rotors and you need a specific bracket to hold the caliper at the right distance. After trying a thousand combinations of flipping brackets around I realized I would just need to purchase the right bracket. It finally arrived in the mail and it worked, I finally had a front brake. 
-
-![](006_13_brake.jpg)
-
-I'm not running a rear brake because I'm using regenerative braking which uses the motor as a brake, this is not advised because in case of electrical failure, you will not have a rear brake. It's always better to run a rear brake just in case, so again do what I say not what I do. I tried to run a rear brake on my last build and for some reason I could never get it to run right, it was either partially engaged, or not engaging enough, after trying a bunch of different parts I finally just gave up and didn't run a rear brake. It does make for a slightly cleaner looking build because you have one less line going to the back, but really you should run a rear brake. With that being said the regen brakes are adjustable and you can easily get them to lock the rear wheel, they are as powerful as the motor is, which is very very powerful. Most of the time riding I will only use the regen, this gives you a little power back to the battery, and saves your pads. You should note that you can't only use regen to brake, the regen cuts off at about 3mph, so you're still rolling, without any type of mechanical brakes you will not be able to fully stop, which if you're maneuvering around people, you will run them over, sure it's only 3mph, but they will not like you at all. 
-
-### Progress so far (frame assembled)
+## Progress so far (frame assembled)
 
 ![](006_14_frame_assembled.jpg)
 
-### Battery and controller + lights
-
-We need a way to get juice in the pack from outside the frame so I picked up a fancy port that screws into a flat plane much like a bulkhead port. It's a premium piece (expensive for a charging port...) but it looks very finished and I already had one on my other bike so my charger was set up for this plug. 
-
-I'm not a huge fan of putting the port right in the middle of the top of the frame, but it makes the most sense as it's the easiest to access this. On my other bike I could put it on the side because the side panels don't go the full length of the frame, if I did the same on this frame I would have to have the port attached to a panel that could be detached, so I would have some wires hanging and that's just annoying. Measured, cut the whole, fitted the port, marked the mounting holes, used 4mm bolts and nuts to secure the port. 
-
-I had to remove the port again to wire it up. I'm also using a 72v to 12v buck converter which takes the 72v and brings it down to 12v to run all of the lights, if you hook up your lights directly to the 72v battery they'll be super bright for less than a second and then won't turn on anymore forever, they're not designed for that much current so you'll need this to bring down the flow. 
-
-My circuit design is to start at the battery, go to the charge port, then to the 12v converter, this makes it easy to install both port and converter at the same time. I thought I was being smart this time by only having one XT60 connector going from the port and converter to the battery, but then when I tried to install it I realized why I put two connectors on my other bike, because the converter won't fit through the hole for the port (duh). Oh well, simple enough to add another connector. 
-
-I'm using the battery from my other bike, it's 72v 30Ah, it's huge, weighs 20lbs. Thankfully the configuration I had it made in also fits in this slimmer frame, just barely. The controller however did not, it has these mounting tabs integrated in the sides of the housing that unfortunately stuck out just a bit too far, even with the extra room that the side panels provide, it's just a bit too much. No big deal, I'll just hack off the tabs with the angle grinder. 
-
-Cutting the tabs off was much more difficult than I had anticipated, I'm not the most proficient in using the grinder, I was cutting for a bit, but I feel like I was a bit hesitant to really just throw the wheel into the housing, the disc is very thick and it was taking quite a while to take off the material. It's aluminum so I feel like it should chew through it very easily, like butter, but it was taking a while. I see these videos where people are cutting an entire house in half with an angle grinder in seconds and it's just a mass of sparks and wow they're done instantly, I thought it was going to be like that, and it wasn't. I figured maybe the wheel I was using was just too thick to use as a cutting tool, so I switched to the dremel, which seemed to be faster, but still took a while. It's probably like 4 or 5mm aluminum but still, it's aluminum! After dremeling one tab nearly all the way off, I thought I'd try the hacksaw, this was much faster for me, and I finished the side and fairly quickly cut through the other tab. The cut wasn't as clean as I could have made it, but it fits now. 
-
-I padded the frame internally with some foam to protect the battery and controller, with the padding things were becoming a tighter fit, but everything did fit. I pulled the controller out enough to screw in the power wires and everything packed back in the frame neatly. 
-
-The bike parts I bought did come with an LED tail light which would be fine but I had a vision of two LED strips running the length of the seat frame, I thought it would look cooler than a bulky light at the end. I was originally just going to make these red and then another strip right next to it that was RGB, but I figured this was overkill and that the lights didn't "need" to be red since this isn't a car, and as long as people can see you does it really matter what color the lights are? I can make my whole bike red if need be haha. -
-
-For the headlights I originally wanted to have two flashlights closer together on the handlebars and I really tried to make this work but for some reason I couldn't get the LEDs to light externally despite trying a bunch of things. I didn't test the flashlights with batteries before taking them apart, but they were so cheap it's possible they didn't work well from the start. I broke my rule of testing everything before modding/hacking... oh well, I really gave it a genuine effort, and I could get them to light sporadically, but I needed something robust, so I ditched that idea and went with a singular tri-light setup. I did purchase some additional accent LEDs for the handlebars that I 
-
-### Kickstand
-
-Now that the bike was standing on its own two wheels suspended by the fork and rear shock I needed a way for it to not fall over. They included a kickstand... awesome. But it didn't fit... not awesome. They made a cool little hole on the frame with a nut welded on the inside and everything, almost like they engineered it to work, but the engineers took a day off and put that hole on the wrong side. With it on the left side, the kickstand comes out way too far and interferes with the pedal... you guys did put pedals on when you engineered this right? I don't think they did. Anyway, it wouldn't fit and it was wrong, so I realized that if I made my own hole on the other side it actually would work, so I took a drill, made a hole and just put my own nut and bolt through and cinched it up. 
-
-Also I will mention that nearly all the bolts on this bike are 8mm, the kickstand of course uses a 10mm bolt which I didn't have, so I ordered some nice 10mm bolts only to realize that the 10mm bolt head is too large for how the kickstand is designed... almost like it was really designed for an 8mm bolt... so this is another fail on the kickstand design. The bolt fits flush as 8mm, so in my new hole it got an 8mm bolt and nut. The bike now stood and didn't fall over, it was beginning to look a lot more like a real bike. 
-
-
-## To be continued in future parts...
+ ## Continued in [part 2](https://hightech-lowlife.github.io/projects/007_digi_camo_ebike_part2/007_digi_camo_ebike_part2)
 
