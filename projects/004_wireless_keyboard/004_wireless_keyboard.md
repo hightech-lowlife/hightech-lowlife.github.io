@@ -22,6 +22,18 @@ I'm creating this guide using a specific keyboard (the WASD CODE), but the funda
 
 What really makes this all possible is the [Handheld Scientific BT-500](http://handheldsci.com/kb/). this tiny little adapter takes your USB signals and converts them to bluetooth wireless signals to be read by any bluetooth phone, laptop, desktop, tablet, you-name-it. Handheldsci has been making wireless adapters for quite some time now, and this latest rendition is much smaller and more portable than their previous release, which makes it perfect for what we're going to use it for. 
 
+```
+I've been asked a lot if this will work with dedicated gaming pads (such as the Razer Tartarus), I'm not sure since I've never personally tried it, but I can say that Handheld Scientific is extremely generous with allowing people to test and experiment with their product. 
+
+It should work with almost anything, here is a list of only the things they have tested so far: http://handheldsci.com/comp/ 
+
+Also, they will even offer a refund if it doesn't work with your device. This is from their website: 
+
+"Double Commitments: (1) We will investigate any case of incompatibility you report and provide free replacement until the issue is fixed; (2) you can return the adapter for full refund including S&H within 6 months of purchase for any reason. If you have communicated with us about an issue, then there is no time limit for the return. The returned unit can be in any condition, e.g., without original package, damaged, burnt (in that case we just need the ash back :-)."
+
+I'm not sponsored by them at all, but to me (IMHO) a company that allows this kind of experimentation and allowance for trying things out is unheard of and they deserve the money.
+```
+
 ## 3. The Battery
 
 ![](004_powerbank.jpg)
