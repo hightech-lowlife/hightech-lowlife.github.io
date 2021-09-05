@@ -2,7 +2,7 @@
 
 <iframe width="1024" height="576" src="https://www.youtube.com/embed/tbnb8zvLVA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# \\\ Digi-Camo E-Bike [3.0] \\\
+## \\\ Digi-Camo E-Bike [3.0] \\\
 
 This is the 3rd ebike I have made and this started out as just a "throw something together with some parts and make it a beater" but... I've always had a hard time just making shi\\y things, so of course with this I went ahead and made it "too nice" and [here I go again. ](https://www.youtube.com/watch?v=WyF8RHM1OCg)
 
@@ -12,7 +12,7 @@ I was debating building another ebike after the happiness and success I had with
 
 This definitely isn't a guide, maybe something more to inspire you to create your own.   
 
-# \\\ Parts \\\
+## \\\ Parts \\\
 
 Full parts list:
 (If I don't have a link then you should be able to find it using the search term in quotes (eBay, Amazon, Aliexpress, etc.) 
@@ -116,7 +116,7 @@ For the smaller parts that were red I just took apart all of the smaller parts I
 
 Painting took a really long time, but it was worth it in the end because I pulled off the look that I was going for. 
 
-## Assembly 
+# Assembly 
 
 Easily the most difficult part of this build, was literally building it (crazy I know!)... where do I even begin? 
 
@@ -151,11 +151,11 @@ I thought it was because the swingarm wasn't spread apart wide enough to accept 
 
 So I fit up the arm in a vise and took the angle grinder to the dropouts, they just needed a tiny bit to fit, that tiny bit ended up being quite more than I had anticipated, so cut, remove, check fitment, repeat repeat repeat until it finally slid in on both sides. Ok not too bad, it didn't take that long to give each side a few passes with the grinder. On to the next thing!
 
-### Front wheel + mating of swingarm and frame
+## Front wheel + mating of swingarm and frame
 
 Putting on the front wheel was very easy, I actually remembered to put on the disc brake before mounting the wheel, so that was nice of me (pats myself on the back, good job). I also mated the swingarm to the rear of the frame without much effort, just align the parts, slide the large bolt through and tighten, done. Does that mean all of the rest of the assembly is going to as smoothly?? No. Next up; 
 
-### Rear shock
+## Rear shock
 
 This shock was definitely not set up to work for this frame, the bottom was not wide enough and the top was too wide, so either way it would not fit. I figured instead of trying to hammer out the bushing, I'll just cut it on the shock. I harkened back to the nightmares of attempting to slide the bearing out of the cup, and thought, no... just leave it, and cut it here, you will be happier. Thinkin' smart now. 
 
@@ -166,6 +166,8 @@ I measured the amount I needed to cut, threw the shock in the vise and hacked aw
 ## Progress so far (frame assembled)
 
 ![](006_14_frame_assembled.jpg)
+
+Seems like a lot of work just for a skeleton of a chassis but it was fun so far, let's keep going! 
 
  ## Continued in [part 2](https://hightech-lowlife.github.io/projects/007_digi_camo_ebike_part2/007_digi_camo_ebike_part2)
 
