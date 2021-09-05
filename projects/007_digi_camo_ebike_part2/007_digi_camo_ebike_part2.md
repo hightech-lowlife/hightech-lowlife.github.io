@@ -70,7 +70,7 @@ My circuit design is to start at the battery, go to the charge port, then to the
 
 For the headlights I originally wanted to have two flashlights closer together on the handlebars and I really tried to make this work but for some reason I couldn't get the LEDs to light externally despite trying a bunch of things. I didn't test the flashlights with batteries before taking them apart, but they were so cheap it's possible they didn't work well from the start. I broke my rule of testing everything before modding/hacking... oh well, I really gave it a genuine effort, and I could get them to light sporadically, but I needed something robust, so I ditched that idea and went with a singular tri-light setup.
 
-### Chainring, pedals, chain
+## Chainring, pedals, chain
 
 This should be pretty straightforward right? How many low lives does it take to put a dang chain on a bike, more than one apparently. The chain part actually wasn't that bad, but the whole tensioner setup, not so great. 
 
@@ -90,29 +90,54 @@ The chain tensioner mounts into the swingarm using a 10mm bolt (the only other 1
 
 I took a ride on the bike and the chain skipped, turns out it was just hopping off of the tensioner under load. I went to rearrange the internal spring on the tensioner for more tension, and it started stripping threads in the swingarm... NO! I thought I had toasted this mount, but it turns out that with all the washers and spacers I put on to align the tensioner to the chain, with the new orientation I needed to remove some so that the bolt could thread in more to the swingarm, whew. I tightened it up and went for another ride and it didn't skip at all. I'm still skeptical on this tensioner design, but I will run it until it breaks or keeps skipping and I will replace it with a derailleur later if need be. 
 
-![](006_6_paint3.jpg)
+## RGB LED madness 
 
+![](part2_led.jpg)
 
+The bike parts I bought did come with an LED tail light which would be fine but I had a vision of two LED strips running the length of the seat frame, I thought it would look cooler than a bulky light at the end. I was originally just going to make these red and then another strip right next to it that was RGB, but I figured this was overkill and that the lights didn't "need" to be red since this isn't a car, and as long as people can see you does it really matter what color the lights are? I can make my whole bike red if need be!  
 
+![](part2_led2.jpg)
 
+I went a little overboard and ended up decking out the bike with 7 (or 8) custom made LED strips. It was a lot of work but it was worth it for how cool it came out!
 
+![](part2_led3.jpg)
 
-### Progress so far (frame assembled)
+I hacked up a ton of old USB cables to make the wires, I even sleeved them all with some cool navy blue 550 paracord. 
 
-![](006_14_frame_assembled.jpg)
+![](part2_led4.jpg)
 
-### Battery and controller + lights
+After wiring them all up I tested them with the RGB controller to make sure they all worked, only 1 had some faulty LEDs so I quickly swapped those out for a fresh strip, and then they all worked! 
 
+![](part2_led5.jpg)
 
+Here they are all completed and sealed with a metric ton of hot glue. 
+
+![](part2_led6.jpg)
+
+And finally all zip-tied up on the bike. -Whew- that was a lot of work and glad to have it all completed finally. 
+
+## Test fitting the battery and controller
+
+![](part2_components.jpg)
 
 I'm using the battery from my other bike, it's 72v 30Ah, it's huge, weighs 20lbs. Thankfully the configuration I had it made in also fits in this slimmer frame, just barely. The controller however did not, it has these mounting tabs integrated in the sides of the housing that unfortunately stuck out just a bit too far, even with the extra room that the side panels provide, it's just a bit too much. No big deal, I'll just hack off the tabs with the angle grinder. 
 
-Cutting the tabs off was much more difficult than I had anticipated, I'm not the most proficient in using the grinder, I was cutting for a bit, but I feel like I was a bit hesitant to really just throw the wheel into the housing, the disc is very thick and it was taking quite a while to take off the material. It's aluminum so I feel like it should chew through it very easily, like butter, but it was taking a while. I see these videos where people are cutting an entire house in half with an angle grinder in seconds and it's just a mass of sparks and wow they're done instantly, I thought it was going to be like that, and it wasn't. I figured maybe the wheel I was using was just too thick to use as a cutting tool, so I switched to the dremel, which seemed to be faster, but still took a while. It's probably like 4 or 5mm aluminum but still, it's aluminum! After dremeling one tab nearly all the way off, I thought I'd try the hacksaw, this was much faster for me, and I finished the side and fairly quickly cut through the other tab. The cut wasn't as clean as I could have made it, but it fits now. 
+![](part2_controllercut.jpg)
+
+Ok so I only had grinding wheels for my angle grinder and I really needed cut off wheels, so here I go with the hacksaw again. Cutting the tabs off was much more difficult than I had anticipated, so I switched to the dremel, which seemed to be faster, but still took a while. It's probably like 4 or 5mm aluminum but still, it's aluminum! After dremeling one tab nearly all the way off, I thought I'd try the hacksaw, this was much faster for me, and I finished the side and fairly quickly cut through the other tab. The cut wasn't as clean as I could have made it, but it fits now. 
+
+## Wiring it all up
+
+![](part2_connection.jpg)
 
 I padded the frame internally with some foam to protect the battery and controller, with the padding things were becoming a tighter fit, but everything did fit. I pulled the controller out enough to screw in the power wires and everything packed back in the frame neatly. 
 
-The bike parts I bought did come with an LED tail light which would be fine but I had a vision of two LED strips running the length of the seat frame, I thought it would look cooler than a bulky light at the end. I was originally just going to make these red and then another strip right next to it that was RGB, but I figured this was overkill and that the lights didn't "need" to be red since this isn't a car, and as long as people can see you does it really matter what color the lights are? I can make my whole bike red if need be haha. -
+![](part2_progress.jpg)
 
+Here is how it looks so far, not bad! 
 
+![](part2_throttle.jpg)
 
-## To be continued in future parts...
+I thought I was going to be able to finally test it but nope, ran into another issue - these throttle connectors were not going to work together! 
+
+## To be continued in part 3...
