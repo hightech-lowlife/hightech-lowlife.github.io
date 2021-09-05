@@ -140,4 +140,4 @@ Here is how it looks so far, not bad!
 
 I thought I was going to be able to finally test it but nope, ran into another issue - these throttle connectors were not going to work together! 
 
-## To be continued in part 3...
+## Continued in [part 3 >>>](https://hightech-lowlife.github.io/projects/008_digi_camo_ebike_part3/008_digi_camo_ebike_part3)
