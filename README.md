@@ -1,3 +1,36 @@
+## 009 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 4
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 009 - Custom 5000W Digi-Camo E-bike - Part 4](https://hightech-lowlife.github.io/projects/009_digi_camo_ebike_part4/009_digi_camo_ebike_part4)
+
+Part 4 of building a custom DIY 5000W [5KW!] 54MPH monster ebike! In this part we finally get a headlight solution that works and also finalize and finish up the custom acrylic dashboard! 
+
+[![img](https://hightech-lowlife.github.io/projects/009_digi_camo_ebike_part4/part4.jpg)](https://hightech-lowlife.github.io/projects/009_digi_camo_ebike_part4/009_digi_camo_ebike_part4)
+
+\\\\\\\\\\
+
+## 008 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 3
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 008 - Custom 5000W Digi-Camo E-bike - Part 3](https://hightech-lowlife.github.io/projects/008_digi_camo_ebike_part3/008_digi_camo_ebike_part3)
+
+Part 3 of building a custom DIY 5000W [5KW!] 54MPH monster ebike! In this part we take care of most of the custom edge-lit acrylic dashboard building. We're still stumped by the throttle woes we've been having, but keep pressing on. 
+
+[![img](https://hightech-lowlife.github.io/projects/008_digi_camo_ebike_part3/part3.jpg)](https://hightech-lowlife.github.io/projects/008_digi_camo_ebike_part3/008_digi_camo_ebike_part3)
+
+\\\\\\\\\\
+
+## 007 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 2
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 007 - Custom 5000W Digi-Camo E-bike - Part 2](https://hightech-lowlife.github.io/projects/007_digi_camo_ebike_part2/007_digi_camo_ebike_part2)
+
+Part 2 of building a custom DIY 5000W [5KW!] 54MPH monster ebike! In this part we run into some problems with mounting the LCD screen, as well as the brakes, oh and also the kickstand... just a lot of problems, but we do find solutions for them. We also mount the charge port and take care of a lot of the electronics including a metric ton of LED strip wiring!
+
+[![img](https://hightech-lowlife.github.io/projects/007_digi_camo_ebike_part2/part2.jpg)](https://hightech-lowlife.github.io/projects/007_digi_camo_ebike_part2/007_digi_camo_ebike_part2)
+
+\\\\\\\\\\
+
 ## 006 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 1
 ----------------------------------------------------------------------
 
