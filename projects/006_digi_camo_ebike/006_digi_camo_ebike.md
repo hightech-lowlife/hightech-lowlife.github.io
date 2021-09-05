@@ -8,8 +8,6 @@ I was debating building another ebike after the happiness and success I had with
 
 This definitely isn't a guide, maybe something more to inspire you to create your own.   
 
-![](006_1_glamour.jpg)
-
 # \\\ Part 1 \\\
 
 <iframe width="1024" height="576" src="https://www.youtube.com/embed/tbnb8zvLVA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
