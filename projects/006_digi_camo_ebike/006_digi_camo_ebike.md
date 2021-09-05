@@ -2,6 +2,8 @@
 
 <iframe width="1024" height="576" src="https://www.youtube.com/embed/tbnb8zvLVA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+In this episode we tackle a good portion of the main frame assembly and fitting of the electrical components. 
+
 This is the 3rd ebike I have made and this started out as just a "throw something together with some parts and make it a beater" but... I've always had a hard time just making shi\\y things, so of course with this I went ahead and made it "too nice" and [here I go again. ](https://www.youtube.com/watch?v=WyF8RHM1OCg)
 
 I swear on my next bike build it will be more thrown together, but don't hold me too that because I'll probably disappoint (me from the future here, yes I'm disappointed). 
@@ -57,6 +59,7 @@ The front fork is a super cheap Chinese "Zoom" brand fork, it's very heavy and d
 
 The rear shock is a Fox shock (I think). 
 
+
 ## 2. The motor
 
 It's a ([QS 205 50H V3 3KW](http://www.cnqsmotor.com/en/article_read/QS%20Motor%20205%2050H%20V3%20Motor%203000W%20Electric%20High%20Power%20Bike%20Spoke%20Hub%20Motor/259.html)) rear hub moto, 150mm axle width. Peak output is 6KW briefly, depends on your battery and controller. It was the baddest of the ebike hub motors until the 273 V3 came out. 
@@ -66,9 +69,11 @@ It's a ([QS 205 50H V3 3KW](http://www.cnqsmotor.com/en/article_read/QS%20Motor%
 
 When I bought the parts is came with a Sabvoton SVMC72080 80A sinewave controller, I really like these controllers but I ended up selling this one because it's older and you can't use a fancy tft screen with it, and I like screens. So I hand-me-down'd the SVMC72150 150A controller from my other bike, because it has a cool display that shows you power use, battery indication, speedometer and a bunch of other cool things. Plus it's just an excuse to buy an even more powerful controller for my other bike (duh).
 
+
 ## 4. The battery
 
 Ok so the battery is the one I had been using on my other bike and it's a 72v 30Ah pack and it's huge (340x130x120mm). It weighs 20lbs! That's more than some peoples entire bike! When I was making my 2nd bike I really didn't know much about ebikes or batteries and I made the mistake of getting a pack with a much lower amp discharge rating on the BMS. It is either 50A or 80A on the BMS, and because I bought this in China - the communication wasn't so great so I'm not really sure what it is, but it does work. I figured this would be a better fit for this motor though since it's smaller and uses less power, so now the plan is to get a more powerful battery for my other ebike and use this one here.  
+
 
 ## 5. Miscellaneous odds n ends
 
@@ -79,9 +84,11 @@ Some generic "LED bike headlight". The parts I bought off Craigslist included a 
 
 This build was honestly kind of a pain in the a$$, but they seemingly always end up that way no matter how "simple" they appears at first.  
 
+
 ## Paint prep
 
 rant/ I told myself this was just going to be a "thrown together dirty build" but here I was - from the jump - painting things and making them all pretty. If you "really" care about the quality of your paintjob you'll assemble it all first, make sure everything works correctly, then tear it down to nothing to paint, then reassemble (again). I opted to just paint first, try my best not to mar things up too badly upon assembly, fumbled a few things, but overall I think the paintjob came out a lot better than I was expecting, although maybe my hopes were on the lower side. /rant
+
 
 ![](006_3_prep.jpg)
 
@@ -94,15 +101,18 @@ I have done lots of my signature "hex camo" paintjobs before and this time I wan
 
 I painted automotive primer on all of the parts first, about two coats. The gray goes on very thick because it's sandable, but I rarely sand it after because most of the painting I do is matte and flat colors are very forgiving with imperfections, so it doesn't have to be glass smooth for the paint to look good. 
 
+
 ![](006_4_paint1.jpg)
 
 After that I moved on to the stencils, the pattern is very linear (literally boxes/digits) so for this to look better you need to line things up as best you can, which gets a bit difficult the more layers you put on. I found that I thought the stencils I made were patterned in a way to allow me to turn them upside down and have them "lock" in place, but I was wrong. They really only keyed into one another in one orientation so this made having more variation more difficult, but I managed with what I had to work with. I'm glad I made a few stencils because having this variety allowed me to line things up more easily with variation which is more akin to how the real digi-camo pattern is comprised. 
 
 Most of the surfaces of the bike parts are flat, so this made painting layers of the pattern easier. For the rounded and angled parts I opted to break one of the stencils into smaller pieces so I could fit them flat against these smaller spaces. Just lay the stencil down, spray the first color, move the stencil, spray more of the same color. Allow time to dry, then move on to the next color and repeat, and repeat, and repeat. I think I used 5 or 6 different colors, so this took a really long time. 
 
+
 ![](006_5_paint2.jpg)
 
 When I was done I wasn't quite happy with what I had created, the pattern came out really well (except for the top panel... which of course is the one you see the most...). Two errors occurred, one was that I was a little "off" on my stencil placement for the top panel, which resulted in things looking very muddy and undefined in comparison to all my other panels, and there really isn't a way to fix this other than starting over. My second error which was made in my paint selection, the "beige" gray I chose was a bit too light, and also the light blue was a bit too light as well. This is all preference, but the look I was going for was a more "subdued" look that has less contrast and right now my parts were looking like digital 'confetti'. I decided since all the other parts came out defined and the pattern was clear, to just redo the top panel and start over. It wasn't that large of a part and I it wouldn't be that bad to start over, so I did. I just recoated everything as best I could with gray primer to start a base, it didn't "completely" cover everything evenly, but covered enough to start again. Lay stencil, paint color, move stencil paint color, wait to dry, start with another color, repeat repeat repeat. I got it right the second time! 
+
 
 ![](006_6_paint3.jpg)
 
@@ -110,9 +120,11 @@ Now with my parts matching, what to do about the colors? I figured maybe if I ju
 
 For the smaller parts that were red I just took apart all of the smaller parts I had and painted them flat black. Done. The red anodizing did look cool, just didn't fit the color scheme of the bike. 
 
+
 ![](006_7_paint4.jpg)
 
 Painting took a really long time, but it was worth it in the end because I pulled off the look that I was going for. 
+
 
 # Assembly 
 
@@ -120,6 +132,7 @@ Easily the most difficult part of this build, was literally building it (crazy I
 
 ## Headset + bearings (oh my god) + fork
  I bought another headset bearing set because I thought I didn't have one but not only did I have one from a previous build, but one was also included in the parts I bought, so now I had three sets. I first attempted to fit the headset (mind you I don't have a ton of experience building bikes...) and I was wondering why the bottom bearing wouldn't fit on the fork steering tube, there was this lip on the bottom and the bearing cup just wouldn't go down on it. It seemingly was aluminum so I didn't want to bash on it too badly, but after attempting quite a few um... "configurations" of bearings every which way I was stumped. Clearly it was supposed to rest down on the tube flush, but it wasn't going down, so I did some research and it turns on you have to smash down the cup over that little lip. You're supposed to use a special tool to not damage any parts, well, I didn't have that tool so I found a pipe that fit well enough and took a sledgehammer to it, and it fit with a bit of hammering. Success... or so I thought, even after fitting that cup finally on the stem, things still weren't working right, I put everything together which I thought was correct and I still had some play in my steering tube... what the hell!? 
+ 
 
 ![](006_8_fork.jpg)
  
@@ -127,9 +140,11 @@ After calling it another night and sleeping on it, I did even more research and 
 
 I got my top bearing in the mail first so I was a bit eager to work on the bike after waiting a while, there was actually a split second where I second guessed myself and thought "hmmm, is it even worth it? just leave it in there, just keep the extra *just in case*. Well, I should have listened to my gut because after attempting to remove the top bearing I instantly felt regret for my decision haha. I thought it would be so easy to just pop that bearing out from the other side of the frame, whack and done. No, no no no. The bearing did come out, but... in pieces. Oopsie. Turns out there is a lip that holds the bearing like a shelf and I was partially slamming on that with the hammer, and then partially on the bearing, but man was that bearing race stuck in there. I'm sure it was pressed in there with a bearing press or just hammered very hard into there. After nearly giving up a few times trying to get this race out of the cup, I kept slamming and chipping until I finally bent it enough to yank it out of there, only very minimal damage to the cup... ok cool, finally. I went to go put the new bearing in and guess what, it didn't fit, at all. It was so off that I had to go recheck my order to make sure I bought the correct bearing, I borrowed my calipers from work and could measure - the inner cup was 38.6mm and the OD of the new bearing was 41.87. There's no way this is going in there, not even with a hammer. 
 
+
 ![](006_9_bearing.jpg)
 
 The bearing I pulled out said "42mm" on the side... ok? The new bearing I bought said "42mm" on it, these bearings were not the same size, you wouldn't even need a tool to see that - side by side stacked on top of each other, the new bearing was clearly bigger. I really didn't want to attempt to smash this even bigger bearing into the cup because the smaller one barely came out, barely. I also didn't want to buy another "42mm" bearing, how many interpretations of 42mm are there??? I didn't want to find out. After the new bottom bearing came, it slipped right in the bottom cup no problem, isn't this how all the bearings should fit? That also explains why my parts were missing this bearing, because it can just fall right out of the cup. After seeing how this bearing fit, I thought I'll just dremel out the cup to make the new top bearing fit. I thought this was going to be quite a pain, but it really only took me about 10 mins going slowly round and round with a sanding bit, taking off material, checking fitment, going around again, checking fitment again until I could finally slide the bearing in and out without issues. Finally, all that just to fit the headset... this was not the last of my troubles. I also realized why it's always better to pay more for a new kit, generally the amount of money you save from someone's abandon project isn't worth the time (and sometimes money) to get new parts that are missing, or parts that just don't fit. I'm ok with it because it's part of the fun, that sweet fun of frustration. 
+
 
 ![](006_10_frontend.jpg)
 
@@ -143,23 +158,28 @@ The motor already came with a freewheel, but they're easy to install. Just be ca
 
 You know... I thought this part at least was going to go smoothly because part of the beauty of this smaller 5KW motor was that the axle wasn't too ginormous (my other bike is 8KW, with a huge axle). Since I had to fit my other bikes swingarm I thought this would be a pleasant surprise knowing that the shaft would just fit in the dropouts without any modification, but I was wrong. They "almost" fit, (just like that steering tube bearing "almost" fit...) but almost isn't a fit. 
 
+
 ![](006_11_motor.jpg)
 
 I thought it was because the swingarm wasn't spread apart wide enough to accept the hub, but after trying to pry it with a hydraulic jack (I did this on my other bike and it worked...) this steel was very... springy. No dice. I figured the angles of the dropouts what were causing it not to fit, but either way this swingarm was not bending, and it needed to be enlarged. 
 
 So I fit up the arm in a vise and took the angle grinder to the dropouts, they just needed a tiny bit to fit, that tiny bit ended up being quite more than I had anticipated, so cut, remove, check fitment, repeat repeat repeat until it finally slid in on both sides. Ok not too bad, it didn't take that long to give each side a few passes with the grinder. On to the next thing!
 
+
 ## Front wheel + mating of swingarm and frame
 
 Putting on the front wheel was very easy, I actually remembered to put on the disc brake before mounting the wheel, so that was nice of me (pats myself on the back, good job). I also mated the swingarm to the rear of the frame without much effort, just align the parts, slide the large bolt through and tighten, done. Does that mean all of the rest of the assembly is going to as smoothly?? No. Next up; 
+
 
 ## Rear shock
 
 This shock was definitely not set up to work for this frame, the bottom was not wide enough and the top was too wide, so either way it would not fit. I figured instead of trying to hammer out the bushing, I'll just cut it on the shock. I harkened back to the nightmares of attempting to slide the bearing out of the cup, and thought, no... just leave it, and cut it here, you will be happier. Thinkin' smart now. 
 
+
 ![](006_12_shock.jpg)
 
 I measured the amount I needed to cut, threw the shock in the vise and hacked away with the saw, this steel was also very tough but my blade my was dull also, so that really didn't help. Fresh blade for the other side and it went a lot faster. Not perfectly flat, but a bit of filing and I was ok. It fit in the spot it needed to go so I was happy. For the bottom I just took up the slack with some thick washers. Long 8mm bolts for each side and all was golden. 
+
 
 ## Progress so far (frame assembled)
 
