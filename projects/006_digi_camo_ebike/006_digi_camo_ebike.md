@@ -1,3 +1,7 @@
+# \\\ Part 1 \\\
+
+<iframe width="1024" height="576" src="https://www.youtube.com/embed/tbnb8zvLVA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # \\\ Digi-Camo E-Bike [3.0] \\\
 
 This is the 3rd ebike I have made and this started out as just a "throw something together with some parts and make it a beater" but... I've always had a hard time just making shi\\y things, so of course with this I went ahead and made it "too nice" and [here I go again. ](https://www.youtube.com/watch?v=WyF8RHM1OCg)
@@ -7,10 +11,6 @@ I swear on my next bike build it will be more thrown together, but don't hold me
 I was debating building another ebike after the happiness and success I had with my first two, and I probably wouldn't have but I found a pretty good deal on parts on craigslist so I figured, why not? I had a scheme of migrating my battery from my 2nd bike and then getting a better (more powerful) battery for it since the motor is larger, so that was the initial plan. 
 
 This definitely isn't a guide, maybe something more to inspire you to create your own.   
-
-# \\\ Part 1 \\\
-
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/tbnb8zvLVA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # \\\ Parts \\\
 
