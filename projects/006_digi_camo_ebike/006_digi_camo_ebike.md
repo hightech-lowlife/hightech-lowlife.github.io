@@ -167,5 +167,5 @@ I measured the amount I needed to cut, threw the shock in the vise and hacked aw
 
 Seems like a lot of work just for a skeleton of a chassis but it was fun so far, let's keep going! 
 
-## Continued in [part 2](https://hightech-lowlife.github.io/projects/007_digi_camo_ebike_part2/007_digi_camo_ebike_part2)
+## Continued in [part 2 >>>](https://hightech-lowlife.github.io/projects/007_digi_camo_ebike_part2/007_digi_camo_ebike_part2)
 
