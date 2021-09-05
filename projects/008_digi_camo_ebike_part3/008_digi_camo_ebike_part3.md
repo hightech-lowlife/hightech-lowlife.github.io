@@ -84,5 +84,5 @@ Here is the full prototype, all wired up and working, it was a lot of work to ge
 
 We still have a lot more to go so check out the next part! 
 
-## Continued in [part 4 >>>](https://hightech-lowlife.github.io/projects/009_digi_camo_ebike_part4/009_digi_camo_ebike_part4)
+## Continued in [part 4 >>](https://hightech-lowlife.github.io/projects/009_digi_camo_ebike_part4/009_digi_camo_ebike_part4)
 
