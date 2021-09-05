@@ -3,24 +3,57 @@
 <iframe width="1024" height="576" src="https://www.youtube.com/embed/YqxQn0V6fvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-# \\\ The build! \\\
+# \\\ The build! - Part Deux - \\\
 
 This build was honestly kind of a pain in the a$$, but they seemingly always end up that way no matter how "simple" they appears at first.  
 
-## Step 1 - Paint prep
+## Front LCD screen
 
-rant/ I told myself this was just going to be a "thrown together dirty build" but here I was - from the jump - painting things and making them all pretty. If you "really" care about the quality of your paintjob you'll assemble it all first, make sure everything works correctly, then tear it down to nothing to paint, then reassemble (again). I opted to just paint first, try my best not to mar things up too badly upon assembly, fumbled a few things, but overall I think the paintjob came out a lot better than I was expecting, although maybe my hopes were on the lower side. /rant
+![](part2_screen.jpg)
 
-![](006_3_prep.jpg)
+Now that I've swapped out the Sabvoton SVMC7280 for the larger and more powerful SVMC72150 I was able to get a display (which was the main reason for making this swap). I sold the 80A controller and barrowed the 150A with the LCD from my 2nd ebike. This screen did not fit the handlebars very well and I didn't like the angle at which it sat at even with the longer screws. 
 
-Prepping for paint always goes the same, scuff and scour the surfaces with a big grit sandpaper (220ish) you don't have to take things down to bare metal, just enough to give the pain something to grab onto. Then clean thoroughly (or not) with soapy water and or alcohol. Allow plenty of time to dry, you don't want to paint on wet surfaces. 
+![](part2_screen2.jpg)
 
+So after sitting on it a while I came up with the solution of using a carbon fiber handlebar extension. Which definitely did the trick! With this standoff I was able to mount the screen at the exact angle I wanted.
 
-## Step 2 - Spraying
+## Brakes
 
-I have done lots of my signature "hex camo" paintjobs before and this time I wanted to try something different, so I created a digital camo stencil based off of a tiger stripe pattern. I created the stencils out of acrylic by cutting them with a laser. 
+![](part2_brake2.jpg)
 
-I painted automotive primer on all of the parts first, about two coats. The gray goes on very thick because it's sandable, but I rarely sand it after because most of the painting I do is matte and flat colors are very forgiving with imperfections, so it doesn't have to be glass smooth for the paint to look good. 
+You need to be able to stop the bike, especially one that can go very fast. I had a few sets of hydraulic brakes from an older build but as I went to mount the front caliper I realized that I had 4 or 5 mounting brackets that were all the same size. I'm using some big 203mm rotors and you need a specific bracket to hold the caliper at the right distance. After trying a thousand combinations of flipping brackets around I realized I would just need to purchase the right bracket. It finally arrived in the mail and it worked, I finally had a front brake. 
+
+![](part2_brake.jpg)
+
+I'm not running a mechanical rear brake because I'm using regenerative braking which uses the motor as a brake, this is not advised because in case of electrical failure, you will not have a rear brake. It's always better to run a rear brake just in case, so again do what I say not what I do. I tried to run a rear brake on my last build and for some reason I could never get it to run right, it was either partially engaged, or not engaging enough, after trying a bunch of different parts I finally just gave up and didn't run a rear brake. 
+
+Because there is no rear brake cable the lever will get stuck without the tension of the cable to allow it to retract, so I had to fix that problem by removing that captive part. 
+
+![](part2_brake3.jpg)
+
+It does make for a slightly cleaner looking build because you have one less line going to the back, but really you should run a rear brake. With that being said the regen brakes are adjustable and you can easily get them to lock the rear wheel, they are as powerful as the motor is, which is very very powerful. Most of the time riding I will only use the regen, this gives you a little power back to the battery, and saves your pads. You should note that you can't only use regen to brake, the regen cuts off at about 3mph, so you're still rolling, without any type of mechanical brakes you will not be able to fully stop, which if you're maneuvering around people, you will run them over, sure it's only 3mph, but they will not like you at all. 
+
+## Seat
+
+![](part2_seat.jpg)
+
+Because I bought most of these parts used, I figured the seat could use a refresh and a good cleaning - it looked a lot better after that. 
+
+## Kickstand woes
+
+![](part2_kickstand.jpg)
+
+Now that the bike was standing on its own two wheels suspended by the fork and rear shock I needed a way for it to not fall over. They included a kickstand... awesome. But it didn't fit... not awesome. They made a cool little hole on the frame with a nut welded on the inside and everything, almost like they engineered it to work, but the engineers took a day off and put that hole on the wrong side. 
+
+![](part2_kickstand2.jpg)
+
+With it on the left side, the kickstand comes out way too far and interferes with the pedal... you guys did put pedals on when you engineered this right? I don't think they did. Anyway, it wouldn't fit and it was wrong, so I realized that if I made my own hole on the other side it actually would work, so I took a drill, made a hole and just put my own nut and bolt through and cinched it up. 
+
+![](part2_kickstand3.jpg)
+
+Also I will mention that nearly all the bolts on this bike are 8mm, the kickstand of course uses a 10mm bolt which I didn't have, so I ordered some nice 10mm bolts only to realize that the 10mm bolt head is too large for how the kickstand is designed... almost like it was really designed for an 8mm bolt... so this is another fail on the kickstand design. The bolt fits flush as 8mm, so in my new hole it got an 8mm bolt and nut. The bike now stood and didn't fall over, it was beginning to look a lot more like a real bike. 
+
+## Charge port
 
 ![](006_4_paint1.jpg)
 
@@ -108,13 +141,7 @@ The chain tensioner mounts into the swingarm using a 10mm bolt (the only other 1
 
 I took a ride on the bike and the chain skipped, turns out it was just hopping off of the tensioner under load. I went to rearrange the internal spring on the tensioner for more tension, and it started stripping threads in the swingarm... NO! I thought I had toasted this mount, but it turns out that with all the washers and spacers I put on to align the tensioner to the chain, with the new orientation I needed to remove some so that the bolt could thread in more to the swingarm, whew. I tightened it up and went for another ride and it didn't skip at all. I'm still skeptical on this tensioner design, but I will run it until it breaks or keeps skipping and I will replace it with a derailleur later if need be. 
 
-### Brakes
 
-You need to be able to stop the bike, especially one that can go very fast. I had a few sets of hydraulic brakes from an older build but as I went to mount the front caliper I realized that I had 4 or 5 mounting brackets that were all the same size. I'm using some big 203mm rotors and you need a specific bracket to hold the caliper at the right distance. After trying a thousand combinations of flipping brackets around I realized I would just need to purchase the right bracket. It finally arrived in the mail and it worked, I finally had a front brake. 
-
-![](006_13_brake.jpg)
-
-I'm not running a rear brake because I'm using regenerative braking which uses the motor as a brake, this is not advised because in case of electrical failure, you will not have a rear brake. It's always better to run a rear brake just in case, so again do what I say not what I do. I tried to run a rear brake on my last build and for some reason I could never get it to run right, it was either partially engaged, or not engaging enough, after trying a bunch of different parts I finally just gave up and didn't run a rear brake. It does make for a slightly cleaner looking build because you have one less line going to the back, but really you should run a rear brake. With that being said the regen brakes are adjustable and you can easily get them to lock the rear wheel, they are as powerful as the motor is, which is very very powerful. Most of the time riding I will only use the regen, this gives you a little power back to the battery, and saves your pads. You should note that you can't only use regen to brake, the regen cuts off at about 3mph, so you're still rolling, without any type of mechanical brakes you will not be able to fully stop, which if you're maneuvering around people, you will run them over, sure it's only 3mph, but they will not like you at all. 
 
 ### Progress so far (frame assembled)
 
@@ -139,12 +166,5 @@ I padded the frame internally with some foam to protect the battery and controll
 The bike parts I bought did come with an LED tail light which would be fine but I had a vision of two LED strips running the length of the seat frame, I thought it would look cooler than a bulky light at the end. I was originally just going to make these red and then another strip right next to it that was RGB, but I figured this was overkill and that the lights didn't "need" to be red since this isn't a car, and as long as people can see you does it really matter what color the lights are? I can make my whole bike red if need be haha. -
 
 For the headlights I originally wanted to have two flashlights closer together on the handlebars and I really tried to make this work but for some reason I couldn't get the LEDs to light externally despite trying a bunch of things. I didn't test the flashlights with batteries before taking them apart, but they were so cheap it's possible they didn't work well from the start. I broke my rule of testing everything before modding/hacking... oh well, I really gave it a genuine effort, and I could get them to light sporadically, but I needed something robust, so I ditched that idea and went with a singular tri-light setup. I did purchase some additional accent LEDs for the handlebars that I 
-
-### Kickstand
-
-Now that the bike was standing on its own two wheels suspended by the fork and rear shock I needed a way for it to not fall over. They included a kickstand... awesome. But it didn't fit... not awesome. They made a cool little hole on the frame with a nut welded on the inside and everything, almost like they engineered it to work, but the engineers took a day off and put that hole on the wrong side. With it on the left side, the kickstand comes out way too far and interferes with the pedal... you guys did put pedals on when you engineered this right? I don't think they did. Anyway, it wouldn't fit and it was wrong, so I realized that if I made my own hole on the other side it actually would work, so I took a drill, made a hole and just put my own nut and bolt through and cinched it up. 
-
-Also I will mention that nearly all the bolts on this bike are 8mm, the kickstand of course uses a 10mm bolt which I didn't have, so I ordered some nice 10mm bolts only to realize that the 10mm bolt head is too large for how the kickstand is designed... almost like it was really designed for an 8mm bolt... so this is another fail on the kickstand design. The bolt fits flush as 8mm, so in my new hole it got an 8mm bolt and nut. The bike now stood and didn't fall over, it was beginning to look a lot more like a real bike. 
-
 
 ## To be continued in future parts...
