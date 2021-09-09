@@ -5,7 +5,7 @@
 
 The final part of building a custom DIY 5000W [5KW!] 54MPH monster ebike! In this part we button everything up and apply the finishing touches. Then we take it out on the road for some speed runs! 
 
-[![img](https://hightech-lowlife.github.io/projects/010_digi_camo_ebike_part5/part4.jpg)](https://hightech-lowlife.github.io/projects/010_digi_camo_ebike_part5/010_digi_camo_ebike_part5)
+[![img](https://hightech-lowlife.github.io/projects/010_digi_camo_ebike_part5/part5.jpg)](https://hightech-lowlife.github.io/projects/010_digi_camo_ebike_part5/010_digi_camo_ebike_part5)
 
 \\\\\\\\\\
 
