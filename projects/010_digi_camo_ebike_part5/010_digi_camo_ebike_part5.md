@@ -1,8 +1,8 @@
-# \\\ Ebike [3.0] - The Build - Part 5 - Final \\\
+# \\\ Ebike [3.0] - The Build - Part 5 - Final Form \\\
 
 <iframe width="1024" height="576" src="https://www.youtube.com/embed/EzwQQsD23RA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is the final episode! We finally mount the fully completed dashboard , and the headlight! After that we take it out on the road and give it some high speed runs! 
+This is the final episode! We finally mount the fully completed dashboard, and the headlight! After that we take it out on the road and give it some high speed runs! 
 
 
 ## Dashboard - fully completed
