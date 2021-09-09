@@ -1,7 +1,7 @@
 ## 010 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 5
 ----------------------------------------------------------------------
 
-[Check out the video and full write-up here \\\ 009 - Custom 5000W Digi-Camo E-bike - Part 4](https://hightech-lowlife.github.io/projects/010_digi_camo_ebike_part5/010_digi_camo_ebike_part5)
+[Check out the video and full write-up here \\\ 010 - Custom 5000W Digi-Camo E-bike - Part 5](https://hightech-lowlife.github.io/projects/010_digi_camo_ebike_part5/010_digi_camo_ebike_part5)
 
 The final part of building a custom DIY 5000W [5KW!] 54MPH monster ebike! In this part we button everything up and apply the finishing touches. Then we take it out on the road for some speed runs! 
 
