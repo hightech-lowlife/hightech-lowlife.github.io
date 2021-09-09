@@ -77,8 +77,6 @@ The edge-lit acrylic pieces really make it stand out a lot at night, I'm not a h
 
 ![](part5-glam12.jpg)
 
-![](part5-ride6.jpg)
-
 ![](part5-ride7.jpg)
 
 ![](part5-glam14.jpg)
