@@ -1,3 +1,14 @@
+## 011 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - TL;DW Ver.
+----------------------------------------------------------------------
+
+[Check out the video here \\\ 011 - Custom 5000W Digi-Camo E-bike - TL;DW Ver.](https://hightech-lowlife.github.io/projects/011_digi_camo_ebike_part6/011_digi_camo_ebike_part6)
+
+This is the "Too long; didn't watch" version of the build - I know not everyone has time to watch the full 5 part series, so I boiled it all down and squeezed the entire build into a six minute and thirty second video!
+
+[![img](https://hightech-lowlife.github.io/projects/011_digi_camo_ebike_part6/part6.jpg)](https://hightech-lowlife.github.io/projects/011_digi_camo_ebike_part6/011_digi_camo_ebike_part6)
+
+\\\\\\\\\\
+
 ## 010 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 5
 ----------------------------------------------------------------------
 
