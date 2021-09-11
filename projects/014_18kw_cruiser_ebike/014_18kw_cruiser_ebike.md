@@ -8,11 +8,15 @@ I started doing 'some' research (but obviously not enough as I'll get into later
   
 I built this bike long before I ever thought I would ever be creating videos or content so I don't really have any footage of the bike in action, but I did take a lot of pictures along the build. Maybe it will inspire you on your own builds. 
 
+![](ebike1.jpg)
+
 I did learn a lot as one would expect from their first ebike build. What I didn't realize at the time was that just because your motor can handle a ton of power, it's a bit meaningless unless your battery can supply that power. I figured a battery is a just a battery, but the battery is as critical of a component as your motor and controller. All of these components need to be balanced to achieve the best performance. 
 
 It's the same as matching your components for a computer, it doesn't make sense to put an Nvidia RTX 3090 in a system running an Intel Pentium III processor, you'd have a severe bottleneck! You want all of your components to be matched otherwise it's a bit of a waste as your system is only as powerful as its weakest link, much like a chain. The same goes for ebikes. 
 
 I had to get a custom battery pack made and they asked me "how big of a BMS" I didn't even know what a BMS was, so I just said "standard" and they put a 50A (80A peak) BMS in the battery, also it's only 25AH and for a very powerful motor you need a battery large enough to offset voltage sag, all of these things I had no idea about when I initially was dreaming up this build. Because of the battery the output is more likely in 'only' the 4000-5000W range, which is nowhere near 18KW! But it's still a ridiculous amount of power for a regular bicycle frame, and although I never did a full speed run (was too scary really) I estimate the top speed to be between 45-50MPH which is plenty fast for a bike. 
+
+![](ebike4.jpg)
 
 Another thing I realized is that if you put 18KW through a regular bike chain, it's going to snap, for that amount of power you most likely would need a motorcycle chain, something strong enough to handle that power. The bike does have gears (7 speed) so I was still able to utilize the gear ratios to adjust for torque or top speed, which is pretty cool, although when you have this much power it's a bit unnecessary. This is when I learned that hub motors were the way to go for me. There is a lot of debate over which is better, hub motor or mid-drive, and it really just depends on what you're going for and your specific application. To me, once you get into the higher wattages, the advantages of hub motors starts taking over. It's direct-drive so there is no chain to break, the axle will handle whatever power you can put through it, they are also simpler. 
 
