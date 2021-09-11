@@ -22,8 +22,6 @@ Another thing I realized is that if you put 18KW through a regular bike chain, i
 
 One more thing I realized is that when you're going faster on an ebike, having a suspension becomes a necessity. When you're peddling a regular bicycle you're only going 20-25mph tops and it's not fast enough to notice how bad the roads are, but once you start going 30-40mph the bumps in the road become much more harsh and frequent, I knew that for my next build a full suspension was a must. 
 
-I did learn a ton of this build and it has been the foundation of knowledge for all of my subsequent ebike builds. I had a lot of fun putting it all together and it came out incredible! 
-  
 
 # \\\ Parts list: \\\  
   
@@ -141,4 +139,6 @@ The giant GPS speedometer looks really cool and is functional.
 ![](ebike12.jpg)
 ![](ebike13.jpg)
 ![](ebike14.jpg)
+
+I did learn a ton of this build and it has been the foundation of knowledge for all of my subsequent ebike builds. I had a lot of fun putting it all together and it came out incredible! 
 
