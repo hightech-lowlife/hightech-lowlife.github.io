@@ -21,6 +21,7 @@ Full parts list:
 - Controller - Sabvoton SVMC72150 150A [Aliexpress](https://www.aliexpress.com/item/4000091751735.html?spm=a2g0o.store_pc_groupList.8148356.32.511b6972N9mTQL)
 - Battery - Custom 72V 30AH pack (340x130x120mm XT90 connector) [Aliexpress](https://risklight.aliexpress.com/store/806274?spm=a2g0s.9042311.0.0.27424c4dahMGRx)
 - Frame - EEB Enduro Ebike Frame [EnduroEbike](https://www.enduroebike.com/sale-6876762-full-suspension-steel-electric-enduro-bike-frame-350w-5000w-ccc)
+- Wheels - They came with the used parts I bought, 17" rear, 18" front
 - Fork - ZOOM [Aliexpress](https://www.aliexpress.com/item/4000333014335.html?spm=a2g0o.productlist.0.0.14ad6783TDKmRc&algo_pvid=bc7f195b-1b23-4795-91dd-6a6c643f3ad7&algo_exp_id=bc7f195b-1b23-4795-91dd-6a6c643f3ad7-21&pdp_ext_f=%7B%22sku_id%22%3A%2210000001370076036%22%7D)
 - Rear Shock - ~~Fox DHX RC4~~ (too expensive, would recommend this instead) DNM RCP2S 3 [Aliexpress](https://www.aliexpress.com/item/33042738097.html?spm=a2g0o.productlist.0.0.7db128c8umzMBs&algo_pvid=8664cded-ec4e-42bd-8f8c-90251877ff53&algo_exp_id=8664cded-ec4e-42bd-8f8c-90251877ff53-0&pdp_ext_f=%7B%22sku_id%22%3A%2267315843533%22%7D)
 - Handlebars - (came with the parts, any decent MTB bars will do)
