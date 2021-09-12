@@ -281,6 +281,18 @@ Connect the keyboard PCB to the wireless adapter and lay it flat in its resting 
 
 Pair via bluetooth to your device (no password needed) and enjoy your once-wired, now-wireless keyboard. 
 
+One last thing I like to do is program the BT module firmware and set my own custom name, you can read how to do this using the manual from Handheld Scientific: [Manual](http://handheldsci.com/wp/wp-content/uploads/Manual_Full_v5.2.10.pdf)
+
+It's a very easy procedure so I'll write it out here as well:
+1. Connect the keyboard wirelessly to your computer
+2. Open notepad
+3. Hit the hotkey ```Ctrl + Alt + Insert```
+4. Type in the command ```set bt name KEYBOARD_NAME``` hit Enter (KEYBOARD_NAME is where you would type your customized name, it can be whatever you want, it just cannot contain a space, hence the underscore)
+5. Type in the command ```save``` hit Enter
+6. Type in the command ```exit``` hit Enter
+
+Now when you reboot the keyboard/BT module you'll have to repair it with the new customized name, pretty cool. 
+
 ## Closing thoughts
 While I was making this I went through quite a few renditions of how to wire it. I kept running into tiny roadblocks and trying to find a way around them. 
 
