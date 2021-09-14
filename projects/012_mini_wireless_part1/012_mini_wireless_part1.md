@@ -56,10 +56,6 @@ I'll have to clip the wires at the back of the USB port so I can intercept these
 After some more soldering, now we power and ground leads coming and going from the back of the USB port. 
 
 
-![](split.jpg)
-After some more soldering, now we power and ground leads coming and going from the back of the USB port. 
-
-
 ![](usbwired.jpg)
 Now that I got those working I decided to challen myself even more and set up splits for the data wires now - (check back with the infographic) Now we have 7 wires to the back of this Mini USB port (1 wire on the topside of the PCB). This will allow me to switch from wired to wireless mode! 
 
