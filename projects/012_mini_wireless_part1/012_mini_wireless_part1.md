@@ -90,9 +90,6 @@ Buttoning up the case and reinstalling the keycaps!
 ![](keycaps.jpg)
 
 
-![](closing.jpg)
-Buttoning up the case and reinstalling the keycaps! 
-
 ![](works.jpg)
 Testing it out and everything works as it should.
 
