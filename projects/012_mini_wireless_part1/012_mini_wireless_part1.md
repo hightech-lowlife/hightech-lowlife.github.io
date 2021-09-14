@@ -147,4 +147,4 @@ amps: 0.158 (brightness 6)
 amps: 0.185 (brightness 7)
 ```
 
-I'm not done with this keyboard, this is not it's final form so please stay tuned for Part 2!
+I'm not done with this keyboard, this is not its final form so please stay tuned for Part 2!
