@@ -52,5 +52,5 @@ Are you starting to get the picture? (pun intended) Do you see where I'm going w
 
 How about some social proof? I'm just some guy. - applied science
 
-Do we even need a taskbar? 
+Do we even need a taskbar? Alt-Tab
 
