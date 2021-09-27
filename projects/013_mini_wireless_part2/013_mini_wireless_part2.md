@@ -1,11 +1,11 @@
-<div class="video-container"><iframe width="1024" height="576" src="https://www.youtube.com/embed/2Df7Dh3-3o0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="1024" height="576" src="https://www.youtube.com/embed/oHEBsDdcXBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 # \\\ WASD CODE VP3 (or Vortex Pok3r if you're nasty) 60% Wireless Keyboard Conversion - Part 2 \\\
 
 In part two we finish things up by tackling changing out the switches and LEDs, more case resurfacing, replacing the battery, adding the blade connectors back in and a fresh set of custom keycaps!
 
 ## Connectors
-After being send the wrong connectors last time, I finally got the right ones - let's put them in. 
+After being sent the wrong connectors last time, I finally got the right ones - let's put them in. 
 ![](part2-blade.jpg)
 
 
