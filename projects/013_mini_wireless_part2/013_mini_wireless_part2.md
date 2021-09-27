@@ -6,6 +6,7 @@ In part two we finish things up by tackling changing out the switches and LEDs, 
 
 ## Connectors
 After being sent the wrong connectors last time, I finally got the right ones - let's put them in. 
+
 ![](part2-blade.jpg)
 
 
@@ -36,6 +37,7 @@ After the switches comes the LEDs to be installed, I changed some of them up for
 
 
 I ran into a problem with the battery, and I couldn't quite figure out what was going wrong. 
+
 ![](part2-batteryissue.jpg)
 To mitigate the troubleshooting I figured I'd remove the relays and wired switch, this seemed to help so I thought I was done with this problem, but I was wrong. 
 ![](part2-batterytest.jpg)
@@ -44,6 +46,7 @@ It turned out that the problem really was that this battery was just dead. So I 
 
 ## Case Finish
 I also wasn't satisfied with this paint job I originally put on the case, I was really happy with how the raw steel top plate came out and I wanted to try and do a raw finish on the case to match that. 
+
 ![](part2-casesand.jpg)
 After a lot of sanding I had gotten about 99% of the paint off, but there still were some crevices that were hard to get to. Instead of spending so much extra time getting that all out I figured I'd just paint those areas black and it would offer up some contrast. After that I sealed it all up with some clearcoat. 
 ![](part2-casepaint.jpg)
@@ -52,12 +55,14 @@ Came out awesome!
 
 ## 3rd Battery Replacement
 So my first battery died, my 2nd battery was too small (only really 900mAh!), 3rd times the charm with this thinner but larger 2700mAh pack. 
+
 ![](part2-battdims.jpg)
 ![](part2-battinstall.jpg)
 
 
 ## New Keycaps
 Because I spent so much on the case I figured I should finish it off with a custom printed keycap set - of course Cyberpunk 2077 themed. 
+
 ![](part2-keycaplayout.jpg)
 ![](part2-newkeycaps.jpg)
 They're ultra-wild but they're a good contrast to the minimalist look of the raw steel and aluminum, plus they go with the 'industrial' feel. 
@@ -65,6 +70,7 @@ They're ultra-wild but they're a good contrast to the minimalist look of the raw
 
 ## Finishing Touches
 I think it came out really well! 
+
 ![](part2-cp1.jpg)
 ![](part2-cp2.jpg)
 ![](part2-cp3.jpg)
