@@ -1,3 +1,14 @@
+## 013 \\\ WASD CODE VP3 60% Wireless Keyboard Conversion - Part 2 \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 013 - WASD CODE VP3 60% Wireless Keyboard Conversion - Part 2](https://hightech-lowlife.github.io/projects/013_mini_wireless_part2/013_mini_wireless_part2)
+
+Back at it again with the wireless conversions, this time we're doing a smaller 60% CODE VP3, I didn't even know if I could pull it off so check it out! 
+
+[![img](https://hightech-lowlife.github.io/projects/013_mini_wireless_part2/thumb2.jpg)](https://hightech-lowlife.github.io/projects/013_mini_wireless_part2/013_mini_wireless_part2)
+
+\\\\\\\\\\
+
 ## 012 \\\ WASD CODE VP3 60% Wireless Keyboard Conversion - Part 1 \\\
 ----------------------------------------------------------------------
 
