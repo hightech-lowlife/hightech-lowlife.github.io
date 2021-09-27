@@ -11,13 +11,14 @@ body {background-color: #222222; color: #a2a2a2;}
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {color: #e0e0e0}
 a {color: #b56f25;}
 a:hover {color: #d275a5; text-decoration: none;}
-img {max-width: 100%; height: auto; outline: 6px solid #353535; outline-offset: -6px; margin-top: 30px; margin-bottom: 30px;}
+img {max-width: 100%; height: auto; outline: 6px solid #353535; outline-offset: -6px; margin-top: 30px;}
 .main-content .highlight pre, .main-content pre {border-radius: 0;}
 .highlight .nv { color: #ff8300;}
 .site-footer-credits {color: #a2a2a2;}
 .site-footer {border-top: solid 1px #484848;}
 code {white-space : pre-wrap !important; overflow: hidden !important;}
 .main-content hr {height: 1px; background-color: #484848;}
+.main-content p {margin-bottom: 35px;}
 
 // YouTube Responsive Embed
 .video-container {position: relative; padding-bottom: 53.25%; padding-top: 31px; height: 0; overflow: hidden; outline: 6px solid #353535;}
