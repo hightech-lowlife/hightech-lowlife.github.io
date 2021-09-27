@@ -1,3 +1,14 @@
+## 014 \\\ Ebike [1.0] - 18KW Urban “Super Cruiser” E-Bike \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 014 - Ebike [1.0] - 18KW Urban “Super Cruiser” E-Bike](https://hightech-lowlife.github.io/projects/014_18kw_cruiser_ebike/014_18kw_cruiser_ebike)
+
+Taking it back to the beginning! This is the first ebike I had ever made and it’s a bit over the top. This all started because a few friends at work said they wanted to make their own ebikes and prior to that I wasn’t particularly interested in bikes or ebikes for that matter. I of course had to out-do my coworkers so I decided to build a pretty crazy ebike for my first one. 
+
+[![img](https://hightech-lowlife.github.io/projects/014_18kw_cruiser_ebike/ebike1.jpg)](https://hightech-lowlife.github.io/projects/014_18kw_cruiser_ebike/014_18kw_cruiser_ebike)
+
+\\\\\\\\\\
+
 ## 013 \\\ WASD CODE VP3 60% Wireless Keyboard Conversion - Part 2 \\\
 ----------------------------------------------------------------------
 
