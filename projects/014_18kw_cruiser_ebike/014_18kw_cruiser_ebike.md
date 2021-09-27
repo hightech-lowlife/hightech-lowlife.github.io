@@ -59,19 +59,15 @@ The link to this product is no longer up from the seller, but any 72v 25AH pack 
 ![](frame.jpg)
 I was able to find this frame I was looking for semi-local on CraigsList and scored it for about half as much as a brand new one, and it even had an upgraded seat and was in excellent condition. 
 
-
 ![](motor1.jpg)
 ![](motor2.jpg)
-Aqcuiring the massive 18KW motor! 24.5LBS! 
-
+Acquiring the massive 18KW motor! 24.5LBS! 
 
 ![](bottombracket.jpg)
 This was one of the biggest pains of the build! The threads on the bottom bracket were basically welded shut with rust, so after a day or two of frustration, I finally was able to break it free using a tool I made to clamp it and also of course the blowtorch.
 
-
 ![](placement.jpg)
 Getting a rough estimate on where to place the motor. 
-
 
 ![](mount1.jpg)
 Started creating the mounting brackets with some aluminum flat bar and u-bolts to attach them to the frame bars. 
@@ -79,48 +75,38 @@ Started creating the mounting brackets with some aluminum flat bar and u-bolts t
 The motor originally comes with a bottom bracket mount, but to me that was not enough. This shouldn't allow it to move at all! 
 ![](mount3.jpg)
 
-
 ![](battery1.jpg)
 Using some (modular) angled steel to create the shelf for the battery. 
 ![](battery2.jpg)
 ![](battery3.jpg)
 
-
 ![](brake.jpg)
 Making my own brackets to actuate the rear brake light. When you squeeze the brake it releases the switch and the light comes on. Release the brake and it engages the microswitch and turns the light off. 
-
 
 ![](batterybox1.jpg)
 Modding the ammo can battery box. Adding the hall sensor for the LCD voltage display. 
 ![](batterybox2.jpg)
-
 
 ![](wiring.jpg)
 Wiring up a custom 'switchback' circuit for the turn signals, two relays and a flasher does it. I was going to just buy a circuit that does this but they were too expensive so I built my own. 
 ![](wiringled.jpg)
 Wiring up the RGB strip lights. 
 
-
 ![](leds.jpg)
 Looking pretty good with the lighting! 
-
 
 ![](test.jpg)
 All of the major components wired up and ready for a test ride. It runs excellently!
 
-
 ![](paint.jpg)
 Time to dissasemble and start painting everything blaaaaaack!
-
 
 ![](reassemble.jpg)
 After painting now it's time to reassasemble everything. 
 
-
 ![](dash1.jpg)
 Have to go with a custom acrylic dashboard featuring a Nexus 7 Tablet
 ![](dash2.jpg)
-
 
 ![](ebike1.jpg)
 And it's finally completed! It came out awesome!
