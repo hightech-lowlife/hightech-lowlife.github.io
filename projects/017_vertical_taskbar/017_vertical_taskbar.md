@@ -58,7 +58,21 @@ Being the [nerd](https://www.youtube.com/watch?v=N9qYF9DZPdw) that I am, I've de
 
 Like any self-respecting computer doofus I was constantly playing around with Linux and desperately hoping for a day that I could abandon Windows and solely use Linux for all my computing needs. If your desktop didn't have 'wobbly' windows could you even consider yourself cool? I dreamed of a day I could utilize all of the cool 3D effects Compiz-Fusion alloted, 3D cubes with multiple desktops, crazy window exploding animations the future for operating system interfaces were looking amainzg! It wasn't until I was trying out one of the latest Ubuntu releases (Ubuntu 11.04 - Natty Narwhal) way back in 2011 and in Gnome they put their taskbar on the left, which was just so weird and foreign to me. At first I didn't like it at all, but later after thinking about it a while I realized why they did this, why would you take up precious vertical pixels with the taskbar when you could move that to the side where the real estate is more abundant?  
 
-Although it wasn't a perfect solution because Gnome still has the top menu bar (much like Mac) but why have two taskbars? I messed around with Ubuntu some more and ultimately was just fine using the taskbar on the side, it just took a while to get used to. I couldn't ever leave Windows entirely for a number of reasons and it's still my daily driver (but that's a whole other topic in itself) - 
+Although it wasn't a perfect solution because Gnome still has the top menu bar (much like Mac) but why have two taskbars? I messed around with Ubuntu some more and ultimately was just fine using the taskbar on the side, it just took a while to get used to. I couldn't ever leave Windows entirely for a number of reasons and it's still my daily driver (but that's a whole other topic in itself, if Linux is so great how come I can't run Adobe apps fine in 2021!? - and don't give me that "Use Wine" argument because it's not the same)
+
+So I thought what if I try vertical taskbars on Windows? I run an ultrawide monitor for my 'main' monitor so I have even more side real estate with its 21:9 aspect ratio. I originally was trying it out on the left side, because you know, the Start Menu is on the left, but that now moves the clock to the left side and I am so used to viewing the clock in the bottom right of my screen. I tried this many times but always reverted back to the bottom location because it just seemed too weird. I did keep at it though and it wasn't until I finally swapped my taskbar to the right that I was able to be very comfortable with it, this retains the clock in its original position so no weirdness there, and also because I'm right handed it's just more intuitive to have it on the right, it just feels 'correct'. I think regardless if you put it on the right or left it's an improvement over the bottom (or top for that matter, are there any of you out there using it on the top!?) 
+
+I challenge you to try this new position for a week and see if you can do it! You'll find you have more vertical space for web pages, documents, 
+
+For me personally there is a rudimentary hierarchy of reliance on OS tools like taskbars and menus (you know who you are, when you go to the 'file menu' to open a document) 
+
+0. (Not really on the list but worth mentioning) 12 year old "gamers" yelling racial obscenities at you on xbox, don't know what a desktop computer is, do everything from their ipad, lots of fighting on twitter and facebook, don't know what a 'backup' for their data is
+
+1. Boomer Bumper Bowlers - All training wheels - Bottom taskbar, using menus to open documents, heavy reliance on the mouse, people that google 'google' etc - dell rubberdome with built in media keys (heavily used) - pressing the 'internet explorer' button on the keyboard 
+2. Mac Muffin - Fully within the ecosystem - knows how to command c / command v - once gave tech support to someone else by telling them to restart and it solved their issue
+3. Windows Wizard - VERTICAL FRIKKEN TASKBAR - alt-tab your life away - custom AHK scripts - minimal mouse usage - can shutdown via cmd prompt - builds their own desktop - TKL mech keyboard
+4. Level1 Linux - Installs gentoo for fun, i3 wm, no mouse attached, 30% split mech keyboard, only types in Colemak, custom automation scripts for everything, headless server 
+5. Neo - transcends time and space - rejects computer constructs - go outside and pet grass 
 
 
 How about some social proof? I'm just some guy. - applied science
