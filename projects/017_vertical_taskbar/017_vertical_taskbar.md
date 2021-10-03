@@ -64,9 +64,9 @@ So I thought what if I try vertical taskbars on Windows? I run an ultrawide moni
 
 I challenge you to try this new position for a week and see if you can do it! You'll find you have more vertical space for web pages, documents, 
 
-For me personally there is a rudimentary hierarchy of reliance on OS tools like taskbars and menus (you know who you are, when you go to the 'file menu' to open a document) 
+For me personally there is an anecdotal rudimentary (making up from the top of my head) hierarchy of users listed on their reliance on OS tools like taskbars and menus
 
-0. (Not really on the list but worth mentioning) 12 year old "gamers" yelling racial obscenities at you on xbox, don't know what a desktop computer is, do everything from their ipad, lots of fighting on twitter and facebook, don't know what a 'backup' for their data is
+0. (Not really on the list but worth mentioning, absolute bottom of the proverbial stacktrace) 12 year old "gamers" yelling obscenities at you on xbox, don't know what a desktop computer is, do everything from their ipad, lots of fighting on twitter and facebook, don't know what a 'backup' for their data is
 
 1. Boomer Bumper Bowlers - All training wheels - Bottom taskbar, using menus to open documents, heavy reliance on the mouse, people that google 'google' etc - dell rubberdome with built in media keys (heavily used) - pressing the 'internet explorer' button on the keyboard 
 2. Mac Muffin - Fully within the ecosystem - knows how to command c / command v - once gave tech support to someone else by telling them to restart and it solved their issue
@@ -74,8 +74,10 @@ For me personally there is a rudimentary hierarchy of reliance on OS tools like 
 4. Level1 Linux - Installs gentoo for fun, i3 wm, no mouse attached, 30% split mech keyboard, only types in Colemak, custom automation scripts for everything, headless server 
 5. Neo - transcends time and space - rejects computer constructs - go outside and pet grass 
 
+Our viewports keep getting more horizontal, but our content tends to remain vertical
 
-How about some social proof? I'm just some guy. - applied science
+
+
 
 Do we even need a taskbar? Alt-Tab
 
