@@ -1,6 +1,6 @@
 <iframe width="1024" height="576" src="https://www.youtube.com/embed/775l_xc7-ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# \\\ AKIRA (Kaneda's Bike) Thinkpad Lenovo X230 Laptop \\\
+# \\\ AKIRA (Kaneda's Bike) Thinkpad Lenovo X230 Laptop - Part 1 \\\
 
 After successful completion of my previous Lenovo Thinkpad W541 laptop painting project (you can [find that here](https://hightech-lowlife.github.io/projects/005_camo_w541_laptop_painting/005_camo_w541_laptop_painting)), I wanted to challenge myself some more with an Akira themed build. Akira is by far one of my most favorite cyberpunk anime films I have ever seen and there is nothing more iconic than Kaneda's bike! I have had this idea in my head for a very red thinkpad for a while now and I wanted to bring it to life. 
 
