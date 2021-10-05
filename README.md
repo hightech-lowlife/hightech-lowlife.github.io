@@ -1,3 +1,14 @@
+## 015 \\\ AKIRA (Kaneda's Bike) Custom Thinkpad Lenovo X230 Laptop - Part 1 \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 015 AKIRA Thinkpad Lenovo X230 Laptop - Part 1](https://hightech-lowlife.github.io/projects/015_akira_laptop_part1/015_akira_laptop_part1)
+
+After successful completion of my previous Lenovo Thinkpad W541 laptop painting project, I wanted to challenge myself some more with an Akira themed build. Akira is by far one of my most favorite cyberpunk anime films I have ever seen and there is nothing more iconic than Kaneda’s bike! I have had this idea in my head for a very red thinkpad for a while now and I wanted to bring it to life. Check out part 1! 
+
+[![img](https://hightech-lowlife.github.io/projects/015_akira_laptop_part1/01_laptop.jpg)](https://hightech-lowlife.github.io/projects/015_akira_laptop_part1/015_akira_laptop_part1)
+
+\\\\\\\\\\
+
 ## 014 \\\ Ebike [1.0] - 18KW Urban “Super Cruiser” E-Bike \\\
 ----------------------------------------------------------------------
 
