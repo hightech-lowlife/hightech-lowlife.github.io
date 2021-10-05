@@ -92,7 +92,7 @@ Of course I had to justify purchasing this figure, you know, for comparisons...
 Not bad for an off the shelf Rustoleum "Regal Red" spray can! 
 
 ![](20_laptop.jpg)
-This this is nearly all metal die-cast, is super heavy and totally cool!
+This this is nearly all die cast metal, so it's super heavy and totally cool!
 
 ![](21_laptop.jpg)
 Good for health! 
