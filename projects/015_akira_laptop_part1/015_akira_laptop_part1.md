@@ -75,6 +75,9 @@ After all of my painting woes were finally over, I could move on to printing the
 
 Setting things up digitally.
 
+![](akira_sticker_sheet.png)
+I couldn't find any super high quality graphics on the web, so I took some lower quality images and converted them (by hand!) to crispy vectors. If you'd like to use them yourself I'm including a [pdf version here](akira_sticker_sheet.pdf)
+
 This was still going to be nerve-wracking but it was more fun than painting. I first did some outline prints by covering the pieces in cling wrap so that I could check the print for alignment, then after everything was good to go I hit the 'go' button and crossed my fingers in the hopes that everything would print correctly and it did! It came out incredible! 
 
 ![](15_laptop.jpg)
