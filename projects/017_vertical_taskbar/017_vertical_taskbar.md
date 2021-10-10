@@ -4,12 +4,12 @@
 
 A man rants about UI design and chaos ensues! 
 
-## You've been using Windows taskbar wrong your whole life! (Prove me wrong!) (memE?) 
+## You've been using Windows taskbar wrong your whole life! (Prove me wrong!) 
 
 ### Introduction
 
 ![](part4-headlight.jpg)
-Ok so maybe that claim is a bit hyperbolic, but hear me out: monitors have changed quite a bit over time, windows taskbar has not and this is a problem. 
+Ok so maybe that claim is a bit hyperbolic, but hear me out: monitors have changed quite a bit over time, windows taskbar has not (really) and this is a problem. 
 
 First let's set the stage by taking a trip down memory lane, all the way back to [1985](https://www.youtube.com/watch?v=K38xNqZvBJI) with Windows 1.0, they didn't quite have the taskbar that we know and love (or hate) today, that would come later in Windows 95, but they did have some semblance of a taskbar and that was placed on the bottom row. 
 
@@ -23,7 +23,6 @@ Anyway, here is a timeline of Windows releases with their taskbar front and cent
 1.0
 2.0
 3.0
-4.0
 95
 98
 2000
@@ -52,19 +51,19 @@ Are you starting to get the picture? (pun intended) Do you see where I'm going w
 
 The question I am posing is why are our taskbars (and most UI navigation in general) still on the bottom, when we have this 'extra' real estate on the sides? There was a time before when aspect ratios were by majority (if not all) 4:3 format. This is a much more square viewport to where if you put the taskbar on the sides, or bottom there wasn't a huge impact of eating up your pixels. With our monitors increasingly becoming wider, or at the very least 'widescreen' being the norm now, 1920x1080 is still the most popular and widely used format and this results in a 16:9 aspect ratio. 
 
-I could see why in the beginning Microsoft wanting to showcase their taskbar front and center as a means of navigating around Windows, and this may well be the reason why it's still there, paired with not wanting to upset their users by moving things around. We're creatures of habit and reluctant to change, even if that change objectively makes more sense. 
+I could see why in the beginning Microsoft wanting to showcase their taskbar front and center as a means of navigating around Windows, and this may well be the reason why it's still there, paired with not wanting to upset their users by moving things around. We're creatures of habit and reluctant to change, even if that change (now) objectively makes more sense. 
 
 Being the [nerd](https://www.youtube.com/watch?v=N9qYF9DZPdw) that I am, I've definitely played around with most of the settings in Windows, adding custom themes (remember StarDock?? [They're still around!](https://www.stardock.com/)) and messing with the taskbar is something I have done before but all of these changes were short-lived and ultimately ended with me reverting back to what felt familiar. 
 
-Like any self-respecting computer doofus I was constantly playing around with Linux and desperately hoping for a day that I could abandon Windows and solely use Linux for all my computing needs. If your desktop didn't have 'wobbly' windows could you even consider yourself cool? I dreamed of a day I could utilize all of the cool 3D effects Compiz-Fusion alloted, 3D cubes with multiple desktops, crazy window exploding animations the future for operating system interfaces were looking amainzg! It wasn't until I was trying out one of the latest Ubuntu releases (Ubuntu 11.04 - Natty Narwhal) way back in 2011 and in Gnome they put their taskbar on the left, which was just so weird and foreign to me. At first I didn't like it at all, but later after thinking about it a while I realized why they did this, why would you take up precious vertical pixels with the taskbar when you could move that to the side where the real estate is more abundant?  
+Like any self-respecting computer doofus I was constantly playing around with Linux and desperately hoping for a day that I could abandon Windows entirely and solely use Linux for all my computing needs. If your desktop didn't have 'wobbly' windows could you even consider yourself cool? I dreamed of the day I could utilize all of the cool 3D effects Compiz-Fusion alloted, 3D cubes with multiple desktops, crazy window exploding animations the future for operating system interfaces were looking amazing! It wasn't until I was trying out one of the latest Ubuntu releases (Ubuntu 11.04 - Natty Narwhal) way back in 2011 and in Gnome they put their taskbar on the left, which was just so weird and foreign to me. At first I didn't like it at all, but later after thinking about it a while I realized why they did this, why would you take up precious vertical pixels with the taskbar when you could move that to the side where the real estate is more abundant?  
 
-Although it wasn't a perfect solution because Gnome still has the top menu bar (much like Mac) but why have two taskbars? I messed around with Ubuntu some more and ultimately was just fine using the taskbar on the side, it just took a while to get used to. I couldn't ever leave Windows entirely for a number of reasons and it's still my daily driver (but that's a whole other topic in itself, if Linux is so great how come I can't run Adobe apps fine in 2021!? - and don't give me that "Use Wine" argument because it's not the same)
+Although it wasn't a perfect solution because Gnome still has the top menu bar (much like Mac) but why have two taskbars? I messed around with Ubuntu some more and ultimately was just fine using the taskbar on the side, it just took a while to get used to. I couldn't ever leave Windows entirely for a number of reasons and it's still my daily driver (but that's a whole other topic in itself, if Linux is so great how come I can't run Adobe apps fine in 2021!? - and don't give me that "just use Wine" argument because it's not the same, plus I don't drink!? /rant)
 
 So I thought what if I try vertical taskbars on Windows? I run an ultrawide monitor for my 'main' monitor so I have even more side real estate with its 21:9 aspect ratio. I originally was trying it out on the left side, because you know, the Start Menu is on the left, but that now moves the clock to the left side and I am so used to viewing the clock in the bottom right of my screen. I tried this many times but always reverted back to the bottom location because it just seemed too weird. I did keep at it though and it wasn't until I finally swapped my taskbar to the right that I was able to be very comfortable with it, this retains the clock in its original position so no weirdness there, and also because I'm right handed it's just more intuitive to have it on the right, it just feels 'correct'. I think regardless if you put it on the right or left it's an improvement over the bottom (or top for that matter, are there any of you out there using it on the top!?) 
 
-I challenge you to try this new position for a week and see if you can do it! You'll find you have more vertical space for web pages, documents, 
+I challenge you to try this new position for a week and see if you can do it! You'll find you have more vertical space for web pages, documents, ...'other'
 
-For me personally there is an anecdotal rudimentary (making up from the top of my head) hierarchy of users listed on their reliance on OS tools like taskbars and menus
+For me personally there is an anecdotal rudimentary (just going from the top of my head) hierarchy of users listed on their reliance on OS tools like taskbars and menus
 
 0. (Not really on the list but worth mentioning, absolute bottom of the proverbial stacktrace) 12 year old "gamers" yelling obscenities at you on xbox, don't know what a desktop computer is, do everything from their ipad, lots of fighting on twitter and facebook, don't know what a 'backup' for their data is
 
@@ -76,8 +75,17 @@ For me personally there is an anecdotal rudimentary (making up from the top of m
 
 Our viewports keep getting more horizontal, but our content tends to remain vertical
 
+Do we even need a taskbar? Since learning how to Alt-Tab, the taskbar isn't nearly as useful anymore. In fact the only thing I really use it for is the clock! I have been recently experimenting with the auto-hide, but who wants to see that animating all the time. The do make some apps with a registry hack that will permanently hide the taskbar, so I suppose there are some times when you really need the taskbar, but in the meantime I will be auto hiding it and looking for a better solution for a clock. 
+
+Also, last but not least: Browsers! Or more, why is our internet content still primarily oriented vertically? Most websites still look like *heck* on a widescreen monitor. 
+Where are the vertically tabbed browsing? That's so much wasted space when instead we chew up our horizontal space with more browser chrome and tabs!? (ok chrome does have an extension for this but it's not that great [Vertical Tabs Extension](https://chrome.google.com/webstore/detail/vertical-tabs/pddljdmihkpdfpkgmbhdomeeifpklgnm?hl=en-US) how is this not integrated into chrome natively though? 
+
+Is this because the desktop computer is dying? Is everything moving more and more to the phone that developers don't really care about what their desktop websites look like? Are we going to go full circle now to where horizontal taskbars are actually better again because all of the content is now made to fit a phones aspect ratio? 
+
+Anyway, you get the idea - I'd love to start a new revolution of changing the perspective on this UI, right now I feel like it's an underground fight club where the only people 'in the know' set their taskbars up this way, and anytime I see one in the wild I just think to myself "this person #@$!ing gets it!"
+
+Let me know your thoughts in a comment on the video! 
 
 
 
-Do we even need a taskbar? Alt-Tab
 
