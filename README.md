@@ -3,7 +3,7 @@
 
 [Check out the video and full write-up here \\\ 016 AKIRA Thinkpad Lenovo X230 Laptop - Part 2](https://hightech-lowlife.github.io/projects/016_akira_laptop_part2/016_akira_laptop_part2)
 
-After successful completion of my previous Lenovo Thinkpad W541 laptop painting project, I wanted to challenge myself some more with an Akira themed build. Akira is by far one of my most favorite cyberpunk anime films I have ever seen and there is nothing more iconic than Kaneda’s bike! I have had this idea in my head for a very red thinkpad for a while now and I wanted to bring it to life. Check out part 1! 
+This is part 2 of transforming my cheapo stock Lenovo Thinkpad X230 into an AKIRA themed iconic red machine (Kaneda's Bike). In this final part we implement a really cool mod made by the Russian bada$$ Nitrocaster, this mod allows you to stuff in a full HD panel into your tiny 12.5" X230! Also on the dockett is upgrading from 8GB of mismatched *blechhh* ram, to 16GB of matching ram! We're also tossing in a 240GB MSATA SSD, I threw in a new 500GB SSD for data, and finally a Korean X220 keyboard!
 
 [![img](https://hightech-lowlife.github.io/projects/016_akira_laptop_part2/28_230.jpg)](https://hightech-lowlife.github.io/projects/016_akira_laptop_part2/016_akira_laptop_part2)
 
