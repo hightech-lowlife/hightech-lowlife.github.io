@@ -4,7 +4,7 @@
 
 This is part 2 of transforming my cheapo stock Lenovo Thinkpad X230 into an AKIRA themed iconic red machine (Kaneda's Bike)
 
-In this final part we implement a really cool mod made by the Russian bada$$ Nitrocaster, you can pick up this mod here on his website: https://nitrocaster.me/store/x220-x230-fhd-mod-kit.html this mod allows you to stuff in a full HD panel into your tiny 12.5" X230, the panel I put in here (LG LP125WF4-SPB1) looks INCREDIBLE!
+In this final part we implement a really cool mod made by the Russian bada$$ Nitrocaster, you can pick up this mod here on his website: https://nitrocaster.me/store/x220-x230-fhd-mod-kit.html this mod allows you to stuff in a full HD panel into your tiny 12.5" X230, the panel I put in here (LG LP125WF4-SPB1) looks *incredible*!
 
 Also on the dockett is upgrading from 8GB of mismatched *blechhh* ram, to 16GB of matching ram! We're also tossing in a 240GB MSATA SSD, I threw in a new 500GB SSD for data, and finally a Korean X220 keyboard!
 
@@ -53,7 +53,7 @@ I had a *heck* of a time installing the keyboard, but after 6 tries I finally go
 
 ## Build Completion
 
-Here are the new *UPGRADED* specs of the system:
+Here are the new **upgraded** specs of the system:
 Lenovo Thinkpad X230
 - Intel i5-3320M
 - 16GB RAM
