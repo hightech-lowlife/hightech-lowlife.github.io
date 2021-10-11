@@ -1,6 +1,6 @@
 <iframe width="1024" height="576" src="https://www.youtube.com/embed/vVhLR11Bf6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# \\\ AKIRA (Kaneda's Bike) Thinkpad Lenovo X230 Laptop - Part 2 \\\
+# \\\ AKIRA Thinkpad Lenovo X230 Laptop - Part 2 \\\
 
 This is part 2 of transforming my cheapo stock Lenovo Thinkpad X230 into an AKIRA themed iconic red machine (Kaneda's Bike)
 
@@ -70,7 +70,7 @@ Lenovo Thinkpad X230
 
 ## Software Setup + Final Thoughts
 
-After that all I had to do was set up the keyboard using sharpkeys, and it was finally finished! 
+After that all I had to do was set up the keyboard using [SharpKeys](https://www.randyrants.com/category/sharpkeys/). The X220 keyboard isn't correctly mapped for Page Down and Pause, so you will need software to remap them. Other than that it works as it should It's finally finished! 
 
 ![](23_230.jpg)
 ![](24_230.jpg)
@@ -79,3 +79,9 @@ After that all I had to do was set up the keyboard using sharpkeys, and it was f
 ![](27_230.jpg)
 ![](28_230.jpg)
 ![](29_230.jpg)
+
+Overall this was a lot of work in the end. I'm super happy with how it came out but there are a few things I would have changed knowing what I know now. For one, I would have gone with the i7 version of this computer, the performance may be negligable but I just feel with the amount of work invested this deserves top grade performance. Secondly, I wouldn't have spent as much time trying to make the red look 'perfect', I should have just artifically 'weather' the paint so that it looked worn, I think it ultimately would have looked even better and it would have saved me a ton of time. 
+
+Because I ended up putting that darker red textured overlay on the back panel, all of my paint imperfections would have been hidden anyway, and the paint didn't even have to be super gloss because it's almost entirely covered in graphics, this is what I should have done, but I was trying to make it as perfect as I could. 
+
+I think this computer looks amazing and every time I look at it I am inspired by its cyberpunk aesthetics. I couldn't be happier with how it turned out! 
