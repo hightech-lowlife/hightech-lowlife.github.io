@@ -72,6 +72,9 @@ Lenovo Thinkpad X230
 
 After that all I had to do was set up the keyboard using [SharpKeys](https://www.randyrants.com/category/sharpkeys/). The X220 keyboard isn't correctly mapped for Page Down and Pause, so you will need software to remap them. Other than that it works as it should It's finally finished! 
 
+![](akira_bg_1080.png)
+Also had to add [this wallpaper!](https://hightech-lowlife.github.io/projects/016_akira_laptop_part2/akira_bg_1080.png)
+
 ![](23_230.jpg)
 ![](24_230.jpg)
 ![](25_230.jpg)
