@@ -32,9 +32,9 @@ ME
 XP
 Vista
 7
-8 (um wtf?) 
+8 (um wtf happened here?) 
 10
-11
+11 (first ever "centered" rendition of the tasbkar objects)
 
 Do you see a trend regarding the taskbar? Yeah always on the bottom. Quite a lot of things have changed to Windows in 35+ years, a lot of updates and quality of life improvements, yet no one seems to have paid musch attention to the taskbar, this is a curious thing to me. 
 
@@ -69,6 +69,8 @@ Do we even need a taskbar? Since learning how to Alt-Tab, the taskbar isn't near
 
 Also, last but not least: Browsers! Or more, why is our internet content still primarily oriented vertically? Most websites still look like *heck* on a widescreen monitor and 
 Where are the vertical tabbed browsers? That's so much wasted space when instead we chew up our horizontal space with more browser chrome and tabs!? (ok chrome does have an extension for this but it's not that great [Vertical Tabs Extension](https://chrome.google.com/webstore/detail/vertical-tabs/pddljdmihkpdfpkgmbhdomeeifpklgnm?hl=en-US) how is this not integrated into chrome natively though? 
+
+Kudos to Edge browser (wow, never thought I'd say that in a sentence) for having vertical tabs built in! Although they don't get full credit because they still hold the entire line of vertical pixels solely for the max/min/close elements, which they should have moved lower! 
 
 Is this because the desktop computer is dying? Is everything moving more and more to the phone that developers don't really care about what their desktop websites look like? Are we going to go full circle now to where horizontal taskbars are actually better again because all of the content is now made to fit a phones aspect ratio? 
 
