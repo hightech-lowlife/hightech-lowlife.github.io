@@ -65,22 +65,14 @@ So I thought what if I try vertical taskbars on Windows? I run an ultrawide moni
 
 I off you a challenge: to try this new vertical position for a week and see if you can do it! You'll find you have more vertical space for web pages, documents, ...'other'
 
-For me in my mind there is an facetious hierarchy of computer users highlighted by their reliance on OS tools like taskbars and menus. It's pretty easy to tell how experienced and comfortable someone is by the way they use their operating system. 
-
-0. (Not really on the list but worth mentioning, absolute bottom of the proverbial stacktrace) 12 year old "gamers" yelling obscenities at you on xbox, don't know what a desktop computer is, do everything from their ipad, lots of fighting on twitter and facebook, don't know what a 'backup' for their data is
-
-1. Boomer Bumper Bowlers - All training wheels - horizontal taskbars, use menus to open documents, heavy reliance on the mouse, people that google 'google' etc - dell rubberdome with built in media keys (heavily used) - pressing the 'internet explorer' button on the keyboard 
-2. Mac Muffin - Fully within the ecosystem - knows how to command c / command v - once gave tech support to someone else by telling them to restart and it solved their issue
-3. Windows Wizard - VERTICAL FRIKKEN TASKBAR - alt-tab your life away - custom AHK scripts - minimal mouse usage - can shutdown via cmd prompt - builds their own desktop - TKL mech keyboard
-4. Level1 Linux - Installs gentoo for fun, i3 wm, no mouse attached, 30% split mech keyboard, only types in Colemak, custom automation scripts for everything, headless server 
-5. Neo - transcends time and space - rejects computer constructs entirely - go outside and pet grass 
-
 Do we even need a taskbar? Since learning how to Alt-Tab, the taskbar isn't nearly as useful anymore. In fact the only thing I really use it for is the clock! I have been recently experimenting with the auto-hide function, but who wants to see that animating all the time. They do make some apps with a registry hack that will permanently hide the taskbar, but I suppose there are some times when you really need the taskbar, in the meantime I will be auto hiding it and looking for a better solution for a clock. 
 
 Also, last but not least: Browsers! Or more, why is our internet content still primarily oriented vertically? Most websites still look like *heck* on a widescreen monitor and 
 Where are the vertical tabbed browsers? That's so much wasted space when instead we chew up our horizontal space with more browser chrome and tabs!? (ok chrome does have an extension for this but it's not that great [Vertical Tabs Extension](https://chrome.google.com/webstore/detail/vertical-tabs/pddljdmihkpdfpkgmbhdomeeifpklgnm?hl=en-US) how is this not integrated into chrome natively though? 
 
 Is this because the desktop computer is dying? Is everything moving more and more to the phone that developers don't really care about what their desktop websites look like? Are we going to go full circle now to where horizontal taskbars are actually better again because all of the content is now made to fit a phones aspect ratio? 
+
+And very lastly, I heard some rumors about Windows 11 not allowing you to change the orientation or placement of the taskbar, and sadly I can confirm that this is true ~ at least at this time with Windows 11 being very freshly released. It's possible they will update to allow this functionality back in the future, but I'm not holding my breath. In the meantime I will be just auto-hiding the taskbar and looking for a better solution for a clock. Although I did notice that without the clock I am more focused, so maybe it's for the best, although then it's a lot easier to lose track of time. 
 
 Anyway, you get the idea - I'd love to start a new revolution of changing the perspective on this UI element, right now I feel like it's an underground fight club where the only people 'in the know' set their taskbars up this way, and anytime I see one in the wild I just think to myself "this person #@$!ing gets it!"
 
