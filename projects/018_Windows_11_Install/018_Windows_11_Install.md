@@ -30,6 +30,7 @@ To get past the block screen on the Windows 11 install, you're going to want to 
 12. Now press "next" again to have the installer it recheck your system
 13. You should have gotten past the error screen and now you can continue installing Windows 11 on your older hardware 
 
+
 ![](2-bypass.jpg)
 
 Success!
