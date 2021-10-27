@@ -1,3 +1,14 @@
+## 017 \\\ Windows Vertical Taskbar \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 017 Windows Vertical Taskbar](https://hightech-lowlife.github.io/projects/017_vertical_taskbar/017_vertical_taskbar)
+
+Gaining more vertical pixels with this one simple trick! A man rants about Windows UI design and chaos ensues! You've been using Windows taskbar wrong your whole life! (Prove me wrong!) Ok so maybe this claim is a bit hyperbolic, but hear me out! Our monitors have changed quite a bit over time, the windows taskbar has not (really) and this is a problem. 
+
+[![img](https://hightech-lowlife.github.io/projects/017_vertical_taskbar/10-vert2.jpg)](https://hightech-lowlife.github.io/projects/017_vertical_taskbar/017_vertical_taskbar)
+
+\\\\\\\\\\
+
 ## 016 \\\ AKIRA (Kaneda's Bike) Custom Thinkpad Lenovo X230 Laptop - Part 2 \\\
 ----------------------------------------------------------------------
 
