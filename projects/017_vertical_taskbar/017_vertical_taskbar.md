@@ -14,8 +14,6 @@ Oh, you want to know what to do? Ok, it's very simple just right-click on your t
 
 Want to know *why* I recommend doing this? Read on: 
 
-![](3-wall.jpg)
-
 Ok so maybe that claim is a bit hyperbolic, but hear me out! Our monitors have changed quite a bit over time, the windows taskbar has not (really) and this is a problem. 
 
 First let's set the stage by taking a trip down memory lane, all the way back to [1985](https://www.youtube.com/watch?v=K38xNqZvBJI) with Windows 1.0, they didn't quite have the taskbar that we know and love (or hate) today, that would come later in Windows 95, but they did have some semblance of a taskbar and that was placed on the bottom row. Monitors back then were much more square than they are today, generally with an aspect ratio of 4:3. TV's were also in this rather square format as you might know from watching some killer 80's movies wondering "why are these black bars on either side of the movie!?". 
@@ -29,19 +27,7 @@ Fun fact:
 
 Anyway, here is a timeline of Windows releases with their taskbar front and cente... well, front and bottom. 
 
-1.0
-2.0
-3.0
-95
-98
-2000
-ME
-XP
-Vista
-7
-8 (um wtf happened here?) 
-10
-11 (first ever "centered" rendition of the tasbkar objects)
+![](3-wall.jpg)
 
 Do you see a trend regarding the taskbar? Yeah always on the bottom. Quite a lot of things have changed to Windows in 35+ years, a lot of updates and quality of life improvements, yet no one seems to have paid musch attention to the taskbar, this is a curious thing to me. 
 
