@@ -32,6 +32,10 @@ To get past the block screen on the Windows 11 install, you're going to want to 
 
 ![](2-bypass.jpg)
 
+Success!
+
+![](3-success.jpg)
+
 At this point I personally wouldn't use Windows 11 as my daily driver because it has just freshly been released and they will patch and fix a ton of issues and bugs over the next few months, it might be better to wait on a computer that is mission critical. 
 
 I did find a problem installing this on a virtual machine (VM) via VirtualBox, and that is I couldn't get past that screen even with these registry hacks, and it had to do with the fact that my VM was only set to a single processor, so there still might be a limitation if you are installing this on a single-core process (does anyone still have those in 2021?) So please set your processor to 2 (or more, I set my to 4, so I haven't tested it with 2) and you should be good. If you do have a computer that is only single core and not very powerful I suggest looking into a lightweight linux distro instead of Windows 11. 
