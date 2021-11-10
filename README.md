@@ -1,4 +1,4 @@
-## 018 \\\ Install Windows 11 On Old Hardware \\\
+# 018 \\\ Install Windows 11 On Old Hardware \\\
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 018 Install Windows 11](https://hightech-lowlife.github.io/projects/018_Windows_11_Install/018_Windows_11_Install)
@@ -9,7 +9,7 @@ This guide will allow you to install Windows 11 on older hardware, or any comput
 
 \\\\\\\\\\
 
-## 017 \\\ Windows Vertical Taskbar \\\
+# 017 \\\ Windows Vertical Taskbar \\\
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 017 Windows Vertical Taskbar](https://hightech-lowlife.github.io/projects/017_vertical_taskbar/017_vertical_taskbar)
@@ -20,7 +20,7 @@ Gaining more vertical pixels with this one simple trick! A man rants about Windo
 
 \\\\\\\\\\
 
-## 016 \\\ AKIRA (Kaneda's Bike) Custom Thinkpad Lenovo X230 Laptop - Part 2 \\\
+# 016 \\\ AKIRA (Kaneda's Bike) Custom Thinkpad Lenovo X230 Laptop - Part 2 \\\
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 016 AKIRA Thinkpad Lenovo X230 Laptop - Part 2](https://hightech-lowlife.github.io/projects/016_akira_laptop_part2/016_akira_laptop_part2)
@@ -31,7 +31,7 @@ This is part 2 of transforming my cheapo stock Lenovo Thinkpad X230 into an AKIR
 
 \\\\\\\\\\
 
-## 015 \\\ AKIRA (Kaneda's Bike) Custom Thinkpad Lenovo X230 Laptop - Part 1 \\\
+# 015 \\\ AKIRA (Kaneda's Bike) Custom Thinkpad Lenovo X230 Laptop - Part 1 \\\
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 015 AKIRA Thinkpad Lenovo X230 Laptop - Part 1](https://hightech-lowlife.github.io/projects/015_akira_laptop_part1/015_akira_laptop_part1)
@@ -42,7 +42,7 @@ After successful completion of my previous Lenovo Thinkpad W541 laptop painting 
 
 \\\\\\\\\\
 
-## 014 \\\ Ebike [1.0] - 18KW Urban “Super Cruiser” E-Bike \\\
+# 014 \\\ Ebike [1.0] - 18KW Urban “Super Cruiser” E-Bike \\\
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 014 - Ebike [1.0] - 18KW Urban “Super Cruiser” E-Bike](https://hightech-lowlife.github.io/projects/014_18kw_cruiser_ebike/014_18kw_cruiser_ebike)
@@ -53,7 +53,7 @@ Taking it back to the beginning! This is the first ebike I had ever made and it�
 
 \\\\\\\\\\
 
-## 013 \\\ WASD CODE VP3 60% Wireless Keyboard Conversion - Part 2 \\\
+# 013 \\\ WASD CODE VP3 60% Wireless Keyboard Conversion - Part 2 \\\
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 013 - WASD CODE VP3 60% Wireless Keyboard Conversion - Part 2](https://hightech-lowlife.github.io/projects/013_mini_wireless_part2/013_mini_wireless_part2)
@@ -64,7 +64,7 @@ Part 2 of the mini wireless build, we finish things up with a new battery, case 
 
 \\\\\\\\\\
 
-## 012 \\\ WASD CODE VP3 60% Wireless Keyboard Conversion - Part 1 \\\
+# 012 \\\ WASD CODE VP3 60% Wireless Keyboard Conversion - Part 1 \\\
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 012 - WASD CODE VP3 60% Wireless Keyboard Conversion](https://hightech-lowlife.github.io/projects/012_mini_wireless_part1/012_mini_wireless_part1)
@@ -75,7 +75,7 @@ Back at it again with the wireless conversions, this time we're doing a smaller 
 
 \\\\\\\\\\
 
-## 011 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - TL;DW Ver.
+# 011 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - TL;DW Ver.
 ----------------------------------------------------------------------
 
 [Check out the video here \\\ 011 - Custom 5000W Digi-Camo E-bike - TL;DW Ver.](https://hightech-lowlife.github.io/projects/011_digi_camo_ebike_part6/011_digi_camo_ebike_part6)
@@ -86,7 +86,7 @@ This is the "Too long; didn't watch" version of the build - I know not everyone 
 
 \\\\\\\\\\
 
-## 010 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 5
+# 010 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 5
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 010 - Custom 5000W Digi-Camo E-bike - Part 5](https://hightech-lowlife.github.io/projects/010_digi_camo_ebike_part5/010_digi_camo_ebike_part5)
@@ -97,7 +97,7 @@ The final part of building a custom DIY 5000W [5KW!] 54MPH monster ebike! In thi
 
 \\\\\\\\\\
 
-## 009 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 4
+# 009 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 4
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 009 - Custom 5000W Digi-Camo E-bike - Part 4](https://hightech-lowlife.github.io/projects/009_digi_camo_ebike_part4/009_digi_camo_ebike_part4)
@@ -108,7 +108,7 @@ Part 4 of building a custom DIY 5000W [5KW!] 54MPH monster ebike! In this part w
 
 \\\\\\\\\\
 
-## 008 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 3
+# 008 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 3
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 008 - Custom 5000W Digi-Camo E-bike - Part 3](https://hightech-lowlife.github.io/projects/008_digi_camo_ebike_part3/008_digi_camo_ebike_part3)
@@ -119,7 +119,7 @@ Part 3 of building a custom DIY 5000W [5KW!] 54MPH monster ebike! In this part w
 
 \\\\\\\\\\
 
-## 007 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 2
+# 007 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 2
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 007 - Custom 5000W Digi-Camo E-bike - Part 2](https://hightech-lowlife.github.io/projects/007_digi_camo_ebike_part2/007_digi_camo_ebike_part2)
@@ -130,7 +130,7 @@ Part 2 of building a custom DIY 5000W [5KW!] 54MPH monster ebike! In this part w
 
 \\\\\\\\\\
 
-## 006 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 1
+# 006 \\\ Custom 5000W Digi-Camo E-bike [Ebike 3.0] - Part 1
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 006 - Custom 5000W Digi-Camo E-bike - Part 1](https://hightech-lowlife.github.io/projects/006_digi_camo_ebike/006_digi_camo_ebike)
@@ -141,7 +141,7 @@ Building a custom DIY 5000W [5KW!] 54MPH monster ebike! Complete with a subdued 
 
 \\\\\\\\\\
 
-## 005 \\\ Custom Painting a Laptop - ThinkPad W541 Hex-Camo
+# 005 \\\ Custom Painting a Laptop - ThinkPad W541 Hex-Camo
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 005 - Custom Painting a Laptop - ThinkPad W541 Hex-Camo](https://hightech-lowlife.github.io/projects/005_camo_w541_laptop_painting/005_camo_w541_laptop_painting)
@@ -152,7 +152,7 @@ DIY Painting a laptop? You should totally paint your laptop! (maybe), actually m
 
 \\\\\\\\\\
 
-## 004 \\\ USB Keyboard to Wireless Bluetooth Conversion 
+# 004 \\\ USB Keyboard to Wireless Bluetooth Conversion 
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 004 - USB Keyboards Wireless Conversion](https://hightech-lowlife.github.io/projects/004_wireless_keyboard/004_wireless_keyboard)
@@ -163,7 +163,7 @@ This is for those who want to take their existing USB keyboard and make it wirel
 
 \\\\\\\\\\
 
-## 003 \\\ GPS + Phone Car Dashboard Mount
+# 003 \\\ GPS + Phone Car Dashboard Mount
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 003 - GPS + Phone Mount](https://hightech-lowlife.github.io/projects/003_gps_phone_mount/003_gps_phone_mount)
@@ -174,7 +174,7 @@ My phone will automatically turn on and start playing music when I turn my car o
 
 \\\\\\\\\\
 
-## 002 \\\ Overhead Camera Mount with LED Lighting
+# 002 \\\ Overhead Camera Mount with LED Lighting
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 002 - Overhead Camera Mount](https://hightech-lowlife.github.io/projects/002_overhead_mount/002_overhead_mount)
@@ -185,7 +185,7 @@ If your camera is right over your working space it frees up a lot of space to mo
 
 \\\\\\\\\\
 
-## 001 \\\ MINI-ITX Digital Audio Workstation (DAW)
+# 001 \\\ MINI-ITX Digital Audio Workstation (DAW)
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 001 - Mini DAW Workstation](https://hightech-lowlife.github.io/projects/001_mini_beast/001_mini_beast)
