@@ -6,7 +6,7 @@ A man rants about UI design and chaos ensues!
 
 ![](1-meme.jpg)
 
-### Introduction
+# Introduction
 
 ![](2-vert.jpg)
 
@@ -33,7 +33,7 @@ Do you see a trend regarding the taskbar? Yeah always on the bottom. Quite a lot
 
 Let me present my case. 
 
-## Orientation as innovation!
+# Orientation as innovation!
 
 ![](6-vertvid.jpg)
 Isn't this annoying? (well perhaps not because you're a zoomer tik-tok'r and don't even know what a desktop computer is!) But for those that can remember, when you're viewing a youtube video and someone uploads in portrait mode (or vertical) it just totally ruins the experience and there is a reason for that. 
