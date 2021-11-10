@@ -36,6 +36,7 @@ Let me present my case.
 # Orientation as innovation!
 
 ![](6-vertvid.jpg)
+
 Isn't this annoying? (well perhaps not because you're a zoomer tik-tok'r and don't even know what a desktop computer is!) But for those that can remember, when you're viewing a youtube video and someone uploads in portrait mode (or vertical) it just totally ruins the experience and there is a reason for that. 
 
 Perhaps if we evolved with one central eye it would make more sense to have a more 'square' viewport for visual computer interfaces, but to me it makes sense for us to naturally evolve and progress towards a more horizontal viewport. Not only do we have a pair of eyes set in a horizontal fashion, but each eye themselves have evolved to favor horizontal peripheral vision as opposed to verticality. 
