@@ -19,7 +19,7 @@ img {max-width: 100%; height: auto; outline: 6px solid #353535; outline-offset: 
 code {white-space : pre-wrap !important; overflow: hidden !important;}
 .main-content hr {height: 1px; background-color: #484848;}
 .main-content p {margin-bottom: 35px;}
-h1 h2 h3 {font-family: 'GLNummernschildEngRegular'; font-weight: normal; font-style: normal;}
+h1, h2, h3 {font-family: 'GLNummernschildEngRegular'; font-weight: normal; font-style: normal;}
 
 // YouTube Responsive Embed
 .video-container {position: relative; padding-bottom: 53.25%; padding-top: 31px; height: 0; overflow: hidden; outline: 6px solid #353535;}
