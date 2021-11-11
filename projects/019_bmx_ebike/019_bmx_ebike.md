@@ -17,17 +17,7 @@ I started out this build just wanting to make a grocery-getter, something small 
 3. Battery ~ 72V 13.2AH ~ I don't recommend the pack I bought, you're better off just getting a 'full' pack instead of what I (unexpectedly) got, which is just a bunch of smaller packs jumbled together. 
 
 ![](motor.jpg)
-
 I bought a bunch of other little parts to make this work, extra universal brake kits (front and rear), various nuts and bolts, etc. 
-
-00:24 - BMX Parts
-01:43 - Rear motor installation
-06:31 - Brake removal + safety rant
-07:59 - Fixing crank clearance + frame mods
-09:17 - Battery tray [1]
-10:08 - Controller mount
-11:21 - Battery tray [2] + bag
-13:05 - Next time / outro
 
 # Prepping the frame
 
