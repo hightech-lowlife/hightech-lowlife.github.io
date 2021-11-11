@@ -1,3 +1,14 @@
+# 019 \\\ 3000W BNX E-BIKE [4.0] \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 019 BMX EBIKE](https://hightech-lowlife.github.io/projects/019_bmx_ebike/019_bmx_ebike)
+
+This guide will allow you to install Windows 11 on older hardware, or any computers that don't fit the requirements for Windows 11 installation. You will get an error for either TPM module is not up to date, or not the current version 2.0, or you will get an error that your processor is not valid, or might get one that you don't have enough RAM to install, either way it should be your choice on installing Windows 11 on your computer, not Microsoft's. 
+
+[![img](https://hightech-lowlife.github.io/projects/019_bmx_ebike/frame.jpg)](https://hightech-lowlife.github.io/projects/019_bmx_ebike/019_bmx_ebike)
+
+\\\\\\\\\\
+
 # 018 \\\ Install Windows 11 On Old Hardware \\\
 ----------------------------------------------------------------------
 
