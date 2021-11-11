@@ -25,7 +25,7 @@ I bought a bunch of other little parts to make this work, extra universal brake 
 ![](stretch.jpg)
 I knew going into this project that the motor would not fit inside the 110mm dropouts on the tiny BMX bike. The axle width is 135mm, so I needed to stretch the dropouts about 20mm, which isn't too bad, that's just 1cm on each side. I have done this method a few times before on some other ebike builds, you just put a car jack between the dropouts and stretch. You will have to go over because the steel will rebound, so just go a little at a time until you get the right width. Do not do this with aluminum or carbon fiber, steel is much more forgiving, with aluminum and carbon you will probably crack or damage the metal beyond use. 
 
-![](stretch.jpg)
+![](foul.jpg)
 This actually went pretty well, and the only issue was that the right side crank was now hitting the frame, just barely. I'll have to address this later, other than that ~ pretty easy! I did try a few things to fix this (you can watch the video) but none of them really worked (sledgehammer, more stretching, etc...) 
 
 ![](rearbrake.jpg)
