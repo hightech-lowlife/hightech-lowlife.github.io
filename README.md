@@ -1,4 +1,4 @@
-# 019 \\\ 3000W BNX E-BIKE [4.0] \\\
+# 019 \\\ 3000W BMX E-BIKE [4.0] \\\
 ----------------------------------------------------------------------
 
 [Check out the video and full write-up here \\\ 019 BMX EBIKE](https://hightech-lowlife.github.io/projects/019_bmx_ebike/019_bmx_ebike)
