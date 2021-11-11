@@ -1,9 +1,9 @@
-# 019 \\\ 3000W BMX E-BIKE [4.0] \\\
+# 019 \\\ 3000W BMX E-BIKE [4.0] PART 1 \\\
 ----------------------------------------------------------------------
 
-[Check out the video and full write-up here \\\ 019 BMX EBIKE](https://hightech-lowlife.github.io/projects/019_bmx_ebike/019_bmx_ebike)
+[Check out the video and full write-up here \\\ 019 BMX E-BIKE - Part 1](https://hightech-lowlife.github.io/projects/019_bmx_ebike/019_bmx_ebike)
 
-This guide will allow you to install Windows 11 on older hardware, or any computers that don't fit the requirements for Windows 11 installation. You will get an error for either TPM module is not up to date, or not the current version 2.0, or you will get an error that your processor is not valid, or might get one that you don't have enough RAM to install, either way it should be your choice on installing Windows 11 on your computer, not Microsoft's. 
+I started out this build just wanting to make a grocery-getter, something small that I could ride to the local grocery store on my break from work to pick up some food. I also was just planning on making it a beater so that if something happened to it, I wasn’t going to be too upset about it. Of course I was planning on just throwing some parts at it and building it as quickly as possible, but it never turns out that way, so I ended up pouring way too much time into it and making it ‘too nice’.
 
 [![img](https://hightech-lowlife.github.io/projects/019_bmx_ebike/frame.jpg)](https://hightech-lowlife.github.io/projects/019_bmx_ebike/019_bmx_ebike)
 
