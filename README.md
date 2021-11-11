@@ -1,3 +1,14 @@
+# 020 \\\ 3000W BMX E-BIKE [4.0] PART 2 \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 020 BMX E-BIKE - Part 2](https://hightech-lowlife.github.io/projects/020_bmx_ebike_part2/020_bmx_ebike_part2)
+
+In part two I start off by swapping the tire from the stock rear rim to the new motor rim. I also replaced the tubes in the front tire too ~ I swear by these ‘green slime’ tubes, they’re much thicker and also have a ‘run flat’ type of liquid inside that if you get smaller punctures they will seal themselves. I now also use these plastic (nylon?) inserts that offer even better protection, after doing these mods to your tires you will no longer ever have flats!
+
+[![img](https://hightech-lowlife.github.io/projects/020_bmx_ebike_part2/closer.jpg)](https://hightech-lowlife.github.io/projects/020_bmx_ebike_part2/020_bmx_ebike_part2)
+
+\\\\\\\\\\
+
 # 019 \\\ 3000W BMX E-BIKE [4.0] PART 1 \\\
 ----------------------------------------------------------------------
 
