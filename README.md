@@ -1,3 +1,14 @@
+# 021 \\\ 3000W BMX E-BIKE [4.0] PART 3 \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 021 BMX E-BIKE - Part 3](https://hightech-lowlife.github.io/projects/021_bmx_ebike_part3/021_bmx_ebike_part3)
+
+In part 3 we’re on to more battery modifications, this time we’re cleaning up all of these wires so that this ‘pack’ will finally fit in the battery bag. This ‘pack’ was what I assumed to be a single battery but to my surprised when I opened the bag there were 6 individual packs. I had never seen a battery set up like this, and the seller on eBay didn’t say anything about there being multiple little packs split up like this.
+
+[![img](https://hightech-lowlife.github.io/projects/021_bmx_ebike_part3/ready3.jpg)](https://hightech-lowlife.github.io/projects/021_bmx_ebike_part3/021_bmx_ebike_part3)
+
+\\\\\\\\\\
+
 # 020 \\\ 3000W BMX E-BIKE [4.0] PART 2 \\\
 ----------------------------------------------------------------------
 
