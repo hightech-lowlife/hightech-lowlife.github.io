@@ -34,59 +34,54 @@ While my bag is cooking in dye, it's time to install the new rear brake. Yes I h
 ![](rear2.jpg)
 After all of my experience with the front brake, the rear one went on very smoothly. 
 
+![](breakdown.jpg)
+Now it's time to break down the bike again to all of it's smaller pieces, and prep them for paint. 
+
+![](sticker.jpg)
+I had to remove all of the stickers before paint and using a heat gun definitely helps this process. 
+
+![](sand.jpg)
+The arduous task of sanding everything underway!
+
+![](wipe.jpg)
+After all that sanding, it's time to wipe everything down. 
+
+![](paint1.jpg)
+Finally I can start painting! 
+
+![](paint2.jpg)
+After primer, then comes the gray, lots of gray!
+
+![](bag2.jpg)
+I took a break from painting to see how my bag turned out and yeah... it's still very orange. I have a bright idea of just painting the dye onto the bag, so it should be fully concentrated, we'll see how it goes. 
+![](bag3.jpg)
+
+![](paint4.jpg)
+Maybe I should have done these pedals in my accent color (burnt bronze), oh well. 
+
+![](bag4.jpg)
+The bag is looking darker now, I think this is promising. 
+
+![](paint5.jpg)
+Everything is coming out very well!
+
+![](paint6.jpg)
+No runs or anything, looking very smooth. 
+
+![](bag5.jpg)
+Ok so, it is a lot darker but still not where I want it, I'm going to have to figure out a solution for this. 
+
+![](reassemble.jpg)
+Now that my paint is dry, it's time to start reassembling everything back together! This is just me regreasing the bearings for the steering tube. 
+![](motor.jpg)
+
+![](wheel.jpg)
+
+![](bag7.jpg)
+I bought some fabric dye spray, hopefully this will work better. I should have just spray painted this instead from the get-go!
+
+Stay tuned for the next episode where we continue on with the reassembly and even more cosmetic details! 
 
 
-
-![](tape.jpg)
-This first thing I did was tape all of these little blue potatoes together! I got tired of carrying them around one by one, so giant brick here we go. 
-
-![](wire.jpg)
-This is 6 packs, each one is 36v and 4.4Ah, so if we wire two together that will get us 72V, and then if we parallel 3 sets of those 2 packs, that will net us 13.2Ah for run times. 
-
-![](wire2.jpg)
-I got rid of every single connector (which was a lot) and ran the wiring as cleanly and efficiently as I could to preserve room within the bag. 
-
-![](wire3.jpg)
-To get the most efficient runs, I used a single wire and only 'tapped' into it by stripping the sleeving and splitting the wire into giving me a 'hole' to run the other lead through, this made it a lot easier to solder the wires in without having a bunch of smaller lengths of wire. 
-
-![](drill.jpg)
-I needed to secure the battery tray even better, so I drilled out the tapped holes and then drilled all the way through the top tube so that I could put some much longer bolts with washers and nuts on the other side. 
-
-![](nuts.jpg)
-Securing the longer bolts with nuts on the bottom of the top tube. 
-
-![](saw.jpg)
-I got longer bolts than I needed because I knew I was going to be cutting them down to the exact size to preserve more space within the triangle. 
-
-![](clearance.jpg)
-I had to remove the washer because the tolerances right above the controller were very tight and I wanted there to be enough room so the bolt wouldn't interfere with the controller. 
-
-![](zip.jpg)
-Now that the batteries will fit in the bag, it's time to clean up some of this wiring for the motor and controller. 
-
-![](closes.jpg)
-Oh yeah, it finally zips up!!!
-
-![](chain.jpg)
-Time to put the chain back on again. 
-
-![](pedals.jpg)
-And fitting the pedals on because I want to test ride it!
-
-![](power.jpg)
-I'm putting an XT-90S connector for the discharge (to controller) and then adding a smaller XT-60 for chargining. You don't need huge power wires or connectors for charging because it's not many amps. I use the "S" versions of the XT-90 connectors because with 72v you get a loud pop and spark every time you plug them in, these spark arresting connectors take care of that. 
-
-![](plug.jpg)
-Time to plug in! 
-
-![](ready.jpg)
-
-Assembled and ready for a test ride!
-
-![](ready2.jpg)
-
-![](ready3.jpg)
-
-Now that we're here I can test it out and make sure everything is working correctly before disassembling everything again and then starting on the cosmetics! 
 
 See you next episode where we get crackin' on the visuals. 
