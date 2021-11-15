@@ -1,3 +1,14 @@
+# 022 \\\ 3000W BMX E-BIKE [4.0] PART 4 \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 022 BMX E-BIKE - Part 4](https://hightech-lowlife.github.io/projects/022_bmx_ebike_part4/022_bmx_ebike_part4)
+
+In part 4 we’re digging into all of the cosmetic modifications I have planned for this build. I actually didn’t really plan on putting too much time or work into making this look nice, this was supposed to be a ‘beater’ that I could thrash on, but that didn’t really work out, so here I am pouring way too much time and energy into another build!
+
+[![img](https://hightech-lowlife.github.io/projects/022_bmx_ebike_part4/cad.jpg)](https://hightech-lowlife.github.io/projects/022_bmx_ebike_part4/022_bmx_ebike_part4)
+
+\\\\\\\\\\
+
 # 021 \\\ 3000W BMX E-BIKE [4.0] PART 3 \\\
 ----------------------------------------------------------------------
 
