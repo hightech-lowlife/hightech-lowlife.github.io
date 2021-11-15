@@ -1,13 +1,6 @@
 # \\\ 3000W BMX E-BIKE [4.0] PART 4 \\\
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/CfS3SvR_i24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-01:19 - Bag mod (badge + dyeing)
-04:11 - Rear brake
-05:09 - Teardown + paint prep + rant
-08:49 - Painting!
-13:01 - More bag woes + reassembly
-15:00 - Next time / outro
+<iframe width="1024" height="576" src="https://www.youtube.com/embed/tY7IDggt3Bs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Cosmetic Modifications
 
