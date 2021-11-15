@@ -74,7 +74,3 @@ Now that my paint is dry, it's time to start reassembling everything back togeth
 I bought some fabric dye spray, hopefully this will work better. I should have just spray painted this instead from the get-go!
 
 Stay tuned for the next episode where we continue on with the reassembly and even more cosmetic details! 
-
-
-
-See you next episode where we get crackin' on the visuals. 
