@@ -2,12 +2,40 @@
 
 <iframe width="1024" height="576" src="https://www.youtube.com/embed/CfS3SvR_i24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Battery Modifications
+01:19 - Bag mod (badge + dyeing)
+04:11 - Rear brake
+05:09 - Teardown + paint prep + rant
+08:49 - Painting!
+13:01 - More bag woes + reassembly
+15:00 - Next time / outro
 
-![](pack.jpg)
-In part 3 we're on to more battery modifications, this time we're cleaning up all of these wires so that this 'pack' will finally fit in the battery bag. This 'pack' was what I assumed to be a single battery but to my surprise when I opened the bag there were 6 individual packs. I had never seen a battery set up like this, and the seller on eBay didn't say anything about there being multiple little packs split up like this. Another thing I didn't like was how they were all wired together, there was just a huge mess of connectors with those silly screw-down type connectors also and the wires easily pulled out of those, which could have been a shock or fire hazard!
+# Cosmetic Modifications
 
-I have read that you shouldn't daisy chain multiple packs/BMS's like this but then again I have seen others do it and they were just fine, so the jury is out on whether this is a good or bad idea, I would err on the side of caution and recommend you do not set up your batteries this way, although it can be cheaper to do. Had I known the pack was going to come this way I would have just bought a different ready made pack, but I already had it and I didn't want to return it and search for another battery, so I just went with it, but your mileage may vary. If something bad does happen I will update you! 
+In part 4 we're digging into all of the cosmetic modifications I have planned for this build. I actually didn't really plan on putting too much time or work into making this look nice, this was supposed to be a 'beater' that I could thrash on, but that didn't really work out, so here I am pouring way too much time and energy into another build!
+
+![](cad.jpg)
+First up is mocking up the 'placards', I had an idea of hiding some of the wires behind some opaque acrylic panels - so I just measured them up with some CAD (cardboard aided design).
+
+![](rad.jpg)
+I also wanted to put one on the front to pay homage to my favorite 80's BMX movie - RAD
+
+![](emb.jpg)
+Next up was working on this stupid bag some more! I thought for sure that this was just an embroidered 'badge' that they then sewed on to the bag, but this was not the case. The actually embroidered the bag, I couldn't believe it. It took me 2.5 hours to remove all of the embroidery and had I known that it was going to be like this I would have just left it. 
+
+![](after.jpg)
+Finally finished, what a mess! 
+
+![](dye.jpg)
+As much as I like orange, I like black better so here I am dyeing the bag fully black. I have dyed things before, including nylon, so this should be a walk in the park. I used a full bottle of rit dye for this, so it should be as black as the abyss. 
+
+![](rear.jpg)
+While my bag is cooking in dye, it's time to install the new rear brake. Yes I had to purchase a new one because I could not reuse the old one unfortunately (try as I may). 
+
+![](rear2.jpg)
+After all of my experience with the front brake, the rear one went on very smoothly. 
+
+
+
 
 ![](tape.jpg)
 This first thing I did was tape all of these little blue potatoes together! I got tired of carrying them around one by one, so giant brick here we go. 
