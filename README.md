@@ -1,3 +1,14 @@
+# 023 \\\ 3000W BMX E-BIKE [4.0] PART 5 \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 023 BMX E-BIKE - Part 5](https://hightech-lowlife.github.io/projects/023_bmx_ebike_part5/023_bmx_ebike_part5)
+
+In part 5 we’re continuing on with the reassembly now that all of the parts of painted up and ready to go. In this episode there is a lot to get through, including some additional printing as well as all of the acrylic engraving and cutting.
+
+[![img](https://hightech-lowlife.github.io/projects/023_bmx_ebike_part5/print.jpg)](https://hightech-lowlife.github.io/projects/023_bmx_ebike_part5/023_bmx_ebike_part5)
+
+\\\\\\\\\\
+
 # 022 \\\ 3000W BMX E-BIKE [4.0] PART 4 \\\
 ----------------------------------------------------------------------
 
