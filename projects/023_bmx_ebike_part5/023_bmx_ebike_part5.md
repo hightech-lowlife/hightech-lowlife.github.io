@@ -21,7 +21,7 @@ Even though they're not adding to the function nor performance at all, I'm throw
 ![](tape.jpg)
 The multi-colored wires are very helpful for making electrical connections, but they aren't too sightly when you have a very muted build like this. I'm just covering the more exposed portions with some black electrical tape. 
 
-![](con.jpg)
+![](conn.jpg)
 Fitting the controller back in the triangle.  
 
 ![](zip.jpg)
