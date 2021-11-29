@@ -1,3 +1,14 @@
+# 024 \\\ 3000W BMX E-BIKE [4.0] PART 6 - FINAL \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 024 BMX E-BIKE - Part 6](https://hightech-lowlife.github.io/projects/024_bmx_ebike_part6/024_bmx_ebike_part6)
+
+In part 6 we finally finish the entire build. We do have a few small things to finish up, but after that I can take it on a speed run, test ride and show it off in all it's glory!
+
+[![img](https://hightech-lowlife.github.io/projects/024_bmx_ebike_part6/f3.jpg)](https://hightech-lowlife.github.io/projects/024_bmx_ebike_part6/024_bmx_ebike_part6)
+
+\\\\\\\\\\
+
 # 023 \\\ 3000W BMX E-BIKE [4.0] PART 5 \\\
 ----------------------------------------------------------------------
 
