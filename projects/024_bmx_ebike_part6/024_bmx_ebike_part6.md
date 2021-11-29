@@ -16,29 +16,29 @@ I got these rubber patches from ![Mutiny Shop](http://www.mutinyshop.com/) to fi
 With the patches finally on I could continue completing the final assembly. 
 ![](ass2.jpg)
 
-[](ass3.jpg)
+![](ass3.jpg)
 Installing the custom acrylic side panels!
 
-[](ass4.jpg)
+![](ass4.jpg)
 Throwing on the pedals! 
 
-[](ass5.jpg)
+![](ass5.jpg)
 Of course I couldn't leave those 'mountain dew' neon green valve caps on there. 
 
 # Finishing Touches
 
-[](touch.jpg)
+![](touch.jpg)
 I thought I was done, and greanted this build is already graphics heavy, but these extra decals just added the final touches. 
 
-[](touch2.jpg)
+![](touch2.jpg)
 Putting on the final decals.
 
 # Speed Run
 
-[](speed.jpg)
+![](speed.jpg)
 So how fast does it go? 45MPH was the fastest run yet!
-[](speed3.jpg)
-[](speed2.jpg)
+![](speed3.jpg)
+![](speed2.jpg)
 
 # Completed Build
 
