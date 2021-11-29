@@ -1,6 +1,6 @@
 # \\\ 3000W BMX E-BIKE [4.0] PART 6 - FINAL \\\
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/TcBWek1iFQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1024" height="576" src="https://www.youtube.com/embed/qANfbgFuITw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In part 6 we finally finish the entire build. We do have a few small things to finish up, but after that I can take it on a speed run, test ride and show it off in all it's glory! 
 
