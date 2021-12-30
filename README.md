@@ -3,7 +3,7 @@
 
 [Check out the video and full write-up here \\\ 025 BMX E-BIKE - TL;DW Version](https://hightech-lowlife.github.io/projects/025_bmx_ebike_part7/025_bmx_ebike_part7)
 
-In part 6 we finally finish the entire build. We do have a few small things to finish up, but after that I can take it on a speed run, test ride and show it off in all it's glory!
+This is the TL;DW (too long; didn't watch) version of my 3000W BMX ebike build - for those who didn't have the time to watch the 6-part series I have condensed it all down in 'rapid-fire' pace in 6 minutes!
 
 [![img](https://hightech-lowlife.github.io/projects/024_bmx_ebike_part6/f16.jpg)](https://hightech-lowlife.github.io/projects/025_bmx_ebike_part7/025_bmx_ebike_part7)
 
