@@ -1,3 +1,14 @@
+# 026 \\\ 12+ Year Old Keyboard Restoration + Mods \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 026 Keyboard Cleanup](https://hightech-lowlife.github.io/projects/026_keyboard_cleanup/026_keyboard_cleanup)
+
+My mouse died and I realized that my keyboard was disgusting so I cleaned it all up and did some modding and experimentation to try and get an even better typing experience.
+
+[![img](https://hightech-lowlife.github.io/projects/026_keyboard_cleanup/kb_9.jpg)](https://hightech-lowlife.github.io/projects/026_keyboard_cleanup/026_keyboard_cleanup)
+
+\\\\\\\\\\
+
 # 025 \\\ 3000W BMX E-BIKE [4.0] TL;DW Version \\\
 ----------------------------------------------------------------------
 
