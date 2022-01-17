@@ -1,76 +1,60 @@
 # \\\ Mechanical Keyboard Cleanup + Modification \\\
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/qANfbgFuITw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1024" height="576" src="https://www.youtube.com/embed/6YhoZVnxJek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In part 6 we finally finish the entire build. We do have a few small things to finish up, but after that I can take it on a speed run, test ride and show it off in all it's glory! 
+My mouse died and I realized that my keyboard was disgusting so I cleaned it all up and did some modding and experimentation to try and get an even better typing experience. 
 
-# Sewing Patches
+![](kb_1.jpg)
 
-![](patch.jpg)
-I got these rubber patches from ![Mutiny Shop](http://www.mutinyshop.com/) to finally complete this bag. These patches are extremely tough and last a very long time, I had never bought this kind with the rubber backing before however. You're supposed to iron them on, but I was skeptical on how well I was going to be able to place these and also how well they would hold up over time. I really didn't want these flapping around after a while due to the adhesive giving way. I thought sewing them on would allow me the best placement while also being able to remove them later if I messed up. It went well, but it did take me 3+ hours to finish this! The rubber is hard to sew, plus the adhesive likes to grab the needle so it wasn't the easiest job to do but I did finish it, and it looks pretty good! 
-![](patch2.jpg)
+This keyboard is an X-Armor mechanical board with Cherry MX Blue switches that has shared tooling with many other "OEM" keyboards, and it's actually not that bad of a board design, obviously it has held up for a really long time. I got this board for free from my previous employer and it was just a retail sample, it's held up for more than 12 years now and it was time to give it a thorough washing and the keycaps were so worn that I figured it would be a good idea to just replace them instead of cleaning them up. 
 
-# Final Assembly
+![](kb_2.jpg)
 
-![](ass1.jpg)
-With the patches finally on I could continue completing the final assembly. 
-![](ass2.jpg)
+I've been thinking more about slim profile keyboards and realized that they might actually be more ergonomic, this was solidified when Zack Freedman posted a video of his board design which used low profile switches with also low profile keycaps, I figured I'd at least try to slim down this board and see how it felt. 
 
-![](ass3.jpg)
-Installing the custom acrylic side panels!
+# Let's Get Into It 
 
-![](ass4.jpg)
-Throwing on the pedals! 
+![](kb_3.jpg)
+Disassembly was easy, just some screws on the bottom. 
 
-![](ass5.jpg)
-Of course I couldn't leave those 'mountain dew' neon green valve caps on there. 
+# Cleanup On Row R4
+After 12 years, things start looking pretty bad. Thankfully almost all of it came off without any solvents, just a paint brush for the big stuff, then a toothbrush for the nooks and crannies, oh and a ton of elbow grease. 
 
-# Finishing Touches
+![](kb_4.jpg)
 
-![](touch.jpg)
-I thought I was done, and greanted this build is already graphics heavy, but these extra decals just added the final touches. 
+![](kb_5.jpg)
 
-![](touch2.jpg)
-Putting on the final decals.
+![](kb_6.jpg)
+What stabilizer lube looks like after 12 years, ick. 
 
-# Speed Run
+![](kb_7.jpg)
 
-![](speed.jpg)
-So how fast does it go? 45MPH was the fastest run yet!
-![](speed3.jpg)
-![](speed2.jpg)
+![](kb_8.jpg)
 
-# Completed Build
+# Flatness Modifications
+Ok so I wanted this board to be as flat as possible, so I cut off the metal support risers/tabs from the plate, this allowed me to drop things down another few millimeters, while also not having the plate scraping on my desk. 
 
-![](f9.jpg)
-Finally completed!
+![](kb_9.jpg)
+Dremel time. 
 
-![](f10.jpg)
+![](kb_10.jpg)
+I don't want the pins resting on my desk so these cheap adhesive rubber feet will do, at least temporarily. 
 
-![](f11.jpg)
+![](kb_11.jpg)
+It's pretty flat! 
 
-![](f12.jpg)
+# Reassembly
 
-![](f13.jpg)
+![](kb_112.jpg)
+Fresh JTK doubleshot ABS set, it's cherry profile, so that's adding to the flatness cause. 
 
-![](f14.jpg)
+![](kb_12.jpg)
+Because I'm not running a case anymore (or at the moment) these indicator LEDs would be blinding me, I just hotglued an extra keycap over them for diffusion, works amazingly well!
 
-![](f1.jpg)
+# Time To Test It Out
 
-![](f2.jpg)
+![](kb_13.jpg)
+Still looks pretty cool with the blue LED backlights on! 
 
-![](f3.jpg)
-
-![](f4.jpg)
-
-![](f5.jpg)
-
-![](f6.jpg)
-
-![](f7.jpg)
-
-![](f8.jpg)
-
-![](f16.jpg)
-It was a long time coming, but the build is finally completed! I had a lot of fun and learned a ton of things along the way. I can't wait to make more unique ebikes for you all to see, thanks so much for watching and reading. 
-
+![](kb_14.jpg)
+Feels pretty good! I think these switches may be a bit worn out by now, they honestly sound like "silent blues" as one viewer commented "switches so dirty they went from blue to brown" and that about sums it up. I do think the flatter board does feel better for me, but I really do need to upgrade these switches, I will probably do that in a future video. 
