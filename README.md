@@ -1,3 +1,14 @@
+# 027 \\\ Wired Keyboard Detachable Cable Mod \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 027 Wired Keyboard Detachable Cable Mod](https://hightech-lowlife.github.io/projects/027_keyboard_detachable_cable/027_keyboard_detachable_cable)
+
+Upgrade ANY USB Keyboard - DIY How-To Tutorial - This simple and easy mod will allow you to remove your USB cable. Perfect if your cable is already broken or not working, having a detachable cable allows you to use other cables, longer cables, more premium cables, makes your keyboard more portable and if you ever break your cable again it is easily replaceable.
+
+[![img](https://hightech-lowlife.github.io/projects/027_keyboard_detachable_cable/case_mod.jpg)](https://hightech-lowlife.github.io/projects/027_keyboard_detachable_cable/027_keyboard_detachable_cable)
+
+\\\\\\\\\\
+
 # 026 \\\ 12+ Year Old Keyboard Restoration + Mods \\\
 ----------------------------------------------------------------------
 
