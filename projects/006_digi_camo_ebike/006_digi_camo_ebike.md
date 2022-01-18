@@ -1,6 +1,6 @@
 # \\\ Ebike [3.0] - The Build - Part 1 \\\
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/tbnb8zvLVA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="1024" height="576" src="https://www.youtube.com/embed/tbnb8zvLVA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 In this episode we tackle a good portion of the main frame assembly and fitting of the electrical components. 
 
