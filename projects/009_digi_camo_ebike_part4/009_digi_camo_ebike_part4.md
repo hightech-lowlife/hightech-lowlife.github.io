@@ -1,6 +1,6 @@
 # \\\ Ebike [3.0] - The Build - Part 4 - \\\
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/CDnshKJIRDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="1024" height="576" src="https://www.youtube.com/embed/CDnshKJIRDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 In this episode we finally land on a headlight solution, and also figure out what was going on with the throttle! We also fully complete the edge-lit acrylic dashboard and it came out awesome! 
 
