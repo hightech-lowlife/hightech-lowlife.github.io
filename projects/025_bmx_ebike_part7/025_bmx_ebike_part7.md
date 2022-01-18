@@ -1,6 +1,6 @@
 # \\\ 3000W BMX E-BIKE [4.0] TL;DW Version \\\
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/kE6XhwLSt9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="1024" height="576" src="https://www.youtube.com/embed/kE6XhwLSt9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 This is the TL;DW (too long; didn't watch) version of my 3000W BMX ebike build - for those who didn't have the time to watch the 6-part series I have condensed it all down in 'rapid-fire' pace in 6 minutes!
 
