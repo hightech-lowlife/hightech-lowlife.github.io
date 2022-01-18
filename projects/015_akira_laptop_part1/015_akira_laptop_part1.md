@@ -1,4 +1,4 @@
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/775l_xc7-ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="1024" height="576" src="https://www.youtube.com/embed/775l_xc7-ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 # \\\ AKIRA (Kaneda's Bike) Thinkpad Lenovo X230 Laptop - Part 1 \\\
 
