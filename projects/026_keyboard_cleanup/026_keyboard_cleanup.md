@@ -1,6 +1,6 @@
 # \\\ Mechanical Keyboard Cleanup + Modification \\\
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/6YhoZVnxJek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="1024" height="576" src="https://www.youtube.com/embed/6YhoZVnxJek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 My mouse died and I realized that my keyboard was disgusting so I cleaned it all up and did some modding and experimentation to try and get an even better typing experience. 
 
