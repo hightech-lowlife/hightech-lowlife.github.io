@@ -1,6 +1,6 @@
 # \\\ Wired Keyboard Detachable Cable Mod \\\
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/zvSa1-nTKV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="1024" height="576" src="https://www.youtube.com/embed/zvSa1-nTKV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Upgrade ANY USB Keyboard - DIY How-To Tutorial - This simple and easy mod will allow you to remove your USB cable. Perfect if your cable is already broken or not working, having a detachable cable allows you to use other cables, longer cables, more premium cables, makes your keyboard more portable and if you ever break your cable again it is easily replaceable. 
 
