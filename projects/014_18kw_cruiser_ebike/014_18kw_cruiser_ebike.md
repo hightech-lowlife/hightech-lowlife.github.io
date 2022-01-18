@@ -1,6 +1,6 @@
 # \\\ Ebike [1.0] - 18KW Urban "Super Cruiser" E-Bike \\\
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/LQ9pEd45NAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="1024" height="576" src="https://www.youtube.com/embed/LQ9pEd45NAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Taking it back to the beginning! This is the first ebike I had ever made and it's a bit over the top. This all started because a few friends at work said they wanted to make their own ebikes and prior to that I wasn't particularly interested in bikes or ebikes for that matter. I used to love riding bikes as a kid but had for the most part grown out of that. I of course had to out-do my coworkers so I decided to build a pretty crazy ebike for my first one. 
 
