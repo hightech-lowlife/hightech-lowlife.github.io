@@ -13,12 +13,13 @@ With 1000W your top speed will be about 27MPH, 1500W will get you 34MPH and from
 ## \\\ Parts You'll Need \\\
 ![](parts.jpg)
 
-1. The Bicycle Frame - you can pretty much choose any frame you want, just be sure to check your dropout spacing as well as axle width - typical sizes are 135mm spacing, and 15mm diameter axles. Most kits will accommodate that, but it's always best to check. 
+### The Bicycle Frame 
+You can pretty much choose any frame you want, just be sure to check your dropout spacing as well as axle width - typical sizes are 135mm spacing, and 15mm diameter axles. Most kits will accommodate that, but it's always best to check. 
 
-2. Hub Motor Kit
+### Hub Motor Kit
 I can't find this exact kit on eBay anymore, but most generic 1000 or 1500W kit will do, I would recommend the 1500W because it's usually only about 20$ more for it, but if you don't care about going faster than 27MPH, then you don't need it. 
 
-2. Battery
+### Battery
 Most kits are 48V or 52V, I would recommend anything from 10 to 20Ah in capacity. 20Ah should get you about 40-50 miles of range depending. Make sure you measure your frame and depending on what battery you get make sure it will physically fit. If your frame does not accept a triangle battery, you might want to check out rack mounted batteries. I like the triangle batteries because they are super easy to install with the velcro packs they come with, you just strap it down and it's very sturdy. 
 
 ![](parts2.jpg)
