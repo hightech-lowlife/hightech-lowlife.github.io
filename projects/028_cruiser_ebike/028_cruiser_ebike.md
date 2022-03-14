@@ -10,7 +10,7 @@ I've built many ebikes by now over the years (I think 15 or 16 so far), and I ha
 
 With 1000W your top speed will be about 27MPH, 1500W will get you 34MPH and from there you need to bump up to 72V and 3000+ which is double the cost. To me it makes way more sense considering that 30+ MPH on any bicycle is probably too fast for most people to feel comfortable. I love big power as much as the next person but from ease of assembly, portability, and fun factor to me, these smaller builds are the best for everyone and anyone. 
 
-\\\ Parts You'll Need \\\
+## \\\ Parts You'll Need \\\
 ![](parts.jpg)
 
 1. The Bicycle Frame - you can pretty much choose any frame you want, just be sure to check your dropout spacing as well as axle width - typical sizes are 135mm spacing, and 15mm diameter axles. Most kits will accommodate that, but it's always best to check. 
@@ -23,81 +23,81 @@ Most kits are 48V or 52V, I would recommend anything from 10 to 20Ah in capacity
 
 ![](parts2.jpg)
 
-\\ Let's go - step by step!
+## Let's go - step by step!
 
-1. Let's first remove the rear wheel and tire, we'll need to do that so we can put the old tire on the new hub motor wheel. 
+Let's first remove the rear wheel and tire, we'll need to do that so we can put the old tire on the new hub motor wheel. 
 
 ![](tire1.jpg)
 
-2. Sometimes letting air out of the rear tire will help remove it if you have caliper brakes. 
+Sometimes letting air out of the rear tire will help remove it if you have caliper brakes. 
 
 ![](tire2.jpg) 
 
-3. Line up the tire valve on the new wheel and put the old tire on the new hub motor wheel. 
+Line up the tire valve on the new wheel and put the old tire on the new hub motor wheel. 
 
 ![](tire3.jpg)
 
-4. Reinstall the new wheel on the bike frame, be mindful of the washers. 
+Reinstall the new wheel on the bike frame, be mindful of the washers. 
 
 ![](tire4.jpg)
 
-5. If the washers are not installed correctly the hub may rub on the frame causing binding.
+If the washers are not installed correctly the hub may rub on the frame causing binding.
 
 ![](washers.jpg)
 
-6. Tighten up the axle nuts, again make sure nothing is binding. If you can tighten down the axle and things are spinning freely then you did it right! 
+Tighten up the axle nuts, again make sure nothing is binding. If you can tighten down the axle and things are spinning freely then you did it right! 
 
 ![](tighten.jpg)
 
-7. Check how the frame rolls now, pedalling and not.
+Check how the frame rolls now, pedalling and not.
 
 ![](frame.jpg)
 
-8. Zip-tie the motor wires to the frame, out of the way of the tire and wheel. 
+Zip-tie the motor wires to the frame, out of the way of the tire and wheel. 
 
 ![](wiring1.jpg)
 
-9. Install the throttle. If too many things are on your handlebars, try moving them to the other side. 
+Install the throttle. If too many things are on your handlebars, try moving them to the other side. 
 
 ![](throttle.jpg)
 
-10. I modded my battery to add charge leads, this is optional. 
+I modded my battery to add charge leads, this is optional. 
 
 ![](batterymod.jpg)
 
-11. Depending on your kit and charger, you may need to conver the connectors on your controller to match your battery. 
+Depending on your kit and charger, you may need to conver the connectors on your controller to match your battery. 
 
 ![](controller.jpg)
 
-12. Put the battery in the included battery bag. 
+Put the battery in the included battery bag. 
 
 ![](bag.jpg)
 
-13. Fasten the bag to the frame using the velcro straps. 
+Fasten the bag to the frame using the velcro straps. 
 
 ![](bag2.jpg)
 
-14. Hook up the motor phase wires to the controller via the connection block.
+Hook up the motor phase wires to the controller via the connection block.
 
 ![](phase.jpg)
 
-15. Wire up the controller interface and zip-tie the wires neatly. Now power it on! 
+Wire up the controller interface and zip-tie the wires neatly. Now power it on! 
 
 ![](power.jpg)
 
-16. Pick the back wheel up and apply some throttle, you should see the back tire spinning up!
+Pick the back wheel up and apply some throttle, you should see the back tire spinning up!
 
 ![](power2.jpg)
 
-17. Pack up the controller in the bag and affix it to the frame with the velcro straps.
+Pack up the controller in the bag and affix it to the frame with the velcro straps.
 
 ![](conbag.jpg)
 
-18. Do some final wiring clean up with some more zip-ties. 
+Do some final wiring clean up with some more zip-ties. 
 
 ![](wireclean.jpg)
 
-19. Check out your creation! You did it! 
+Check out your creation! You did it! 
 
 ![](throttle.jpg)
 
