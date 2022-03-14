@@ -56,7 +56,7 @@ Install the throttle. If too many things are on your handlebars, try moving them
 I modded my battery to add charge leads, this is optional. 
 
 ![](controller.jpg)
-Depending on your kit and charger, you may need to conver the connectors on your controller to match your battery. 
+Depending on your kit and charger, you may need to convert the connectors on your controller to match your battery. 
 
 ![](bag.jpg)
 Put the battery in the included battery bag. 
