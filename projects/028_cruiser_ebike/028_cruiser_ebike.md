@@ -44,7 +44,7 @@ Let's go - step by step!
 ![](tighten.jpg)
 
 7. Check how the frame rolls now, pedalling and not.
-8. ![](frame.jpg)
+![](frame.jpg)
 
 8. Zip-tie the motor wires to the frame, out of the way of the tire and wheel. 
 ![](wiring1.jpg)
