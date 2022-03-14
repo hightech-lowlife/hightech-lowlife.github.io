@@ -11,3 +11,5 @@ It took me forever to make this, but most of that time was just me fighting with
 Another huge issue I ran into was similar to this, but has to do with when you're 'transforming' an object it basically applies that transform to every cell, regardless if this is what you want or not and you can't tell it not to! If you want to move objects around, change opacity, etc - that's fine no issues there from frame to frame, but if you want to scale or rotate? Forget about it! Photoshop will essentially force you to create new layers for EVERY single rotation you want to make, not only that but because of default propagation, you then have to go back and fix every other frame you're not working on - so annoying. 
 
 I don't know if adding this animation to my videos will help with engagement, but I think it's a worthy experiment to try out.
+
+![](still.jpg) 
