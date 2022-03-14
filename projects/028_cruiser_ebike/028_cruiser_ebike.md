@@ -10,7 +10,7 @@ I've built many ebikes by now over the years (I think 15 or 16 so far), and I ha
 
 With 1000W your top speed will be about 27MPH, 1500W will get you 34MPH and from there you need to bump up to 72V and 3000+ which is double the cost. To me it makes way more sense considering that 30+ MPH on any bicycle is probably too fast for most people to feel comfortable. I love big power as much as the next person but from ease of assembly, portability, and fun factor to me, these smaller builds are the best for everyone and anyone. 
 
-\\\ Parts You'll Need \\\
+\\\ Parts You'll Need \\\\
 ![](parts.jpg)
 
 1. The Bicycle Frame - you can pretty much choose any frame you want, just be sure to check your dropout spacing as well as axle width - typical sizes are 135mm spacing, and 15mm diameter axles. Most kits will accommodate that, but it's always best to check. 
