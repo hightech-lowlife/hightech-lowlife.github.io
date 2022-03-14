@@ -25,62 +25,62 @@ Most kits are 48V or 52V, I would recommend anything from 10 to 20Ah in capacity
 
 ## Let's go - step by step!
 
-Let's first remove the rear wheel and tire, we'll need to do that so we can put the old tire on the new hub motor wheel. 
 ![](tire1.jpg)
+Let's first remove the rear wheel and tire, we'll need to do that so we can put the old tire on the new hub motor wheel. 
 
+![](tire2.jpg)
 Sometimes letting air out of the rear tire will help remove it if you have caliper brakes. 
-![](tire2.jpg) 
-
-Line up the tire valve on the new wheel and put the old tire on the new hub motor wheel. 
+ 
 ![](tire3.jpg)
+Line up the tire valve on the new wheel and put the old tire on the new hub motor wheel. 
 
-Reinstall the new wheel on the bike frame, be mindful of the washers. 
 ![](tire4.jpg)
+Reinstall the new wheel on the bike frame, be mindful of the washers. 
 
-If the washers are not installed correctly the hub may rub on the frame causing binding.
 ![](washers.jpg)
+If the washers are not installed correctly the hub may rub on the frame causing binding.
 
-Tighten up the axle nuts, again make sure nothing is binding. If you can tighten down the axle and things are spinning freely then you did it right! 
 ![](tighten.jpg)
+Tighten up the axle nuts, again make sure nothing is binding. If you can tighten down the axle and things are spinning freely then you did it right! 
 
-Check how the frame rolls now, pedalling and not.
 ![](frame.jpg)
+Check how the frame rolls now, pedalling and not.
 
-Zip-tie the motor wires to the frame, out of the way of the tire and wheel. 
 ![](wiring1.jpg)
+Zip-tie the motor wires to the frame, out of the way of the tire and wheel. 
 
-Install the throttle. If too many things are on your handlebars, try moving them to the other side. 
 ![](throttle.jpg)
+Install the throttle. If too many things are on your handlebars, try moving them to the other side. 
 
-I modded my battery to add charge leads, this is optional. 
 ![](batterymod.jpg)
+I modded my battery to add charge leads, this is optional. 
 
-Depending on your kit and charger, you may need to conver the connectors on your controller to match your battery. 
 ![](controller.jpg)
+Depending on your kit and charger, you may need to conver the connectors on your controller to match your battery. 
 
-Put the battery in the included battery bag. 
 ![](bag.jpg)
+Put the battery in the included battery bag. 
 
-Fasten the bag to the frame using the velcro straps. 
 ![](bag2.jpg)
+Fasten the bag to the frame using the velcro straps. 
 
-Hook up the motor phase wires to the controller via the connection block.
 ![](phase.jpg)
+Hook up the motor phase wires to the controller via the connection block.
 
-Wire up the controller interface and zip-tie the wires neatly. Now power it on! 
 ![](power.jpg)
+Wire up the controller interface and zip-tie the wires neatly. Now power it on! 
 
-Pick the back wheel up and apply some throttle, you should see the back tire spinning up!
 ![](power2.jpg)
+Pick the back wheel up and apply some throttle, you should see the back tire spinning up!
 
-Pack up the controller in the bag and affix it to the frame with the velcro straps.
 ![](conbag.jpg)
+Pack up the controller in the bag and affix it to the frame with the velcro straps.
 
-Do some final wiring clean up with some more zip-ties. 
 ![](wireclean.jpg)
+Do some final wiring clean up with some more zip-ties. 
 
-Check out your creation! You did it! 
 ![](final1.jpg)
 ![](final2.jpg)
 ![](final3.jpg)
 ![](final4.jpg)
+Check out your creation! You did it! 
