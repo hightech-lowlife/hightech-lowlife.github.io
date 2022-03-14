@@ -1,3 +1,14 @@
+# 028 \\\ 1000W Cruiser E-Bike Build Guide \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 028 1000W Cruiser E-Bike Build Guide](https://hightech-lowlife.github.io/projects/028_cruiser_ebike/028_cruiser_ebike)
+
+Build a fast and cheap ebike in 2022! Anyone can follow this step by step how-to guide on how to make a hub motor ebike. This information should be applicable towards any hub motor ebike and help you choose and assemble your ebike conversion kit. 
+
+[![img](https://hightech-lowlife.github.io/projects/028_cruiser_ebike/final4.jpg)](https://hightech-lowlife.github.io/projects/028_cruiser_ebike/028_cruiser_ebike)
+
+\\\\\\\\\\
+
 # 027 \\\ Wired Keyboard Detachable Cable Mod \\\
 ----------------------------------------------------------------------
 
