@@ -1,7 +1,7 @@
 # 029 \\\ “Call to Action” 8-Bit Animation \\\
 ----------------------------------------------------------------------
 
-[Check out the video and full write-up here \\\ 029 8-Bit Animation](https://hightech-lowlife.github.io/projects/029_pixel_animation/029_pixel_animation)
+[Check out the video and full write-up here \\\ 029 "Call to Action" 8-Bit Animation](https://hightech-lowlife.github.io/projects/029_pixel_animation/029_pixel_animation)
 
 I recently hit 1000 subscribers with all of your help, thank you so much for that! I did this in 6 months (which seems crazy) but it made me wonder, could this have happened even sooner?
 
