@@ -4,9 +4,9 @@
 
 Ever since I saw CHAPPiE I knew if they *ever* made a model/figure/statue of the MOOSE mech, I would buy it. It was 6 months later I saw the prototype for a production run for this model (saw it on Tested here on YouTube) and then 3 years later it was avaiable for sale and so I bought it, even though it was by far the most expensive model or figure I had ever purchased but I really wanted it. 
 
-![](unbox1.jpg) 
-
 ## Unbox
+
+![](unbox1.jpg) 
 
 Neill Blomkamp's movies are by far my favorite 'cyberpunk' aesthetic/genre. I love all things cyberpunk, from the rainy neon streets on Blade Runner, to the off-world colonies of Total Recall, and the slick, sleek modernity of the Matrix. Although by far my favorite style is this gritty, militiristic, camo industrial raw aesthetic, and his style ticks all the boxes for me in terms of what I love about cyberpunk. And THE MOOSE is a perfect encapsulation of that style. 
 
