@@ -1,6 +1,6 @@
 # \\\ THE MOOSE - CHAPPiE - Model Resin Kit - Part 1 \\\
 
-<div class="video-container"><iframe width="1024" height="576" src="https://www.youtube.com/embed/sn8nxg0vLkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="1024" height="576" src="https://www.youtube.com/embed/Gl1wgNPI6hc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Ever since I saw CHAPPiE I knew if they *ever* made a model/figure/statue of the MOOSE mech, I would buy it. It was 6 months later I saw the prototype for a production run for this model (saw it on Tested here on YouTube) and then 3 years later it was avaiable for sale and so I bought it, even though it was by far the most expensive model or figure I had ever purchased but I really wanted it. 
 
