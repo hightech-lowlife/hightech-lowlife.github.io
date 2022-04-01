@@ -69,5 +69,4 @@ After about a week of working on these parts for about 2 hours every night, I fi
 ![](prep8.jpg)
 
 ![](prep9.jpg)
-
 Now that I'm done with this, check out future episodes in this series! 
