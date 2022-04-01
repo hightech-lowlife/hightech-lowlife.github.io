@@ -2,14 +2,28 @@
 
 <div class="video-container"><iframe width="1024" height="576" src="https://www.youtube.com/embed/sn8nxg0vLkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-I recently hit 1000 subscribers with all of your help, thank you so much for that! I did this in 6 months (which seems crazy) but it made me wonder, could this have happened even sooner? 
+I actually did it, I immediately broke my very expensive model! 
 
-I personally don't like it when creators will ask you 1000 times in a video to like, comment and subscribe to their channel. If I like the video, I'll hit like, if I want to see more videos, I'll subscribe. I realized that I'm probably not the most typical consumer of Youtube videos, and the data does back up that if you want people to do those things, you have to ask, or at least remind them. I have seen those small 'call to action' animations and I figured they were actually a good middle ground between directly asking for things, and then also not asking at all. I didn't feel comfortable constantly asking for people to like, comment or subscribe, but I felt like this would at least be a way to offer a reminder for the people that did. This is also an experiment to see if it actually works in helping grow the channel. 
+Ever since I saw CHAPPiE I knew if they *ever* made a model/figure/statue of the MOOSE mech, I would buy it. It was 6 months later I saw the prototype for a production run for this model (saw it on Tested here on YouTube) and then 3 years later it was avaiable for sale and so I bought it, even though it was by far the most expensive model or figure I had ever purchased but I really wanted it. 
 
-It took me forever to make this, but most of that time was just me fighting with Photoshop. It wasn't until I was 2 hours into making this animation that I realized that Photoshop probably wasn't the best program for what I was trying to do. I think I should have just started in premiere to animate, to me the timelines are groupings of animations could have been a lot easier, as well as tools for opacity, etc. The issues I had with using Photoshop was that it has this feature for propagating changes throughout all of the cells in your animation. This can actually be a handy feature but, the fact that it is 'default' to me was counter intuitive. It should have been if you want that feature to set it yourself instead of disabling it (and also fixing all of the problems it corrects) after the fact.  
+Neill Blomkamp's movies are by far my favorite 'cyberpunk' aesthetic/genre. I love all things cyberpunk, from the rainy neon streets on Blade Runner, to the off-world colonies of Total Recall, and the slick, sleek modernity of the Matrix. Although by far my favorite style is this gritty, militiristic, camo industrial raw aesthetic, and his style ticks all the boxes for me in terms of what I love about cyberpunk. And THE MOOSE is a perfect encapsulation of that style. 
 
-Another huge issue I ran into was similar to this, but has to do with when you're 'transforming' an object it basically applies that transform to every cell, regardless if this is what you want or not and you can't tell it not to! If you want to move objects around, change opacity, etc - that's fine no issues there from frame to frame, but if you want to scale or rotate? Forget about it! Photoshop will essentially force you to create new layers for EVERY single rotation you want to make, not only that but because of default propagation, you then have to go back and fix every other frame you're not working on - so annoying. 
+Of course it draws heavy from the original 'big scary robot' ED-209 from Robocop. To me he takes it to this higher level though, everything I loved about ED-209 but just more!
 
-I don't know if adding this animation to my videos will help with engagement, but I think it's a worthy experiment to try out.
+
+
+
+This model kit is so intense that I really am not the person to build it. I believe this kit deserves an expert to not only prep and build but also paint it. I strongly considered hiring someone to do that for me because I knew that I couldn't do this kit justice, but in the spirit of DIY and this channel, I am taking on the challenge. I know I won't make it perfect, but I'll at least be able to put my own spin on it and hopefully it comes out semi-decent. 
+
+In this first episode we'll go over 'why' I wanted this kit so badly and why it took me so long to even attempt to build it. I go over the unboxing, then sorting the parts until finally taking the time to do the tedious work of prepping all of the parts by removing all of the flashing and extra molding from the raw parts. Even though the parts are very high quality, just about every single one needed at least some finishing work. It took me about a week to get this far and I'm documenting my way as I go. 
+
+This kit was quite overwhelming but after I spent more time working on the parts my excitement grew to outpace my apprehension with not wanting to make a mistake or ruin this project. I can't wait to see it finished and I'm hoping that the paint doesn't cut me down as that is the part I am fearing the most.  
+
+Now that I have all of the parts prepped and ready for a dry-run of assembly I can start gathering and deciding how and what I want to paint. 
+
+Unbox
+PARTS!
+Preparation
+Prep Finished
 
 ![](still.jpg) 
