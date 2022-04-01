@@ -1,0 +1,15 @@
+# \\\ THE MOOSE - CHAPPiE - Model Resin Kit - Part 1 \\\
+
+<div class="video-container"><iframe width="1024" height="576" src="https://www.youtube.com/embed/sn8nxg0vLkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+I recently hit 1000 subscribers with all of your help, thank you so much for that! I did this in 6 months (which seems crazy) but it made me wonder, could this have happened even sooner? 
+
+I personally don't like it when creators will ask you 1000 times in a video to like, comment and subscribe to their channel. If I like the video, I'll hit like, if I want to see more videos, I'll subscribe. I realized that I'm probably not the most typical consumer of Youtube videos, and the data does back up that if you want people to do those things, you have to ask, or at least remind them. I have seen those small 'call to action' animations and I figured they were actually a good middle ground between directly asking for things, and then also not asking at all. I didn't feel comfortable constantly asking for people to like, comment or subscribe, but I felt like this would at least be a way to offer a reminder for the people that did. This is also an experiment to see if it actually works in helping grow the channel. 
+
+It took me forever to make this, but most of that time was just me fighting with Photoshop. It wasn't until I was 2 hours into making this animation that I realized that Photoshop probably wasn't the best program for what I was trying to do. I think I should have just started in premiere to animate, to me the timelines are groupings of animations could have been a lot easier, as well as tools for opacity, etc. The issues I had with using Photoshop was that it has this feature for propagating changes throughout all of the cells in your animation. This can actually be a handy feature but, the fact that it is 'default' to me was counter intuitive. It should have been if you want that feature to set it yourself instead of disabling it (and also fixing all of the problems it corrects) after the fact.  
+
+Another huge issue I ran into was similar to this, but has to do with when you're 'transforming' an object it basically applies that transform to every cell, regardless if this is what you want or not and you can't tell it not to! If you want to move objects around, change opacity, etc - that's fine no issues there from frame to frame, but if you want to scale or rotate? Forget about it! Photoshop will essentially force you to create new layers for EVERY single rotation you want to make, not only that but because of default propagation, you then have to go back and fix every other frame you're not working on - so annoying. 
+
+I don't know if adding this animation to my videos will help with engagement, but I think it's a worthy experiment to try out.
+
+![](still.jpg) 
