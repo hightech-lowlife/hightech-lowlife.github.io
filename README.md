@@ -3,7 +3,7 @@
 
 [Check out the video and full write-up here \\\ 030 THE MOOSE CHAPPiE - Model Resin Kit - Part 1](https://hightech-lowlife.github.io/projects/030_moose_part1/030_moose_part1)
 
-Ever since I saw CHAPPiE I knew if they ever made a model/figure/statue of the MOOSE mech, I would buy it. It was 6 months later I saw the prototype for a production run for this model (saw it on Tested here on YouTube) and then 3 years later it was avaiable for sale and so I bought it, even though it was by far the most expensive model or figure I had ever purchased but I really wanted it.
+Ever since I saw CHAPPiE I knew if they ever made a model/figure/statue of the MOOSE mech, I would buy it. It was 6 months later I saw the prototype for a production run for this model and then 3 years later it was avaiable for sale and so I bought it, even though it was by far the most expensive model or figure I had ever purchased but I really wanted it.
 
 [![img](https://hightech-lowlife.github.io/projects/030_moose_part1/unbox2.jpg)](https://hightech-lowlife.github.io/projects/030_moose_part1/030_moose_part1)
 
