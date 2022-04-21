@@ -27,6 +27,7 @@ This is a uber-cheap 'eBay' 'stealth bomber' knock-off frame from China. I thoug
 ![](ebike_2.0_2.jpg) 
 
 ![](ebike_2.0_3.jpg) 
+
 DNM USD-8 front fork set, not the cheeapest but also not the most expensive. 
 
 ![](ebike_2.0_4.jpg) 
