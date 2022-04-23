@@ -14,7 +14,7 @@ The next upgrade or difference I wanted to make was going from a mid-drive to a 
 This is a uber-cheap 'eBay' 'stealth bomber' knock-off frame from China. I thought all of these frames were basically the same but after building my 3rd ebike they are quite different. This frame is very heavy, made fully out of steel so compared to the other EEB frames out there, it's a lot bigger, wider, and heavier. I was ok with this because I knew I was going to be putting a lot of weight and power on the bike and I wanted a heavier and stronger frame to hold up to the additional forces. 
 
 ![](ebike_2.0_2.jpg)
-More in-depth video tutorial on how I do this hex camo paintjob: ![Custom Hex Camo Laptop](https://youtu.be/xF2ldzoYqH8)
+More in-depth video tutorial on how I do this hex camo paintjob: [Custom Hex Camo Laptop](https://youtu.be/xF2ldzoYqH8)
 
 ![](ebike_2.0_3.jpg) 
 
