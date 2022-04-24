@@ -1,3 +1,14 @@
+# 031 \\\ Ebike [2.0] - Enduro Hex-Camo 8000W E-Bike \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 031 Ebike [2.0] - Enduro Hex-Camo 8000W E-Bike](https://hightech-lowlife.github.io/projects/031_8kw_enduro_ebike/031_8kw_enduro_ebike)
+
+Taking it back (again) to (nearly) the beginning! This is the second ebike I had ever made and it’s a bit over the top (again). I learned a lot from my first ebike project and I wanted to make some changes on my second build.
+
+[![img](https://hightech-lowlife.github.io/projects/031_8kw_enduro_ebike/hex_main.jpg)](https://hightech-lowlife.github.io/projects/031_8kw_enduro_ebike/031_8kw_enduro_ebike)
+
+\\\\\\\\\\
+
 # 030 \\\ THE MOOSE - CHAPPiE - Model Resin Kit - Part 1 \\\
 ----------------------------------------------------------------------
 
