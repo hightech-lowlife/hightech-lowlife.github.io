@@ -1,3 +1,14 @@
+# 032 \\\ Dual Battery Pok3r Wireless Conversion \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 032 Dual Battery Pok3r Wireless Conversion](https://hightech-lowlife.github.io/projects/032_dual_battery_mini_wireless/032_dual_battery_mini_wireless)
+
+Part 1 of a mini wireless keyboard build with TWO batteries! What's better than one battery in your wireless board? Obviously two!
+
+[![img](https://hightech-lowlife.github.io/projects/032_dual_battery_mini_wireless/13.jpg)](https://hightech-lowlife.github.io/projects/032_dual_battery_mini_wireless/032_dual_battery_mini_wireless)
+
+\\\\\\\\\\
+
 # 031 \\\ Ebike [2.0] - Enduro Hex-Camo 8000W E-Bike \\\
 ----------------------------------------------------------------------
 
