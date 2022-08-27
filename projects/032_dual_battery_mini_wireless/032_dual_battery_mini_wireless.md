@@ -10,9 +10,9 @@ I was able to pack in about 3000mAh of battery life, and even though this was us
 
 I wasn't quite sure how to do that and I've read online that wiring two power banks in parallel is a no-no. I wanted to err on the side of caution so I figured what if I just have a toggle to where I can switch between the two batteries independently? I figured this would only be annoying for that second or two that you're flipping the toggle over to the next battery and waiting for it to reconnect. I figure this is a small price to pay for literally double the wireless run time!  
 
-This isn't really a how-to or how to do guide or anything, but if you're looking for that please check out my first wireless conversion video, as I go over a lot of the components, what they do, and how I've wired them together in that video here: https://youtu.be/o-wbPVkkyWg
+This isn't really a how-to or how to do guide or anything, but if you're looking for that please check out my first wireless conversion video, as I go over a lot of the components, what they do, and how I've wired them together in that video here: [Wireless Keyboard Conversion](https://hightech-lowlife.github.io/projects/004_wireless_keyboard/004_wireless_keyboard)
 
-I also did a wireless conversion on another 60% mechanical keyboard, and you can check that out here: https://youtu.be/2Df7Dh3-3o0
+I also did a wireless conversion on another 60% mechanical keyboard, and you can check that out here: [60% Wireless Keyboard](https://hightech-lowlife.github.io/projects/012_mini_wireless_part1/012_mini_wireless_part1)
 
 If you watch those videos first you will be fully up to speed on more of the electronic side of things that I am doing in this video 👍
 
