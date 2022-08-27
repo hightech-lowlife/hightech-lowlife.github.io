@@ -5,7 +5,7 @@
 
 Part 1 of a mini wireless keyboard build with TWO batteries! What's better than one battery in your wireless board? Obviously two!
 
-[![img](https://hightech-lowlife.github.io/projects/032_dual_battery_mini_wireless/13.jpg)](https://hightech-lowlife.github.io/projects/032_dual_battery_mini_wireless/032_dual_battery_mini_wireless)
+[![img](https://hightech-lowlife.github.io/projects/032_dual_battery_mini_wireless/p1.jpg)](https://hightech-lowlife.github.io/projects/032_dual_battery_mini_wireless/032_dual_battery_mini_wireless)
 
 \\\\\\\\\\
 
