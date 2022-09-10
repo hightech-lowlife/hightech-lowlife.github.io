@@ -8,69 +8,59 @@ First I had to do some 'partial' assembly, this is because of the paint scheme I
 
 After getting it partially assembled I wanted to see how it would look and it looks incredible! This model kit is so awesome and it's really quite large, I was really happy with the scale of it and how menacing it was looking and that's with barely any assembly and zero paint. I was really excited to get some paint on it so I may have gotten ahead of myself a bit. 
 
-## Unbox
+## Partial Assembly
 
 ![](01.jpg) 
-
-Neill Blomkamp's movies are by far my favorite 'cyberpunk' aesthetic/genre. I love all things cyberpunk, from the rainy neon streets on Blade Runner, to the off-world colonies of Total Recall, and the slick, sleek modernity of the Matrix. Although by far my favorite style is this gritty, militiristic, camo industrial raw aesthetic, and his style ticks all the boxes for me in terms of what I love about cyberpunk. And THE MOOSE is a perfect encapsulation of that style. 
-
-Of course it draws heavy from the original 'big scary robot' ED-209 from Robocop. To me he takes it to this higher level though, everything I loved about ED-209 but just more!
+I had to do some inital assembly beacuse if you're going to paint things you want some of the seams to be "seamless" but you can't just pet everything together because then you will have overhangs. The whole painting scheme is actually quite complicated when you have to start figuring out what parts you can and cannot put together first. 
 
 ![](02.jpg) 
 
-This model kit is so intense that I really am not the person to build it. I believe this kit deserves an expert to not only prep and build but also paint it. I strongly considered hiring someone to do that for me because I knew that I couldn't do this kit justice, but in the spirit of DIY and this channel, I am taking on the challenge. I know I won't make it perfect, but I'll at least be able to put my own spin on it and hopefully it comes out semi-decent. 
-
-In this first episode we'll go over 'why' I wanted this kit so badly and why it took me so long to even attempt to build it. I go over the unboxing, then sorting the parts until finally taking the time to do the tedious work of prepping all of the parts by removing all of the flashing and extra molding from the raw parts. Even though the parts are very high quality, just about every single one needed at least some finishing work. It took me about a week to get this far and I'm documenting my way as I go. 
-
 ![](03.jpg) 
-
-This kit was quite overwhelming but after I spent more time working on the parts my excitement grew to outpace my apprehension with not wanting to make a mistake or ruin this project. I can't wait to see it finished and I'm hoping that the paint doesn't cut me down as that is the part I am fearing the most.  
-
-Now that I have all of the parts prepped and ready for a dry-run of assembly I can start gathering and deciding how and what I want to paint. 
-
-## PARTS!
+There were a lot of pieces on this kit that needed some "help" to get going. One example is just an offset mold where the holes were supposed to line up for this square aluminum tubing, but they didn't. This kit looks perfect at first glance, but the more time you spend with it, the more you start to realize it's not as flawless as it initialls appears. It's still incredible though despite all of the little things you need to fix. 
 
 ![](04.jpg) 
-The instructions are very limited, it's enough to help you out but if you're looking for a gundam-style instruction set, you're going to be lost with what you're given! Again, this kit is not for new model makers. 
+I swear the hull assembled looks very much like a star wars Y-wing ship, I'm sure this was at least a partial inspiration. 
 
 ![](05.jpg) 
-This kit has a ton of parts! Most of the parts are actually very small and just 'details' and this kit has a ton of details, it's basically like 5 major, 'large' pieces and the bulk of the rest is all small greebles. 
+Once you stick the legs on the base you start to get a feel for the scale and size of this model, it's really big! 
 
 ![](06.jpg)
-The legs are very impressive, they have been molded over a steel armature as the legs actually support the entire model so they have to be strong. The amount of details that are molded into these parts is truly incredible. 
 
 ![](07.jpg)
-The base is equally impressive, it must weight like 5-10lbs! The detail is amazing and the weight is just absurd. 
 
 ![](08.jpg)
-It's a lot of parts! 
+Adding some of the details on the hull that I want painted with it. 
+
+## Pre-emptive Painting
 
 ![](09.jpg)
-Just some impressive details in the molds! 
-
-## Preparation
+I couldn't help myself and I started painting the gold and this happened, I was so incredibly disappointed. 
 
 ![](10.jpg)
-A ton of work must be invested into prepping the parts for fit and also paint. 
+It's like some parts of the paint would not stick at all, no matter how much I saturated or coated them, it was the oddest thing. I thought it had to be contamination. 
 
 ![](11.jpg)
-One of my first parts I was prepping I actually broke it while trying to break off the flashing tab. Needless to say I was much more careful after this, some parts you can just break off the tabs, some you cannot. 
+Why gold on a "military" style mech? I grew up watching Short Circuit and there is a scene in the end where they rebuild him, but GOLD. It was so cool, I couldn't shake that image from my mind, Johnny 5 just looked so spectacular in his golden assembly. There were a few things that were gold that stand out to me as a kid and because of this I have an affinity towards gold, even if it's just cheap plated plastic, it's not really the quality that matters, even if it's faux, it's the  representation that matters. 
 
 ![](12.jpg)
-It's really just a ton of cutting and sanding, this took me forever to do on nearly every single piece in the kit. 
+When thinking about this project and researching it also made me realize that the plot of Chappie and a lot of the design elements are lifted directly from Short Circuit, I have no idea why I never put this together before but once I saw the parallels it made a whole lot of sense. Most likely Neill was also influenced a lot by this movie. 
+
+## GOLDEN Painting
 
 ![](13.jpg)
-Some parts you can just clip, while others you need to sand delicately down. 
+That's a whole lot of gold, like A LOT. 
 
 ![](14.jpg)
-I used a pick to clean off some of the more intricate parts also. 
 
 ![](15.jpg)
-After about a week of working on these parts for about 2 hours every night, I finally was finished with this portion. It was tedious but necessary. 
 
 ![](16.jpg)
+Ok finally some other colors, I used a metallic bronze and also black for contrast (of course). 
 
 ![](17.jpg)
+I was really skeptical on how this gold spray was going to look but, it was coming out really good, so I was surprised. 
 
 ![](18.jpg)
-Now that I'm done with this, check out future episodes in this series! 
+This kit has a lot of parts, a lot of little parts! Now they're golden little parts. 
+
+So much more to do, stay tuned for part 3! 
