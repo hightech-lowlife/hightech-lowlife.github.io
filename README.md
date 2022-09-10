@@ -1,3 +1,14 @@
+# 033 \\\ THE MOOSE - CHAPPiE - Model Resin Kit - Part 2 \\\
+----------------------------------------------------------------------
+
+[Check out the video and full write-up here \\\ 033 THE MOOSE - CHAPPiE - Model Resin Kit - Part 2](https://hightech-lowlife.github.io/projects/033_moose_part2/033_moose_part2)
+
+Part 2 of the epic CHAPPiE MOOSE! This time we finally start assembling and painting! Things go wrong, and also golden. 
+
+[![img](https://hightech-lowlife.github.io/projects/033_moose_part2/18.jpg)](https://hightech-lowlife.github.io/projects/033_moose_part2/033_moose_part2)
+
+\\\\\\\\\\
+
 # 032 \\\ Dual Battery Pok3r Wireless Conversion \\\
 ----------------------------------------------------------------------
 
