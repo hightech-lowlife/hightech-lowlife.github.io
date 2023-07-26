@@ -194,7 +194,7 @@ Seems like a lot of work just for a skeleton of a chassis but it was fun so far,
 
 ## Front LCD screen
 
-![](../part2_screen.jpg)
+![](../007_digi_camo_ebike/part2_screen.jpg)
 
 Now that I've swapped out the Sabvoton SVMC7280 for the larger and more powerful SVMC72150 I was able to get a display (which was the main reason for making this swap). I sold the 80A controller and barrowed the 150A with the LCD from my 2nd ebike. This screen did not fit the handlebars very well and I didn't like the angle at which it sat at even with the longer screws. 
 
